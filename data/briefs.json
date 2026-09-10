@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-08-31T09:00:00-05:00",
+  "updatedAt": "2026-09-10T15:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-09-10",
+      "headline": "Thursday Signal Brief",
+      "lead": "Agentic commerce is moving from discovery into the trust layer. Visa, Mastercard and Ant International are working on shared standards for identifying and verifying shopping agents, while India's payments authority is building an agent registry for UPI. Meanwhile, Meta's new Muse agent can shop and complete checkout, pushing AI commerce another step closer to autonomous transactions.",
+      "items": [
+        {
+          "id": "visa-mastercard-ant-kya",
+          "category": "agentic-commerce",
+          "title": "Visa, Mastercard and Ant build a 'Know Your Agent' framework",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/payment-firms-visa-mastercard-ant-international-team-up-ai-agent-trust-framework-2026-09-10/",
+          "summary": "The payments giants are developing common standards to identify and verify AI agents that purchase for users, giving card networks, wallets and marketplaces a shared trust layer.",
+          "tags": ["payments", "trust", "KYA"],
+          "significance": "high",
+          "publishedAt": "2026-09-10"
+        },
+        {
+          "id": "india-upi-agent-registry",
+          "category": "agentic-commerce",
+          "title": "India is building a registry for AI agents that make payments",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/india/india-plans-ai-registry-it-looks-roll-out-agentic-payments-sources-say-2026-09-10/",
+          "summary": "NPCI plans to vet and monitor agents making transactions on UPI, initially targeting small recurring purchases before expanding toward more complex autonomous buying.",
+          "tags": ["UPI", "payments", "identity"],
+          "significance": "high",
+          "publishedAt": "2026-09-10"
+        },
+        {
+          "id": "meta-muse-shopping-agent",
+          "category": "agentic-commerce",
+          "title": "Meta's Muse can shop and navigate checkout for users",
+          "source": "Vogue Business",
+          "url": "https://www.vogue.com/article/metas-new-ai-agent-can-shop-for-you",
+          "summary": "Meta's new personal agent lives across WhatsApp, Instagram and Facebook and can find products, navigate checkout and present the final transaction for user approval.",
+          "tags": ["Meta", "shopping agent", "checkout"],
+          "significance": "high",
+          "publishedAt": "2026-09-08"
+        },
+        {
+          "id": "shopify-meta-ai-channel",
+          "category": "agentic-commerce",
+          "title": "Shopify turns Meta into an AI commerce channel",
+          "source": "Shopify",
+          "url": "https://changelog.shopify.com/posts/meta-is-now-an-ai-channel-in-your-admin",
+          "summary": "Shopify merchants can make their catalogs available through Meta's AI surfaces, turning social discovery into another agentic commerce channel tied to Shopify infrastructure.",
+          "tags": ["Shopify", "Meta", "AI channel"],
+          "significance": "high",
+          "publishedAt": "2026-09-08"
+        },
+        {
+          "id": "shopify-ucp-0825",
+          "category": "agentic-commerce",
+          "title": "Shopify adds support for the latest UCP specification",
+          "source": "Shopify Developers",
+          "url": "https://shopify.dev/changelog/08-25-is-now-supported",
+          "summary": "Shopify storefront infrastructure is moving with the versioned Universal Commerce Protocol, making agent-facing commerce capabilities increasingly concrete for merchants.",
+          "tags": ["Shopify", "UCP", "protocol"],
+          "significance": "high",
+          "publishedAt": "2026-09-08"
+        },
+        {
+          "id": "know-your-agent-banking",
+          "category": "ai-foundations",
+          "title": "Banks are starting to think about 'Know Your Agent'",
+          "source": "Financial Express",
+          "url": "https://www.financialexpress.com/business/banking-finance-setty-bats-for-know-your-agent-framework-as-ai-enters-banking-4336334/",
+          "summary": "India's banking leadership is calling for identity, consent, transaction limits, audit trails and revocation mechanisms as agents begin participating directly in financial transactions.",
+          "tags": ["banking", "identity", "risk"],
+          "significance": "medium",
+          "publishedAt": "2026-09-10"
+        },
+        {
+          "id": "agentic-commerce-marketplaces",
+          "category": "agentic-commerce",
+          "title": "AI shopping traffic could push more merchants toward marketplaces",
+          "source": "TechRadar Pro",
+          "url": "https://www.techradar.com/pro/will-agentic-commerce-push-more-merchants-into-marketplaces",
+          "summary": "As AI-referred shopping traffic concentrates around large marketplaces, smaller DTC brands face a new question: optimize for agents directly or rely on marketplaces to provide the transaction layer.",
+          "tags": ["marketplaces", "DTC", "discovery"],
+          "significance": "medium",
+          "publishedAt": "2026-09-10"
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "headline": "Monday Signal Brief",
