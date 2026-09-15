@@ -1,66 +1,27 @@
 {
-  "updatedAt": "2026-09-14T10:00:00-05:00",
+  "updatedAt": "2026-09-15T09:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-09-15",
+      "headline": "Tuesday Signal Brief",
+      "lead": "AI commerce is moving another step toward infrastructure. Cloudflare is changing how AI agents reach websites, Salesforce is putting agents into real operational workflows at Dreamforce, and Shopify is continuing to expand the API layer behind agentic commerce. For ecommerce teams, the practical question is becoming less about whether AI will influence shopping and more about how your storefront, catalog and systems will behave when the buyer is an agent.",
+      "items": [
+        {"id":"cloudflare-agent-defaults-sep15","category":"agentic-commerce","title":"Cloudflare changes the default rules for AI agents","source":"Cloudflare","url":"https://blog.cloudflare.com/content-independence-day-ai-options/","summary":"Starting today, new Cloudflare domains and qualifying existing free sites with ads default to allowing search crawlers while blocking AI training and agent traffic. Merchants now need to make an explicit decision about how AI agents should access their storefront content.","tags":["Cloudflare","AI crawlers","agentic commerce"],"significance":"high","publishedAt":"2026-09-15"},
+        {"id":"salesforce-air-india-agentforce-sep15","category":"marketing-automation","title":"Air India expands Agentforce into end-to-end service workflows","source":"Salesforce","url":"https://www.salesforce.com/in/news/press-releases/2026/09/15/air-india-accelerates-customer-service-transformation-with-agentforce/?bc=OTH","summary":"Air India is expanding Agentforce beyond refund processing into broader service workflows. Salesforce says refund turnaround fell from about 14 days to 4 hours and passenger-name updates from 3 days to 30 minutes, showing agents executing across connected enterprise systems rather than simply answering questions.","tags":["Salesforce","Agentforce","customer service"],"significance":"high","publishedAt":"2026-09-15"},
+        {"id":"shopify-api-2026-10-rc","category":"ai-foundations","title":"Shopify opens its 2026-10 API release candidate","source":"Shopify Developers","url":"https://shopify.dev/release-notes/2026-10","summary":"Shopify's 2026-10 release candidate adds changes across orders, metafields, customer accounts, tax, analytics and Storefront APIs. For teams building agentic storefronts and integrations, the underlying commerce API surface continues to evolve quickly ahead of the October 1 stable release.","tags":["Shopify","API","Storefront API"],"significance":"medium","publishedAt":"2026-09-15"},
+        {"id":"salesforce-dreamforce-agentic-enterprise","category":"agentic-commerce","title":"Dreamforce puts the agentic enterprise at the center","source":"Salesforce","url":"https://www.salesforce.com/plus/experience/dreamforce_2026?bc=OTH&d=7013y000002A9AeAAK&nc=701ed00000ETM9rAAH","summary":"Salesforce's Dreamforce 2026 opening centers on Agentforce, AIforce, enterprise data and AI governance. The broader direction matters to commerce teams because Salesforce is positioning agents as a layer across customer data, workflows and business applications.","tags":["Salesforce","Dreamforce","agentic enterprise"],"significance":"medium","publishedAt":"2026-09-15"}
+      ]
+    },
     {
       "date": "2026-09-14",
       "headline": "Monday Signal Brief",
       "lead": "The AI commerce stack is getting more operational. Salesforce is moving agents from chat into long-running commerce work, Instacart is turning its shopping intelligence into a white-label product for retailers, and Amazon is extending shoppable video across thousands of titles. For ecommerce teams, the takeaway is simple: AI is becoming another place where the catalog, merchandising, checkout and customer-service stack has to work together.",
       "items": [
-        {
-          "id": "salesforce-agentforce-commerce-sep14",
-          "category": "agentic-commerce",
-          "title": "Salesforce puts a job-ready shopper agent into Agentforce",
-          "source": "Salesforce",
-          "url": "https://www.salesforce.com/ap/news/press-releases/2026/09/14/ph-salesforce-expands-agentforce-with-a-new-portfolio-of-ai-agents-built-for-high-value-work/",
-          "summary": "Salesforce's new Carter shopper agent can discover and compare products, answer questions and convert with in-chat checkout. The broader Agentforce update also adds long-horizon agents that can pursue goals across days or weeks.",
-          "tags": ["Salesforce", "Agentforce", "shopper agent"],
-          "significance": "high",
-          "publishedAt": "2026-09-14"
-        },
-        {
-          "id": "instacart-cart-assistant-retailers",
-          "category": "ai-merchandising",
-          "title": "Instacart turns its AI shopping engine into a retailer product",
-          "source": "Instacart",
-          "url": "https://company.instacart.com/enterprise-blog/instacart-brings-its-ai-powered-shopping-technology-to-grocers-own-websites-and-apps",
-          "summary": "Instacart is bringing the AI behind Clementine to retailers through Cart Assistant, a branded shopping agent that works across a retailer's own catalog, customer data and storefront.",
-          "tags": ["Instacart", "retailers", "shopping agent"],
-          "significance": "high",
-          "publishedAt": "2026-09-09"
-        },
-        {
-          "id": "amazon-prime-video-shop-show",
-          "category": "marketing-automation",
-          "title": "Amazon expands shoppable video across thousands of Prime Video titles",
-          "source": "Amazon",
-          "url": "https://press.aboutamazon.com/prime-video",
-          "summary": "Amazon is expanding its Shop the Show experience across thousands of Prime Video titles, tightening the connection between entertainment, product discovery and purchase intent.",
-          "tags": ["Amazon", "shoppable video", "discovery"],
-          "significance": "high",
-          "publishedAt": "2026-09-10"
-        },
-        {
-          "id": "shopify-ai-catalog-filtering",
-          "category": "ai-merchandising",
-          "title": "AI shopping is making catalog quality a ranking problem",
-          "source": "The Agentic Operator",
-          "url": "https://theagenticoperator.co/",
-          "summary": "Shopify-focused operator research is highlighting how AI systems filter catalogs against shopper intent. Structured attributes, accurate product data and clear merchandising signals increasingly determine which products agents consider.",
-          "tags": ["Shopify", "catalog", "GEO"],
-          "significance": "high",
-          "publishedAt": "2026-09-14"
-        },
-        {
-          "id": "salesforce-ai-control-plane",
-          "category": "ai-foundations",
-          "title": "Salesforce adds an AI control layer for enterprise agents",
-          "source": "Salesforce",
-          "url": "https://www.salesforce.com/ap/news/press-releases/2026/09/14/salesforce-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7-trusted-enterprise-ai-harness-%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/",
-          "summary": "Salesforce introduced a Trusted Enterprise AI Harness and AI control-plane approach aimed at giving agents shared context, governance and controls across an open enterprise AI stack.",
-          "tags": ["Salesforce", "governance", "control plane"],
-          "significance": "medium",
-          "publishedAt": "2026-09-14"
-        }
+        {"id":"salesforce-agentforce-commerce-sep14","category":"agentic-commerce","title":"Salesforce puts a job-ready shopper agent into Agentforce","source":"Salesforce","url":"https://www.salesforce.com/ap/news/press-releases/2026/09/14/ph-salesforce-expands-agentforce-with-a-new-portfolio-of-ai-agents-built-for-high-value-work/","summary":"Salesforce's new Carter shopper agent can discover and compare products, answer questions and convert with in-chat checkout. The broader Agentforce update also adds long-horizon agents that can pursue goals across days or weeks.","tags":["Salesforce","Agentforce","shopper agent"],"significance":"high","publishedAt":"2026-09-14"},
+        {"id":"instacart-cart-assistant-retailers","category":"ai-merchandising","title":"Instacart turns its AI shopping engine into a retailer product","source":"Instacart","url":"https://company.instacart.com/enterprise-blog/instacart-brings-its-ai-powered-shopping-technology-to-grocers-own-websites-and-apps","summary":"Instacart is bringing the AI behind Clementine to retailers through Cart Assistant, a branded shopping agent that works across a retailer's own catalog, customer data and storefront.","tags":["Instacart","retailers","shopping agent"],"significance":"high","publishedAt":"2026-09-09"},
+        {"id":"amazon-prime-video-shop-show","category":"marketing-automation","title":"Amazon expands shoppable video across thousands of Prime Video titles","source":"Amazon","url":"https://press.aboutamazon.com/prime-video","summary":"Amazon is expanding its Shop the Show experience across thousands of Prime Video titles, tightening the connection between entertainment, product discovery and purchase intent.","tags":["Amazon","shoppable video","discovery"],"significance":"high","publishedAt":"2026-09-10"},
+        {"id":"shopify-ai-catalog-filtering","category":"ai-merchandising","title":"AI shopping is making catalog quality a ranking problem","source":"The Agentic Operator","url":"https://theagenticoperator.co/","summary":"Shopify-focused operator research is highlighting how AI systems filter catalogs against shopper intent. Structured attributes, accurate product data and clear merchandising signals increasingly determine which products agents consider.","tags":["Shopify","catalog","GEO"],"significance":"high","publishedAt":"2026-09-14"},
+        {"id":"salesforce-ai-control-plane","category":"ai-foundations","title":"Salesforce adds an AI control layer for enterprise agents","source":"Salesforce","url":"https://www.salesforce.com/ap/news/press-releases/2026/09/14/salesforce-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7-trusted-enterprise-ai-harness-%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/","summary":"Salesforce introduced a Trusted Enterprise AI Harness and AI control-plane approach aimed at giving agents shared context, governance and controls across an open enterprise AI stack.","tags":["Salesforce","governance","control plane"],"significance":"medium","publishedAt":"2026-09-14"}
       ]
     },
     {
