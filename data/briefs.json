@@ -1,1 +1,669 @@
-{"updatedAt":"2026-09-19T09:00:00-05:00","briefs":[{"date":"2026-09-19","headline":"Saturday Signal Brief","lead":"The next layer of AI commerce is showing up in the systems around the storefront. Salesforce is extending its agent stack into physical work and shopping workflows, while payment and commerce platforms continue moving toward agents that can act with permission instead of simply answer questions.","items":[{"id":"snap-salesforce-agentforce-specs-sep19","category":"marketing-automation","title":"Snap brings Salesforce Agentforce into enterprise retail workflows","source":"Reuters","url":"https://www.reuters.com/business/snap-targets-enterprises-with-salesforce-nvidia-ai-tools-augmented-reality-2026-09-16/","summary":"Snap's new Specs enterprise program integrates Salesforce Agentforce for retail and field-service use cases. The signal for commerce operators is that AI assistance is expanding beyond the storefront into in-store operations, service and hands-free employee workflows.","tags":["Snap","Salesforce","retail operations"],"significance":"medium","publishedAt":"2026-09-16"},{"id":"salesforce-agentforce-commerce-july06","category":"agentic-commerce","title":"Salesforce makes shopper, buyer and merchant agents generally available","source":"Salesforce","url":"https://www.salesforce.com/ap/news/press-releases/2026/07/06/as-ai-agents-transform-commerce-salesforce-unleashes-its-biggest-agentforce-commerce-release-yet/?bc=OTH","summary":"Salesforce says Shopper Agent, Buyer Agent and Merchant Agent are generally available across B2C, B2B, order management and point of sale. The practical shift is from bolt-on chat to agents connected directly to catalog, inventory, orders and service workflows.","tags":["Salesforce","Commerce Cloud","shopper agent"],"significance":"high","publishedAt":"2026-07-06"},{"id":"anthropic-commerce-agent-blueprint-sep03","category":"ai-foundations","title":"Anthropic gives retailers a blueprint for building Claude commerce agents","source":"PYMNTS","url":"https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-built-the-shopping-brain-and-skipped-the-wallet/","summary":"Anthropic's commerce-agent blueprint gives retailers prebuilt patterns for catalog search, product comparison and cart creation on Claude, while leaving payment and checkout to retailers and partners. Teams will need to treat agent behavior, catalog structure and transaction infrastructure as separate layers.","tags":["Anthropic","Claude","commerce agents"],"significance":"high","publishedAt":"2026-09-03"}]},{"date":"2026-09-18","headline":"Friday Signal Brief","lead":"Agentic commerce is closing the gap between discovery and transaction. This week brought new payment rails from Mastercard, deeper commerce-agent infrastructure from Salesforce, and a more operational AI layer inside Shopify. The operator shift is becoming clearer: product data, permissions, payments, measurement and admin workflows are all becoming part of the commerce stack.","items":[{"id":"salesforce-aiforce-sep18","category":"ai-foundations","title":"Salesforce positions AIforce as a new interface layer for commerce teams","source":"Salesforce","url":"https://www.salesforce.com/news/stories/aiforce-agentforce-dreamforce-2026/","summary":"Salesforce is positioning AIforce, ClaudeForce and related agent surfaces as a way to access CRM data, workflows and agents through natural-language interfaces. For commerce teams, the implication is a shift from fixed application screens toward agent-led work across customer, catalog and service data.","tags":["Salesforce","AIforce","Agentforce"],"significance":"high","publishedAt":"2026-09-18"},{"id":"shopify-admin-new-look-sep18","category":"ai-foundations","title":"Shopify moves Sidekick into the core admin workflow","source":"Shopify Developers","url":"https://shopify.dev/changelog/prepare-your-app-for-the-shopify-admins-new-look","summary":"Shopify's new admin look moves Sidekick from a side panel into a floating chat surface and updates the surrounding UI framework. App teams need to account for the new Polaris 2.0 styling and a more persistent AI entry point inside merchant operations.","tags":["Shopify","Sidekick","admin"],"significance":"medium","publishedAt":"2026-09-15"},{"id":"mastercard-alchemy-agentic-payments-friday","category":"agentic-commerce","title":"Mastercard brings agentic payments into developer tooling","source":"The Wall Street Journal","url":"https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b","summary":"Mastercard and Alchemy are connecting agentic payment capabilities to tools that let AI agents transact with user-defined spending limits, merchant controls and authorization rules. Payments are moving from a future concept toward an implementation detail merchants will need to understand.","tags":["Mastercard","payments","AI agents"],"significance":"high","publishedAt":"2026-09-17"},{"id":"azoma-dunnhumby-agentic-commerce-sep18","category":"ai-merchandising","title":"dunnhumby backs a platform for measuring AI shopping visibility","source":"Azoma","url":"https://www.azoma.ai/insights/azoma-receives-investment-from-dunnhumby-ventures-to-accelerate-its-agentic-commerce-optimization-platform","summary":"dunnhumby Ventures invested in Azoma, a platform built to measure how AI shopping agents discover and recommend products. AI visibility is becoming a measurable commerce channel rather than just an SEO problem.","tags":["dunnhumby","Azoma","AI visibility"],"significance":"high","publishedAt":"2026-09-18"},{"id":"weekly-wrap-up-sep18","category":"ai-foundations","title":"Weekly Wrap-Up: AI is becoming another commerce channel","source":"SignalGrid","url":"https://covert-digital.com/signals/","summary":"This week's biggest shift was the convergence of discovery, catalog data, agents and payments. Shopify and Salesforce are building more commerce infrastructure for AI-driven journeys; Mastercard and other payment networks are working on agent authorization; and new optimization platforms are emerging to measure whether products are discovered and recommended by AI. For ecommerce teams, treat machine-readable product data, AI visibility, agent permissions and AI-referred revenue as parts of the same emerging channel.","tags":["weekly wrap-up","agentic commerce","ecommerce operations"],"significance":"high","publishedAt":"2026-09-18"}]},{"date":"2026-09-17","headline":"Thursday Signal Brief","lead":"Agentic commerce is moving deeper into the payment layer.","items":[{"id":"mastercard-alchemy-agentic-payments-sep17","category":"agentic-commerce","title":"Mastercard moves AI-agent payments toward everyday shopping","source":"The Wall Street Journal","url":"https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b","summary":"Mastercard plans to roll out an agentic payment option with Alchemy that lets AI bots use virtual cards with preset spending and product limits.","tags":["Mastercard","payments","AI agents"],"significance":"high","publishedAt":"2026-09-17"},{"id":"shopify-ai-events-sep16","category":"ai-foundations","title":"Shopify updates event payloads for more precise change tracking","source":"Shopify Developers","url":"https://shopify.dev/changelog/updates-to-events-payloads-and-subscription-configuration","summary":"Shopify Events payloads now distinguish added, updated and removed fields, making real-time catalog and order workflows easier to build.","tags":["Shopify","events","APIs"],"significance":"medium","publishedAt":"2026-09-16"},{"id":"salesforce-commerce-innovations-sep16","category":"agentic-commerce","title":"Salesforce expands its commerce agent stack at Dreamforce","source":"Salesforce","url":"https://www.salesforce.com/commerce/innovations/","summary":"Salesforce is rolling out contextual Carter shopping assistance, product comparisons, UCP-powered checkout on Google surfaces and AI-powered product categorization.","tags":["Salesforce","Commerce Cloud","UCP"],"significance":"high","publishedAt":"2026-09-16"}]},{"date":"2026-09-16","headline":"Wednesday Signal Brief","lead":"The agentic commerce stack is spreading beyond storefronts.","items":[{"id":"dhl-alibaba-accio-sep16","category":"agentic-commerce","title":"DHL and Alibaba connect logistics to an AI commerce agent","source":"Practical Ecommerce","url":"https://www.practicalecommerce.com/new-ecommerce-tools-september-16-2026","summary":"DHL and Alibaba.com are exploring integration of freight quotes and booking into Alibaba's Accio agentic platform.","tags":["Alibaba","DHL","logistics"],"significance":"high","publishedAt":"2026-09-16"},{"id":"shipt-ai-shopping-assistant-sep16","category":"ai-merchandising","title":"Shipt launches an AI shopping assistant","source":"Practical Ecommerce","url":"https://www.practicalecommerce.com/new-ecommerce-tools-september-16-2026","summary":"Ask Shipt lets shoppers describe what they want, upload a recipe or share a photo before choosing a retailer from its marketplace.","tags":["Shipt","shopping assistant","discovery"],"significance":"high","publishedAt":"2026-09-16"},{"id":"jungle-scout-ai-solutions-sep16","category":"ai-merchandising","title":"Jungle Scout brings Amazon seller data into AI tools","source":"Practical Ecommerce","url":"https://www.practicalecommerce.com/new-ecommerce-tools-september-16-2026","summary":"Jungle Scout launched AI Solutions and an MCP that brings marketplace data into Claude, ChatGPT, Gemini Enterprise and Copilot.","tags":["Amazon","Jungle Scout","MCP"],"significance":"medium","publishedAt":"2026-09-16"}]},{"date":"2026-09-15","headline":"Tuesday Signal Brief","lead":"AI commerce is moving another step toward infrastructure.","items":[{"id":"cloudflare-agent-defaults-sep15","category":"agentic-commerce","title":"Cloudflare changes the default rules for AI agents","source":"Cloudflare","url":"https://blog.cloudflare.com/content-independence-day-ai-options/","summary":"New Cloudflare domains and qualifying sites with ads default to allowing search crawlers while blocking AI training and agent traffic.","tags":["Cloudflare","AI crawlers","agentic commerce"],"significance":"high","publishedAt":"2026-09-15"},{"id":"salesforce-air-india-agentforce-sep15","category":"marketing-automation","title":"Air India expands Agentforce into end-to-end service workflows","source":"Salesforce","url":"https://www.salesforce.com/in/news/press-releases/2026/09/15/air-india-accelerates-customer-service-transformation-with-agentforce/?bc=OTH","summary":"Air India is expanding Agentforce beyond refund processing into broader multi-intent service workflows.","tags":["Salesforce","Agentforce","customer service"],"significance":"high","publishedAt":"2026-09-15"},{"id":"shopify-api-2026-10-rc","category":"ai-foundations","title":"Shopify opens its 2026-10 API release candidate","source":"Shopify Developers","url":"https://shopify.dev/release-notes/2026-10","summary":"Shopify's 2026-10 release candidate adds changes across orders, metafields, customer accounts, tax, analytics and Storefront APIs.","tags":["Shopify","API","Storefront API"],"significance":"medium","publishedAt":"2026-09-15"},{"id":"salesforce-dreamforce-agentic-enterprise-sep15","category":"ai-foundations","title":"Dreamforce puts the agentic enterprise at the center of Salesforce's roadmap","source":"Salesforce","url":"https://www.salesforce.com/plus/experience/dreamforce_2026","summary":"Dreamforce is centering Agentforce, AI governance, Customer 360 and enterprise AI infrastructure.","tags":["Salesforce","Dreamforce","agentic enterprise"],"significance":"medium","publishedAt":"2026-09-15"}]},{"date":"2026-09-14","headline":"Monday Signal Brief","lead":"The AI commerce stack is getting more operational.","items":[{"id":"salesforce-agentforce-commerce-sep14","category":"agentic-commerce","title":"Salesforce puts a job-ready shopper agent into Agentforce","source":"Salesforce","url":"https://www.salesforce.com/ap/news/press-releases/2026/09/14/ph-salesforce-expands-agentforce-with-a-new-portfolio-of-ai-agents-built-for-high-value-work/","summary":"Carter can discover and compare products, answer questions and convert with in-chat checkout; Salesforce also added long-horizon agents.","tags":["Salesforce","Agentforce","shopper agent"],"significance":"high","publishedAt":"2026-09-14"},{"id":"instacart-cart-assistant-retailers","category":"ai-merchandising","title":"Instacart turns its AI shopping engine into a retailer product","source":"Instacart","url":"https://company.instacart.com/enterprise-blog/instacart-brings-its-ai-powered-shopping-technology-to-grocers-own-websites-and-apps","summary":"Cart Assistant brings Instacart's shopping agent capabilities to retailers' own catalogs, customer data and storefronts.","tags":["Instacart","retailers","shopping agent"],"significance":"high","publishedAt":"2026-09-09"},{"id":"amazon-prime-video-shop-show","category":"marketing-automation","title":"Amazon expands shoppable video across thousands of Prime Video titles","source":"Amazon","url":"https://press.aboutamazon.com/prime-video","summary":"Amazon is expanding Shop the Show across thousands of Prime Video titles, tightening the connection between entertainment and purchase intent.","tags":["Amazon","shoppable video","discovery"],"significance":"high","publishedAt":"2026-09-10"},{"id":"shopify-ai-catalog-filtering","category":"ai-merchandising","title":"AI shopping is making catalog quality a ranking problem","source":"The Agentic Operator","url":"https://theagenticoperator.co/","summary":"Structured attributes, accurate product data and clear merchandising signals increasingly determine which products agents consider.","tags":["Shopify","catalog","GEO"],"significance":"high","publishedAt":"2026-09-14"},{"id":"salesforce-ai-control-plane","category":"ai-foundations","title":"Salesforce adds an AI control layer for enterprise agents","source":"Salesforce","url":"https://www.salesforce.com/ap/news/press-releases/2026/09/14/salesforce-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7-trusted-enterprise-ai-harness-%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/","summary":"Salesforce introduced a Trusted Enterprise AI Harness and control-plane approach for shared context, governance and controls.","tags":["Salesforce","governance","control plane"],"significance":"medium","publishedAt":"2026-09-14"}]},{"date":"2026-09-11","headline":"Friday Signal Brief","lead":"AI commerce is starting to look like an advertising channel, not just a shopping interface.","items":[{"id":"amazon-ads-chatgpt","category":"marketing-automation","title":"Amazon Ads brings advertising into ChatGPT","source":"Amazon Ads","url":"https://advertising.amazon.com/en-ca/library/news/amazon-ads-chat-gpt-advertising-integration","summary":"Amazon DSP advertisers can extend campaigns into ChatGPT's conversational ad inventory in a U.S. pilot.","tags":["Amazon","ChatGPT","paid media"],"significance":"high","publishedAt":"2026-09-10"},{"id":"target-ai-shopping-features","category":"ai-merchandising","title":"Target expands AI across discovery, reviews and reordering","source":"Target","url":"https://corporate.target.com/news-features/article/2026/09/digital-tools","summary":"Target is combining AI photo search, review summaries and personalized reordering experiences.","tags":["Target","discovery","personalization"],"significance":"high","publishedAt":"2026-09-08"},{"id":"ai-commerce-paid-organic-visibility","category":"marketing-automation","title":"AI shopping is creating a paid-versus-organic visibility problem","source":"TechRadar Pro","url":"https://www.techradar.com/pro/why-ai-visibility-now-demands-paid-and-organic-geo-optimization","summary":"Brands will need to measure organic product recommendations separately from paid placements inside AI interfaces.","tags":["GEO","ACO","AI visibility"],"significance":"high","publishedAt":"2026-09-07"},{"id":"meta-muse-commerce-trust","category":"agentic-commerce","title":"Meta's Muse puts consumer trust at the center of AI shopping","source":"Reuters","url":"https://www.reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08/","summary":"Muse can access shopping and payment apps, highlighting the trust and security requirements for delegated purchasing.","tags":["Meta","trust","shopping agent"],"significance":"high","publishedAt":"2026-09-08"},{"id":"ai-agent-commerce-measurement","category":"ai-foundations","title":"NIQ and Similarweb build measurement for agentic commerce","source":"NIQ","url":"https://investors.nielseniq.com/news/news-details/2026/NIQ-and-Similarweb-Advance-Agentic-Commerce-Measurement-for-the-AI-Shopping-Era/default.aspx","summary":"The companies are connecting AI discovery, product content, traffic and sales conversion into an emerging measurement stack.","tags":["measurement","Similarweb","AI traffic"],"significance":"medium","publishedAt":"2026-09-02"},{"id":"kroger-ecommerce-retail-media","category":"marketing-automation","title":"Kroger leans on ecommerce and retail media as consumer spending slows","source":"Reuters","url":"https://www.reuters.com/business/retail-consumer/kroger-cuts-annual-sales-forecast-2026-09-11/","summary":"Kroger pointed to higher-margin ecommerce and retail media as part of the profit cushion.","tags":["Kroger","retail media","ecommerce"],"significance":"medium","publishedAt":"2026-09-11"}]},{"date":"2026-09-10","headline":"Thursday Signal Brief","lead":"Agentic commerce is moving from discovery into the trust layer.","items":[{"id":"visa-mastercard-ant-kya","category":"agentic-commerce","title":"Visa, Mastercard and Ant build a 'Know Your Agent' framework","source":"Reuters","url":"https://www.reuters.com/technology/payment-firms-visa-mastercard-ant-international-team-up-ai-agent-trust-framework-2026-09-10/","summary":"The payments giants are developing common standards to identify and verify AI agents that purchase for users, giving card networks, wallets and marketplaces a shared trust layer.","tags":["payments","trust","KYA"],"significance":"high","publishedAt":"2026-09-10"},{"id":"india-upi-agent-registry","category":"agentic-commerce","title":"India is building a registry for AI agents that make payments","source":"Reuters","url":"https://www.reuters.com/world/india/india-plans-ai-registry-it-looks-roll-out-agentic-payments-sources-say-2026-09-10/","summary":"NPCI plans to vet and monitor agents making transactions on UPI, initially targeting small recurring purchases before expanding toward more complex autonomous buying.","tags":["UPI","payments","identity"],"significance":"high","publishedAt":"2026-09-10"},{"id":"meta-muse-shopping-agent","category":"agentic-commerce","title":"Meta's Muse can shop and navigate checkout for users","source":"Vogue Business","url":"https://www.vogue.com/article/metas-new-ai-agent-can-shop-for-you","summary":"Meta's personal agent can find products, navigate checkout and present the final transaction for user approval.","tags":["Meta","shopping agent","checkout"],"significance":"high","publishedAt":"2026-09-08"},{"id":"shopify-meta-ai-channel","category":"agentic-commerce","title":"Shopify turns Meta into an AI commerce channel","source":"Shopify","url":"https://changelog.shopify.com/posts/meta-is-now-an-ai-channel-in-your-admin","summary":"Shopify merchants can make their catalogs available through Meta's AI surfaces, turning social discovery into another agentic commerce channel tied to Shopify infrastructure.","tags":["Shopify","Meta","AI channel"],"significance":"high","publishedAt":"2026-09-08"},{"id":"shopify-ucp-0825","category":"agentic-commerce","title":"Shopify adds support for the latest UCP specification","source":"Shopify Developers","url":"https://shopify.dev/changelog/08-25-is-now-supported","summary":"Shopify storefront infrastructure is moving with the versioned Universal Commerce Protocol, making agent-facing commerce capabilities increasingly concrete for merchants.","tags":["Shopify","UCP","protocol"],"significance":"high","publishedAt":"2026-09-08"},{"id":"know-your-agent-banking","category":"ai-foundations","title":"Banks are starting to think about 'Know Your Agent'","source":"Financial Express","url":"https://www.financialexpress.com/business/banking-finance-setty-bats-for-know-your-agent-framework-as-ai-enters-banking-4336334/","summary":"India's banking leadership is calling for identity, consent, transaction limits, audit trails and revocation mechanisms as agents begin participating directly in financial transactions.","tags":["banking","identity","risk"],"significance":"medium","publishedAt":"2026-09-10"},{"id":"agentic-commerce-marketplaces","category":"agentic-commerce","title":"AI shopping traffic could push more merchants toward marketplaces","source":"TechRadar Pro","url":"https://www.techradar.com/pro/will-agentic-commerce-push-more-merchants-into-marketplaces","summary":"As AI-referred shopping traffic concentrates around large marketplaces, smaller DTC brands face a new question: optimize for agents directly or rely on marketplaces to provide the transaction layer.","tags":["marketplaces","DTC","discovery"],"significance":"medium","publishedAt":"2026-09-10"}]}]}
+{
+  "updatedAt": "2026-09-21T09:00:00-05:00",
+  "briefs": [
+    {
+      "date": "2026-09-21",
+      "headline": "Monday Signal Brief",
+      "lead": "AI shopping is running into the next real-world constraint: platform access. Amazon has blocked Meta's Muse from shopping on its marketplace, while Shopify and Adobe are continuing to make their catalogs more accessible to AI-driven discovery. The emerging commerce stack is becoming a negotiation between agents, merchants and the platforms that control the transaction.",
+      "items": [
+        {
+          "id": "amazon-blocks-meta-muse-sep21",
+          "category": "agentic-commerce",
+          "title": "Amazon blocks Meta's Muse from shopping on its marketplace",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "summary": "Amazon has blocked Meta's Muse AI agent from making purchases on its site, citing unauthorized access and violations of its Conditions of Use. The dispute highlights a central agentic-commerce issue: who gets to access a retailer's catalog, customer accounts and checkout on a shopper's behalf.",
+          "tags": [
+            "Amazon",
+            "Meta",
+            "Muse",
+            "shopping agents"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-21"
+        },
+        {
+          "id": "shopify-2026-10-release-candidate-sep21",
+          "category": "ai-foundations",
+          "title": "Shopify's 2026-10 API release candidate reaches the final stretch",
+          "source": "Shopify Developers",
+          "url": "https://shopify.dev/release-notes/2026-10",
+          "summary": "Shopify's 2026-10 API release candidate is now in development testing ahead of its October 1 stable release. The version includes changes across orders, metafields, customer accounts, tax, analytics and Storefront APIs—important groundwork for teams building commerce integrations around AI workflows.",
+          "tags": [
+            "Shopify",
+            "API",
+            "Storefront API"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-21"
+        },
+        {
+          "id": "adobe-commerce-ai-discovery-sep21",
+          "category": "ai-merchandising",
+          "title": "Adobe Commerce pushes product discovery directly onto LLM surfaces",
+          "source": "Adobe",
+          "url": "https://business.adobe.com/blog/product-discovery-on-llm-surfaces-is-available-in-adobe-commerce",
+          "summary": "Adobe Commerce is making product discovery across ChatGPT, Copilot, Claude and Gemini a formal commerce surface. The focus is on structured product data, AI-readable attributes and feeds that help products become understood and recommended by LLMs.",
+          "tags": [
+            "Adobe Commerce",
+            "LLM",
+            "product discovery"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-08-07"
+        },
+        {
+          "id": "agentic-commerce-pioneers-demo-sep21",
+          "category": "agentic-commerce",
+          "title": "Shopping-agent builders are demonstrating end-to-end checkout today",
+          "source": "Agnic.AI",
+          "url": "https://pioneers.agnic.ai/",
+          "summary": "The Agentic Commerce Pioneers Edition II demo day is taking place September 21 after a five-day build sprint focused on agents that can move from product discovery through confirmed payment on existing merchant checkouts. The emphasis is shifting from shopping recommendations to completed transactions.",
+          "tags": [
+            "Agnic.AI",
+            "shopping agents",
+            "checkout"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "headline": "Saturday Signal Brief",
+      "lead": "The next layer of AI commerce is showing up in the systems around the storefront. Salesforce is extending its agent stack into physical work and shopping workflows, while payment and commerce platforms continue moving toward agents that can act with permission instead of simply answer questions.",
+      "items": [
+        {
+          "id": "snap-salesforce-agentforce-specs-sep19",
+          "category": "marketing-automation",
+          "title": "Snap brings Salesforce Agentforce into enterprise retail workflows",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/snap-targets-enterprises-with-salesforce-nvidia-ai-tools-augmented-reality-2026-09-16/",
+          "summary": "Snap's new Specs enterprise program integrates Salesforce Agentforce for retail and field-service use cases. The signal for commerce operators is that AI assistance is expanding beyond the storefront into in-store operations, service and hands-free employee workflows.",
+          "tags": [
+            "Snap",
+            "Salesforce",
+            "retail operations"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-16"
+        },
+        {
+          "id": "salesforce-agentforce-commerce-july06",
+          "category": "agentic-commerce",
+          "title": "Salesforce makes shopper, buyer and merchant agents generally available",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/ap/news/press-releases/2026/07/06/as-ai-agents-transform-commerce-salesforce-unleashes-its-biggest-agentforce-commerce-release-yet/?bc=OTH",
+          "summary": "Salesforce says Shopper Agent, Buyer Agent and Merchant Agent are generally available across B2C, B2B, order management and point of sale. The practical shift is from bolt-on chat to agents connected directly to catalog, inventory, orders and service workflows.",
+          "tags": [
+            "Salesforce",
+            "Commerce Cloud",
+            "shopper agent"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-07-06"
+        },
+        {
+          "id": "anthropic-commerce-agent-blueprint-sep03",
+          "category": "ai-foundations",
+          "title": "Anthropic gives retailers a blueprint for building Claude commerce agents",
+          "source": "PYMNTS",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-built-the-shopping-brain-and-skipped-the-wallet/",
+          "summary": "Anthropic's commerce-agent blueprint gives retailers prebuilt patterns for catalog search, product comparison and cart creation on Claude, while leaving payment and checkout to retailers and partners. Teams will need to treat agent behavior, catalog structure and transaction infrastructure as separate layers.",
+          "tags": [
+            "Anthropic",
+            "Claude",
+            "commerce agents"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-03"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "headline": "Friday Signal Brief",
+      "lead": "Agentic commerce is closing the gap between discovery and transaction. This week brought new payment rails from Mastercard, deeper commerce-agent infrastructure from Salesforce, and a more operational AI layer inside Shopify. The operator shift is becoming clearer: product data, permissions, payments, measurement and admin workflows are all becoming part of the commerce stack.",
+      "items": [
+        {
+          "id": "salesforce-aiforce-sep18",
+          "category": "ai-foundations",
+          "title": "Salesforce positions AIforce as a new interface layer for commerce teams",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/news/stories/aiforce-agentforce-dreamforce-2026/",
+          "summary": "Salesforce is positioning AIforce, ClaudeForce and related agent surfaces as a way to access CRM data, workflows and agents through natural-language interfaces. For commerce teams, the implication is a shift from fixed application screens toward agent-led work across customer, catalog and service data.",
+          "tags": [
+            "Salesforce",
+            "AIforce",
+            "Agentforce"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-18"
+        },
+        {
+          "id": "shopify-admin-new-look-sep18",
+          "category": "ai-foundations",
+          "title": "Shopify moves Sidekick into the core admin workflow",
+          "source": "Shopify Developers",
+          "url": "https://shopify.dev/changelog/prepare-your-app-for-the-shopify-admins-new-look",
+          "summary": "Shopify's new admin look moves Sidekick from a side panel into a floating chat surface and updates the surrounding UI framework. App teams need to account for the new Polaris 2.0 styling and a more persistent AI entry point inside merchant operations.",
+          "tags": [
+            "Shopify",
+            "Sidekick",
+            "admin"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-15"
+        },
+        {
+          "id": "mastercard-alchemy-agentic-payments-friday",
+          "category": "agentic-commerce",
+          "title": "Mastercard brings agentic payments into developer tooling",
+          "source": "The Wall Street Journal",
+          "url": "https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b",
+          "summary": "Mastercard and Alchemy are connecting agentic payment capabilities to tools that let AI agents transact with user-defined spending limits, merchant controls and authorization rules. Payments are moving from a future concept toward an implementation detail merchants will need to understand.",
+          "tags": [
+            "Mastercard",
+            "payments",
+            "AI agents"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-17"
+        },
+        {
+          "id": "azoma-dunnhumby-agentic-commerce-sep18",
+          "category": "ai-merchandising",
+          "title": "dunnhumby backs a platform for measuring AI shopping visibility",
+          "source": "Azoma",
+          "url": "https://www.azoma.ai/insights/azoma-receives-investment-from-dunnhumby-ventures-to-accelerate-its-agentic-commerce-optimization-platform",
+          "summary": "dunnhumby Ventures invested in Azoma, a platform built to measure how AI shopping agents discover and recommend products. AI visibility is becoming a measurable commerce channel rather than just an SEO problem.",
+          "tags": [
+            "dunnhumby",
+            "Azoma",
+            "AI visibility"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-18"
+        },
+        {
+          "id": "weekly-wrap-up-sep18",
+          "category": "ai-foundations",
+          "title": "Weekly Wrap-Up: AI is becoming another commerce channel",
+          "source": "SignalGrid",
+          "url": "https://covert-digital.com/signals/",
+          "summary": "This week's biggest shift was the convergence of discovery, catalog data, agents and payments. Shopify and Salesforce are building more commerce infrastructure for AI-driven journeys; Mastercard and other payment networks are working on agent authorization; and new optimization platforms are emerging to measure whether products are discovered and recommended by AI. For ecommerce teams, treat machine-readable product data, AI visibility, agent permissions and AI-referred revenue as parts of the same emerging channel.",
+          "tags": [
+            "weekly wrap-up",
+            "agentic commerce",
+            "ecommerce operations"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "headline": "Thursday Signal Brief",
+      "lead": "Agentic commerce is moving deeper into the payment layer.",
+      "items": [
+        {
+          "id": "mastercard-alchemy-agentic-payments-sep17",
+          "category": "agentic-commerce",
+          "title": "Mastercard moves AI-agent payments toward everyday shopping",
+          "source": "The Wall Street Journal",
+          "url": "https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b",
+          "summary": "Mastercard plans to roll out an agentic payment option with Alchemy that lets AI bots use virtual cards with preset spending and product limits.",
+          "tags": [
+            "Mastercard",
+            "payments",
+            "AI agents"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-17"
+        },
+        {
+          "id": "shopify-ai-events-sep16",
+          "category": "ai-foundations",
+          "title": "Shopify updates event payloads for more precise change tracking",
+          "source": "Shopify Developers",
+          "url": "https://shopify.dev/changelog/updates-to-events-payloads-and-subscription-configuration",
+          "summary": "Shopify Events payloads now distinguish added, updated and removed fields, making real-time catalog and order workflows easier to build.",
+          "tags": [
+            "Shopify",
+            "events",
+            "APIs"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-16"
+        },
+        {
+          "id": "salesforce-commerce-innovations-sep16",
+          "category": "agentic-commerce",
+          "title": "Salesforce expands its commerce agent stack at Dreamforce",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/commerce/innovations/",
+          "summary": "Salesforce is rolling out contextual Carter shopping assistance, product comparisons, UCP-powered checkout on Google surfaces and AI-powered product categorization.",
+          "tags": [
+            "Salesforce",
+            "Commerce Cloud",
+            "UCP"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "headline": "Wednesday Signal Brief",
+      "lead": "The agentic commerce stack is spreading beyond storefronts.",
+      "items": [
+        {
+          "id": "dhl-alibaba-accio-sep16",
+          "category": "agentic-commerce",
+          "title": "DHL and Alibaba connect logistics to an AI commerce agent",
+          "source": "Practical Ecommerce",
+          "url": "https://www.practicalecommerce.com/new-ecommerce-tools-september-16-2026",
+          "summary": "DHL and Alibaba.com are exploring integration of freight quotes and booking into Alibaba's Accio agentic platform.",
+          "tags": [
+            "Alibaba",
+            "DHL",
+            "logistics"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-16"
+        },
+        {
+          "id": "shipt-ai-shopping-assistant-sep16",
+          "category": "ai-merchandising",
+          "title": "Shipt launches an AI shopping assistant",
+          "source": "Practical Ecommerce",
+          "url": "https://www.practicalecommerce.com/new-ecommerce-tools-september-16-2026",
+          "summary": "Ask Shipt lets shoppers describe what they want, upload a recipe or share a photo before choosing a retailer from its marketplace.",
+          "tags": [
+            "Shipt",
+            "shopping assistant",
+            "discovery"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-16"
+        },
+        {
+          "id": "jungle-scout-ai-solutions-sep16",
+          "category": "ai-merchandising",
+          "title": "Jungle Scout brings Amazon seller data into AI tools",
+          "source": "Practical Ecommerce",
+          "url": "https://www.practicalecommerce.com/new-ecommerce-tools-september-16-2026",
+          "summary": "Jungle Scout launched AI Solutions and an MCP that brings marketplace data into Claude, ChatGPT, Gemini Enterprise and Copilot.",
+          "tags": [
+            "Amazon",
+            "Jungle Scout",
+            "MCP"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "headline": "Tuesday Signal Brief",
+      "lead": "AI commerce is moving another step toward infrastructure.",
+      "items": [
+        {
+          "id": "cloudflare-agent-defaults-sep15",
+          "category": "agentic-commerce",
+          "title": "Cloudflare changes the default rules for AI agents",
+          "source": "Cloudflare",
+          "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+          "summary": "New Cloudflare domains and qualifying sites with ads default to allowing search crawlers while blocking AI training and agent traffic.",
+          "tags": [
+            "Cloudflare",
+            "AI crawlers",
+            "agentic commerce"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-15"
+        },
+        {
+          "id": "salesforce-air-india-agentforce-sep15",
+          "category": "marketing-automation",
+          "title": "Air India expands Agentforce into end-to-end service workflows",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/in/news/press-releases/2026/09/15/air-india-accelerates-customer-service-transformation-with-agentforce/?bc=OTH",
+          "summary": "Air India is expanding Agentforce beyond refund processing into broader multi-intent service workflows.",
+          "tags": [
+            "Salesforce",
+            "Agentforce",
+            "customer service"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-15"
+        },
+        {
+          "id": "shopify-api-2026-10-rc",
+          "category": "ai-foundations",
+          "title": "Shopify opens its 2026-10 API release candidate",
+          "source": "Shopify Developers",
+          "url": "https://shopify.dev/release-notes/2026-10",
+          "summary": "Shopify's 2026-10 release candidate adds changes across orders, metafields, customer accounts, tax, analytics and Storefront APIs.",
+          "tags": [
+            "Shopify",
+            "API",
+            "Storefront API"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-15"
+        },
+        {
+          "id": "salesforce-dreamforce-agentic-enterprise-sep15",
+          "category": "ai-foundations",
+          "title": "Dreamforce puts the agentic enterprise at the center of Salesforce's roadmap",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/plus/experience/dreamforce_2026",
+          "summary": "Dreamforce is centering Agentforce, AI governance, Customer 360 and enterprise AI infrastructure.",
+          "tags": [
+            "Salesforce",
+            "Dreamforce",
+            "agentic enterprise"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "headline": "Monday Signal Brief",
+      "lead": "The AI commerce stack is getting more operational.",
+      "items": [
+        {
+          "id": "salesforce-agentforce-commerce-sep14",
+          "category": "agentic-commerce",
+          "title": "Salesforce puts a job-ready shopper agent into Agentforce",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/ap/news/press-releases/2026/09/14/ph-salesforce-expands-agentforce-with-a-new-portfolio-of-ai-agents-built-for-high-value-work/",
+          "summary": "Carter can discover and compare products, answer questions and convert with in-chat checkout; Salesforce also added long-horizon agents.",
+          "tags": [
+            "Salesforce",
+            "Agentforce",
+            "shopper agent"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-14"
+        },
+        {
+          "id": "instacart-cart-assistant-retailers",
+          "category": "ai-merchandising",
+          "title": "Instacart turns its AI shopping engine into a retailer product",
+          "source": "Instacart",
+          "url": "https://company.instacart.com/enterprise-blog/instacart-brings-its-ai-powered-shopping-technology-to-grocers-own-websites-and-apps",
+          "summary": "Cart Assistant brings Instacart's shopping agent capabilities to retailers' own catalogs, customer data and storefronts.",
+          "tags": [
+            "Instacart",
+            "retailers",
+            "shopping agent"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-09"
+        },
+        {
+          "id": "amazon-prime-video-shop-show",
+          "category": "marketing-automation",
+          "title": "Amazon expands shoppable video across thousands of Prime Video titles",
+          "source": "Amazon",
+          "url": "https://press.aboutamazon.com/prime-video",
+          "summary": "Amazon is expanding Shop the Show across thousands of Prime Video titles, tightening the connection between entertainment and purchase intent.",
+          "tags": [
+            "Amazon",
+            "shoppable video",
+            "discovery"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-10"
+        },
+        {
+          "id": "shopify-ai-catalog-filtering",
+          "category": "ai-merchandising",
+          "title": "AI shopping is making catalog quality a ranking problem",
+          "source": "The Agentic Operator",
+          "url": "https://theagenticoperator.co/",
+          "summary": "Structured attributes, accurate product data and clear merchandising signals increasingly determine which products agents consider.",
+          "tags": [
+            "Shopify",
+            "catalog",
+            "GEO"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-14"
+        },
+        {
+          "id": "salesforce-ai-control-plane",
+          "category": "ai-foundations",
+          "title": "Salesforce adds an AI control layer for enterprise agents",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/ap/news/press-releases/2026/09/14/salesforce-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7-trusted-enterprise-ai-harness-%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/",
+          "summary": "Salesforce introduced a Trusted Enterprise AI Harness and control-plane approach for shared context, governance and controls.",
+          "tags": [
+            "Salesforce",
+            "governance",
+            "control plane"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-14"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "headline": "Friday Signal Brief",
+      "lead": "AI commerce is starting to look like an advertising channel, not just a shopping interface.",
+      "items": [
+        {
+          "id": "amazon-ads-chatgpt",
+          "category": "marketing-automation",
+          "title": "Amazon Ads brings advertising into ChatGPT",
+          "source": "Amazon Ads",
+          "url": "https://advertising.amazon.com/en-ca/library/news/amazon-ads-chat-gpt-advertising-integration",
+          "summary": "Amazon DSP advertisers can extend campaigns into ChatGPT's conversational ad inventory in a U.S. pilot.",
+          "tags": [
+            "Amazon",
+            "ChatGPT",
+            "paid media"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-10"
+        },
+        {
+          "id": "target-ai-shopping-features",
+          "category": "ai-merchandising",
+          "title": "Target expands AI across discovery, reviews and reordering",
+          "source": "Target",
+          "url": "https://corporate.target.com/news-features/article/2026/09/digital-tools",
+          "summary": "Target is combining AI photo search, review summaries and personalized reordering experiences.",
+          "tags": [
+            "Target",
+            "discovery",
+            "personalization"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-08"
+        },
+        {
+          "id": "ai-commerce-paid-organic-visibility",
+          "category": "marketing-automation",
+          "title": "AI shopping is creating a paid-versus-organic visibility problem",
+          "source": "TechRadar Pro",
+          "url": "https://www.techradar.com/pro/why-ai-visibility-now-demands-paid-and-organic-geo-optimization",
+          "summary": "Brands will need to measure organic product recommendations separately from paid placements inside AI interfaces.",
+          "tags": [
+            "GEO",
+            "ACO",
+            "AI visibility"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-07"
+        },
+        {
+          "id": "meta-muse-commerce-trust",
+          "category": "agentic-commerce",
+          "title": "Meta's Muse puts consumer trust at the center of AI shopping",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08/",
+          "summary": "Muse can access shopping and payment apps, highlighting the trust and security requirements for delegated purchasing.",
+          "tags": [
+            "Meta",
+            "trust",
+            "shopping agent"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-08"
+        },
+        {
+          "id": "ai-agent-commerce-measurement",
+          "category": "ai-foundations",
+          "title": "NIQ and Similarweb build measurement for agentic commerce",
+          "source": "NIQ",
+          "url": "https://investors.nielseniq.com/news/news-details/2026/NIQ-and-Similarweb-Advance-Agentic-Commerce-Measurement-for-the-AI-Shopping-Era/default.aspx",
+          "summary": "The companies are connecting AI discovery, product content, traffic and sales conversion into an emerging measurement stack.",
+          "tags": [
+            "measurement",
+            "Similarweb",
+            "AI traffic"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-02"
+        },
+        {
+          "id": "kroger-ecommerce-retail-media",
+          "category": "marketing-automation",
+          "title": "Kroger leans on ecommerce and retail media as consumer spending slows",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/retail-consumer/kroger-cuts-annual-sales-forecast-2026-09-11/",
+          "summary": "Kroger pointed to higher-margin ecommerce and retail media as part of the profit cushion.",
+          "tags": [
+            "Kroger",
+            "retail media",
+            "ecommerce"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "Thursday Signal Brief",
+      "lead": "Agentic commerce is moving from discovery into the trust layer.",
+      "items": [
+        {
+          "id": "visa-mastercard-ant-kya",
+          "category": "agentic-commerce",
+          "title": "Visa, Mastercard and Ant build a 'Know Your Agent' framework",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/payment-firms-visa-mastercard-ant-international-team-up-ai-agent-trust-framework-2026-09-10/",
+          "summary": "The payments giants are developing common standards to identify and verify AI agents that purchase for users, giving card networks, wallets and marketplaces a shared trust layer.",
+          "tags": [
+            "payments",
+            "trust",
+            "KYA"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-10"
+        },
+        {
+          "id": "india-upi-agent-registry",
+          "category": "agentic-commerce",
+          "title": "India is building a registry for AI agents that make payments",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/india/india-plans-ai-registry-it-looks-roll-out-agentic-payments-sources-say-2026-09-10/",
+          "summary": "NPCI plans to vet and monitor agents making transactions on UPI, initially targeting small recurring purchases before expanding toward more complex autonomous buying.",
+          "tags": [
+            "UPI",
+            "payments",
+            "identity"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-10"
+        },
+        {
+          "id": "meta-muse-shopping-agent",
+          "category": "agentic-commerce",
+          "title": "Meta's Muse can shop and navigate checkout for users",
+          "source": "Vogue Business",
+          "url": "https://www.vogue.com/article/metas-new-ai-agent-can-shop-for-you",
+          "summary": "Meta's personal agent can find products, navigate checkout and present the final transaction for user approval.",
+          "tags": [
+            "Meta",
+            "shopping agent",
+            "checkout"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-08"
+        },
+        {
+          "id": "shopify-meta-ai-channel",
+          "category": "agentic-commerce",
+          "title": "Shopify turns Meta into an AI commerce channel",
+          "source": "Shopify",
+          "url": "https://changelog.shopify.com/posts/meta-is-now-an-ai-channel-in-your-admin",
+          "summary": "Shopify merchants can make their catalogs available through Meta's AI surfaces, turning social discovery into another agentic commerce channel tied to Shopify infrastructure.",
+          "tags": [
+            "Shopify",
+            "Meta",
+            "AI channel"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-08"
+        },
+        {
+          "id": "shopify-ucp-0825",
+          "category": "agentic-commerce",
+          "title": "Shopify adds support for the latest UCP specification",
+          "source": "Shopify Developers",
+          "url": "https://shopify.dev/changelog/08-25-is-now-supported",
+          "summary": "Shopify storefront infrastructure is moving with the versioned Universal Commerce Protocol, making agent-facing commerce capabilities increasingly concrete for merchants.",
+          "tags": [
+            "Shopify",
+            "UCP",
+            "protocol"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-08"
+        },
+        {
+          "id": "know-your-agent-banking",
+          "category": "ai-foundations",
+          "title": "Banks are starting to think about 'Know Your Agent'",
+          "source": "Financial Express",
+          "url": "https://www.financialexpress.com/business/banking-finance-setty-bats-for-know-your-agent-framework-as-ai-enters-banking-4336334/",
+          "summary": "India's banking leadership is calling for identity, consent, transaction limits, audit trails and revocation mechanisms as agents begin participating directly in financial transactions.",
+          "tags": [
+            "banking",
+            "identity",
+            "risk"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-10"
+        },
+        {
+          "id": "agentic-commerce-marketplaces",
+          "category": "agentic-commerce",
+          "title": "AI shopping traffic could push more merchants toward marketplaces",
+          "source": "TechRadar Pro",
+          "url": "https://www.techradar.com/pro/will-agentic-commerce-push-more-merchants-into-marketplaces",
+          "summary": "As AI-referred shopping traffic concentrates around large marketplaces, smaller DTC brands face a new question: optimize for agents directly or rely on marketplaces to provide the transaction layer.",
+          "tags": [
+            "marketplaces",
+            "DTC",
+            "discovery"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-10"
+        }
+      ]
+    }
+  ]
+}
