@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-09-21T09:00:00-05:00",
+  "updatedAt": "2026-09-23T09:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-09-23",
+      "headline": "Wednesday Signal Brief",
+      "lead": "AI commerce is starting to split into two layers: the interfaces where shoppers discover products and the infrastructure that actually completes the transaction. Shopify is leaning into the first wave with Meta's Muse and Shop Pay, while OpenAI is turning ChatGPT into a more direct advertising channel. At the same time, payment providers and banks are pushing harder on consent, fraud and control as agents move from recommendations to real transactions.",
+      "items": [
+        {
+          "id": "shopify-meta-muse-shop-pay-sep23",
+          "category": "agentic-commerce",
+          "title": "Shopify connects Meta's Muse to Shop Pay checkout",
+          "source": "Investopedia",
+          "url": "https://www.investopedia.com/shopify-stock-rallies-on-checkout-partnership-with-meta-muse-ai-agent-12134380",
+          "summary": "Shopify is integrating Shop Pay into Meta's Muse so shoppers can discover products and complete purchases through the AI assistant. For merchants, the important shift is that AI discovery is becoming a transaction channel tied directly to existing Shopify checkout infrastructure.",
+          "tags": [
+            "Shopify",
+            "Meta",
+            "Muse",
+            "Shop Pay"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-23"
+        },
+        {
+          "id": "openai-sponsored-agents-chatgpt-ads-sep23",
+          "category": "marketing-automation",
+          "title": "OpenAI turns ChatGPT Ads into a conversational sales surface",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+          "summary": "OpenAI is testing Sponsored Agents, allowing people to start a conversation with a business-sponsored AI agent after clicking an ad in ChatGPT. OpenAI is also connecting ChatGPT Ads to Shopify catalogs and measurement, giving ecommerce teams a new path from paid discovery into an AI-led product conversation.",
+          "tags": [
+            "OpenAI",
+            "ChatGPT Ads",
+            "Sponsored Agents",
+            "Shopify"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-23"
+        },
+        {
+          "id": "gocardless-first-agentic-a2a-sep23",
+          "category": "agentic-commerce",
+          "title": "GoCardless completes the UK's first agentic account-to-account payment",
+          "source": "GoCardless",
+          "url": "https://gocardless.com/blog/gocardless-first-agentic-payment-uk",
+          "summary": "GoCardless says it completed the UK's first live agentic account-to-account payment through an AI-driven checkout developed in the FCA's AI Live Testing programme. The flow lets a donor choose a recurring amount and authorize a Direct Debit without leaving the AI conversation.",
+          "tags": [
+            "GoCardless",
+            "payments",
+            "A2A",
+            "agentic checkout"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-22"
+        },
+        {
+          "id": "banks-agentic-shopping-risk-sep23",
+          "category": "agentic-commerce",
+          "title": "Banks push for stronger consumer controls around AI shopping",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/legal/litigation/banks-warn-ai-shopping-bots-raise-scam-fraud-data-privacy-risks-2026-09-22/",
+          "summary": "Major banks are warning that AI shopping agents could create new fraud, privacy and consumer-protection risks as agents gain access to financial data and purchasing flows. The industry discussion is increasingly focused on disclosure, authorization, data safeguards and clear consumer recourse.",
+          "tags": [
+            "payments",
+            "fraud",
+            "consumer protection",
+            "AI agents"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-22"
+        }
+      ]
+    },
     {
       "date": "2026-09-21",
       "headline": "Monday Signal Brief",
