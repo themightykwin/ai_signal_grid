@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-09-23T09:00:00-05:00",
+  "updatedAt": "2026-09-24T09:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-09-24",
+      "headline": "Thursday Signal Brief",
+      "lead": "The agentic-commerce conversation is shifting from whether AI can shop to what happens when an agent actually buys. Merchants want the traffic, but today's discussion is increasingly about who owns the customer relationship, how agent actions are authorized, and who carries responsibility when something goes wrong.",
+      "items": [
+        {
+          "id": "mastercard-merchants-ai-shoppers-sep24",
+          "category": "agentic-commerce",
+          "title": "Merchants want AI shoppers without giving up the customer relationship",
+          "source": "PYMNTS",
+          "url": "https://www.pymnts.com/commerce/ecommerce/2026/mastercard-merchants-want-ai-shoppers-without-losing-the-customer/",
+          "summary": "Mastercard says consumers are already using AI agents for shopping, but many journeys still stop at recommendations. The next hurdle is moving from recommendations to transactions while preserving merchant control, customer relationships and clear responsibility when an agent acts.",
+          "tags": [
+            "Mastercard",
+            "agentic commerce",
+            "payments",
+            "merchant control"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-24"
+        },
+        {
+          "id": "shopify-agentic-storefronts-sep24",
+          "category": "agentic-commerce",
+          "title": "Shopify makes agentic storefronts a standard sales channel",
+          "source": "Shopify",
+          "url": "https://help.shopify.com/en/manual/online-sales-channels/agentic-storefronts",
+          "summary": "Shopify's current documentation shows agentic storefronts active by default for eligible stores, exposing products to AI channels including ChatGPT, Google AI Mode, Gemini, Copilot and Meta. Merchants can manage participating AI channels and see search and sales performance.",
+          "tags": [
+            "Shopify",
+            "agentic storefronts",
+            "AI channels",
+            "catalog"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-24"
+        },
+        {
+          "id": "openai-chatgpt-ads-sep24",
+          "category": "marketing-automation",
+          "title": "ChatGPT Ads add a measurable paid acquisition channel",
+          "source": "OpenAI",
+          "url": "https://help.openai.com/en/articles/20001207-ads-in-chatgpt-the-basics",
+          "summary": "OpenAI's current advertising documentation describes impression and click buying, conversion measurement and reporting for ChatGPT Ads. For ecommerce teams, this creates a new paid channel where discovery, comparison and purchase intent happen inside a conversational interface.",
+          "tags": [
+            "OpenAI",
+            "ChatGPT Ads",
+            "paid media",
+            "measurement"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-24"
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "headline": "Wednesday Signal Brief",
