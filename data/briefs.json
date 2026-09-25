@@ -1,6 +1,85 @@
 {
-  "updatedAt": "2026-09-24T09:00:00-05:00",
+  "updatedAt": "2026-09-25T09:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-09-25",
+      "headline": "Friday Signal Brief",
+      "lead": "This week, agentic commerce moved further from demo territory into the plumbing of real ecommerce. Shopify is making AI channels a normal sales surface, OpenAI is defining the product-feed, checkout and delegated-payment pieces behind shopping in ChatGPT, and payments players are focusing on authorization, merchant control and accountability. The operator takeaway is straightforward: AI commerce is becoming a channel you have to build for, not just a source of referral traffic.",
+      "items": [
+        {
+          "id": "agentic-commerce-infrastructure-sep25",
+          "category": "agentic-commerce",
+          "title": "The next agentic-commerce bottleneck is infrastructure, not the agent",
+          "source": "PYMNTS",
+          "url": "https://www.pymnts.com/commerce/ecommerce/2026/why-building-ai-agents-is-no-longer-the-hardest-part-of-agentic-commerce/",
+          "summary": "A Mastercard discussion highlighted the infrastructure now surrounding agentic transactions: permissions, responsibility, merchant and payment-network connectivity, and safe machine-initiated purchases. Mastercard expects early mainstream use to center on low-value, high-frequency transactions where convenience matters most.",
+          "tags": [
+            "agentic commerce",
+            "Mastercard",
+            "payments",
+            "infrastructure"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-25"
+        },
+        {
+          "id": "openai-agentic-commerce-protocol-sep25",
+          "category": "agentic-commerce",
+          "title": "OpenAI lays out the plumbing behind shopping inside ChatGPT",
+          "source": "OpenAI Developers",
+          "url": "https://developers.openai.com/commerce/guides/key-concepts?device=c",
+          "summary": "OpenAI's Agentic Commerce Protocol documentation spells out three merchant-side requirements: a structured product feed, checkout endpoints and delegated-payment handling. Merchants remain responsible for inventory, fulfillment, tax, risk and order acceptance while ChatGPT provides the shopper-facing experience.",
+          "tags": [
+            "OpenAI",
+            "Agentic Commerce Protocol",
+            "product feed",
+            "checkout",
+            "payments"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-25"
+        },
+        {
+          "id": "merchant-voice-agentic-commerce-sep24",
+          "category": "agentic-commerce",
+          "title": "Merchants are pushing for a seat at the agentic-commerce table",
+          "source": "Merchant Advisory Group",
+          "url": "https://www.merchantadvisorygroup.org/news/mag-insights/article/2026/09/24/shaping-the-merchant-voice-in-agentic-commerce",
+          "summary": "The Merchant Advisory Group says its Agentic Commerce Working Group is developing a merchant perspective on governance, standards and economics as agents take on product research, payment selection and transaction execution. The signal is that merchants are starting to shape the rules rather than simply adapt to them.",
+          "tags": [
+            "merchants",
+            "agentic commerce",
+            "governance",
+            "payments"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "headline": "Weekly Wrap-Up: AI commerce is becoming infrastructure",
+      "lead": "The biggest shift this week was the move from AI shopping as a discovery experience to AI shopping as an operating channel. Shopify is exposing merchant catalogs through multiple AI surfaces and connecting Meta's Muse to Shop Pay; OpenAI is defining the product-feed, checkout and delegated-payment mechanics for commerce inside ChatGPT; and Mastercard, banks and merchant groups are pushing on authorization, trust and merchant control. For ecommerce teams, the work is increasingly concrete: clean up product data, understand where AI traffic and sales are coming from, decide which agents get access, and make sure checkout, payment and customer-service systems can handle agent-originated orders.",
+      "items": [
+        {
+          "id": "weekly-wrap-up-sep25",
+          "category": "ai-foundations",
+          "title": "Weekly Wrap-Up: AI commerce is becoming infrastructure",
+          "source": "SignalGrid",
+          "url": "https://covert-digital.com/signals/",
+          "summary": "This week's developments connected the full AI commerce stack: discovery and catalog exposure through Shopify's agentic storefronts; Meta Muse and Shop Pay moving discovery into checkout; OpenAI defining feeds, checkout and delegated payments for ChatGPT; and Mastercard, banks and merchant groups focusing on authorization, governance and responsibility. The practical operator agenda is to treat AI as a new commerce channel with its own catalog quality, attribution, access controls, checkout and post-purchase requirements.",
+          "tags": [
+            "weekly wrap-up",
+            "agentic commerce",
+            "ecommerce operations",
+            "AI visibility"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-25"
+        }
+      ]
+    },
     {
       "date": "2026-09-24",
       "headline": "Thursday Signal Brief",
