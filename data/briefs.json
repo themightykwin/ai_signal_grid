@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-09-25T09:00:00-05:00",
+  "updatedAt": "2026-09-28T09:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-09-28",
+      "headline": "Monday Signal Brief",
+      "lead": "The AI-commerce story is getting more operational. Shopify is now tying product attributes directly to analytics, while its agentic storefronts are making AI channels a managed part of the sales stack. OpenAI is also publishing the concrete feed, checkout and payment requirements behind commerce in ChatGPT. The work for ecommerce teams is shifting from 'should we care about AI traffic?' to making the underlying catalog, measurement and transaction systems AI-ready.",
+      "items": [
+        {
+          "id": "shopify-metaobject-analytics-sep28",
+          "category": "ai-merchandising",
+          "title": "Shopify connects product attributes directly to Analytics",
+          "source": "Shopify Changelog",
+          "url": "https://documentation-changelog.shopifysvc.com/",
+          "summary": "Shopify now lets merchants group and filter Analytics reports using metaobject fields referenced by product, variant, customer and order metafields. Category metafields such as color, material and fit are also available in Analytics, making structured catalog data more useful for merchandising and performance analysis.",
+          "tags": [
+            "Shopify",
+            "Analytics",
+            "metafields",
+            "catalog"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-28"
+        },
+        {
+          "id": "shopify-chatgpt-channel-sep28",
+          "category": "agentic-commerce",
+          "title": "Shopify treats ChatGPT as a product-discovery sales channel",
+          "source": "Shopify",
+          "url": "https://help.shopify.com/en/manual/online-sales-channels/agentic-storefronts/chatgpt",
+          "summary": "Shopify's current documentation says the ChatGPT channel is active by default for eligible stores and sends shoppers to the merchant's own checkout. Merchants can manage ChatGPT catalog access in the Agentic sales-channel settings, while product eligibility and required store policies become part of AI-channel readiness.",
+          "tags": [
+            "Shopify",
+            "ChatGPT",
+            "agentic storefronts",
+            "catalog"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-28"
+        },
+        {
+          "id": "openai-acp-merchant-infrastructure-sep28",
+          "category": "ai-foundations",
+          "title": "OpenAI's commerce protocol makes AI readiness an integration job",
+          "source": "OpenAI Developers",
+          "url": "https://developers.openai.com/commerce/guides/key-concepts?device=c",
+          "summary": "OpenAI's current Agentic Commerce Protocol documentation defines the merchant-side requirements for shopping in ChatGPT: a structured product feed, checkout endpoints and delegated-payment handling. Merchants still own inventory, fulfillment, tax, risk and order acceptance, so AI commerce increasingly depends on the quality of the systems behind the storefront.",
+          "tags": [
+            "OpenAI",
+            "Agentic Commerce Protocol",
+            "product feed",
+            "checkout",
+            "payments"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-28"
+        }
+      ]
+    },
     {
       "date": "2026-09-25",
       "headline": "Friday Signal Brief",
