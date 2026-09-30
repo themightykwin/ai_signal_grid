@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-09-28T09:00:00-05:00",
+  "updatedAt": "2026-09-30T09:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-09-30",
+      "headline": "Wednesday Signal Brief",
+      "lead": "AI is moving earlier in the ecommerce journey. Salesforce's latest commerce data shows agentic search becoming a much larger entry point for shopping, while Commerce is putting AI-ready catalog enrichment directly into BigCommerce and Feedonomics. Shopify is also adding web-native tooling for AI-driven checkout. For ecommerce teams, the common thread is clear: product data, discovery and the technical storefront are becoming part of the AI channel itself.",
+      "items": [
+        {
+          "id": "salesforce-agentic-search-sep30",
+          "category": "agentic-commerce",
+          "title": "Salesforce says agentic search is becoming the first step in the purchase journey",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/ap/news/press-releases/2026/09/30/shoppings-new-first-step-agentic-search-grows-200-as-purchase-journeys-start-in-ai-chats/?bc=OTH",
+          "summary": "Salesforce's new State of Commerce report says agentic search grew 200% year over year as a first step in shopping. Its analysis of more than 1.5 billion global shoppers also found AI-chat referrals growing 150% to 428% year over year across the measured quarters, reinforcing the shift of product discovery away from traditional search and brand-owned properties.",
+          "tags": [
+            "Salesforce",
+            "agentic search",
+            "AI discovery",
+            "ecommerce"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-30"
+        },
+        {
+          "id": "bigcommerce-catalog-enrichment-sep30",
+          "category": "ai-merchandising",
+          "title": "BigCommerce adds AI-ready catalog enrichment inside the commerce platform",
+          "source": "Commerce",
+          "url": "https://commerce.gcs-web.com/news-releases/news-release-details/commerce-introduces-data-enrichment-bigcommerce-and-feedonomics",
+          "summary": "Commerce introduced BigCommerce Catalog Enrichment and Feedonomics Enrichment to turn product catalogs into richer, structured data for AI discovery. BigCommerce merchants can generate titles, descriptions, feature bullets, FAQs, SEO metadata and structured fields directly in the control panel, with review and bulk-apply workflows.",
+          "tags": [
+            "BigCommerce",
+            "Feedonomics",
+            "catalog",
+            "AI merchandising"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-29"
+        },
+        {
+          "id": "shopify-webmcp-checkout-sep30",
+          "category": "ai-foundations",
+          "title": "Shopify adds WebMCP support for checkout",
+          "source": "Shopify Developers",
+          "url": "https://shopify.dev/changelog?trk=article-ssr-frontend-pulse_little-text-block",
+          "summary": "Shopify's September platform changelog lists WebMCP support for checkout, alongside other infrastructure changes aimed at making storefront capabilities easier for AI and agent tooling to interact with. For merchants and developers, the signal is that agent-facing access is moving deeper into the checkout layer, not stopping at product discovery.",
+          "tags": [
+            "Shopify",
+            "WebMCP",
+            "checkout",
+            "AI agents"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-28"
+        }
+      ]
+    },
     {
       "date": "2026-09-28",
       "headline": "Monday Signal Brief",
