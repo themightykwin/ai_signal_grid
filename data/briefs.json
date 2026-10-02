@@ -1,6 +1,85 @@
 {
-  "updatedAt": "2026-09-30T09:00:00-05:00",
+  "updatedAt": "2026-10-02T09:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-02",
+      "headline": "Friday Signal Brief",
+      "lead": "AI commerce is moving from discovery into the mechanics of the transaction. Shopify is opening checkout to browser-based agents, Salesforce is adding agentic merchandising and shopper-agent capabilities, and retailers are still split over how much access to give autonomous shoppers. For ecommerce teams, the immediate work is less about launching another chatbot and more about making catalogs, checkout and customer controls ready for agents.",
+      "items": [
+        {
+          "id": "shopify-webmcp-checkout-oct02",
+          "category": "agentic-commerce",
+          "title": "Shopify opens checkout to browser-based AI agents",
+          "source": "Shopify",
+          "url": "https://changelog.shopify.com/posts/webmcp-checkout",
+          "summary": "Shopify has extended WebMCP support through checkout, including Shop Pay, allowing eligible browser-based AI agents to inspect and update checkout and complete a purchase after buyer authorization. The move takes agent access beyond product discovery and cart building into the actual transaction flow.",
+          "tags": [
+            "Shopify",
+            "WebMCP",
+            "checkout",
+            "Shop Pay"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-09-28"
+        },
+        {
+          "id": "salesforce-b2c-commerce-sept-release-oct02",
+          "category": "ai-merchandising",
+          "title": "Salesforce adds agentic categorization and product comparisons to Commerce Cloud",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/blog/b2c-commerce-september-26-release/?bc=OTH",
+          "summary": "Salesforce's September B2C Commerce release adds agentically generated category recommendations, product comparisons inside its shopper agent, and MCP/agent plugins for commerce operations. The release pushes AI into both merchandising workflows and the shopper experience.",
+          "tags": [
+            "Salesforce",
+            "Commerce Cloud",
+            "agentic merchandising",
+            "Carter"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-01"
+        },
+        {
+          "id": "agentic-commerce-retailer-access-oct02",
+          "category": "agentic-commerce",
+          "title": "Retailers are splitting over how much access AI agents should get",
+          "source": "The Wall Street Journal",
+          "url": "https://www.wsj.com/cmo-today/ai-agents-aim-to-change-shopping-some-retailers-are-locking-the-doors-666a1ed4",
+          "summary": "Retailers are taking different approaches to autonomous shopping agents: some are partnering with Meta's Muse and other AI channels, while others restrict agents because of concerns around customer data, fraud and control of the shopping experience. The operator issue is becoming an access-policy decision, not simply a technology decision.",
+          "tags": [
+            "agentic commerce",
+            "retailers",
+            "AI agents",
+            "customer data"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "headline": "Weekly Wrap-Up: AI is moving into the commerce stack",
+      "lead": "This week, the AI-commerce story became more concrete. Salesforce reported a 200% year-over-year increase in agentic search as a first step in shopping; BigCommerce introduced AI-ready catalog enrichment; Shopify moved browser-based agents into checkout; and Salesforce added more agentic merchandising and operations tooling. At the same time, retailers are making different calls on whether third-party agents should be allowed to access their stores. The practical takeaway for ecommerce teams is that AI readiness now spans the catalog, discovery layer, checkout, permissions and measurement—not just the front-end experience.",
+      "items": [
+        {
+          "id": "weekly-wrap-up-oct02",
+          "category": "ai-foundations",
+          "title": "Weekly Wrap-Up: AI is moving into the commerce stack",
+          "source": "SignalGrid",
+          "url": "https://covert-digital.com/signals/",
+          "summary": "This week's signals connected agentic discovery, catalog enrichment, browser-based checkout, agentic merchandising and retailer access policies. The work is shifting from experimenting with AI experiences to preparing core commerce infrastructure for AI-originated shopping journeys.",
+          "tags": [
+            "weekly wrap-up",
+            "agentic commerce",
+            "catalog",
+            "checkout",
+            "ecommerce operations"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-02"
+        }
+      ]
+    },
     {
       "date": "2026-09-30",
       "headline": "Wednesday Signal Brief",
