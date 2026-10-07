@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-02T09:00:00-05:00",
+  "updatedAt": "2026-10-07T09:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-07",
+      "headline": "Wednesday Signal Brief",
+      "lead": "AI commerce is getting more native to the tools ecommerce teams already use. Shopify is putting its AI agent directly into store design, TikTok is building shopping agents and in-app checkout, and Amazon is turning ad management into an agentic workflow. The pattern is shifting from AI as a feature to AI as an operating layer across merchandising, acquisition and conversion.",
+      "items": [
+        {
+          "id": "shopify-canvas-sidekick-oct07",
+          "category": "ai-merchandising",
+          "title": "Shopify puts Sidekick directly into store design",
+          "source": "Practical Ecommerce",
+          "url": "https://www.practicalecommerce.com/new-ecommerce-tools-october-7-2026",
+          "summary": "Shopify launched Canvas, a visual design surface where merchants work with Sidekick to build and modify store layouts. Sidekick can make changes through chat while Canvas validates and reviews the resulting design, bringing an AI agent into the actual storefront-building workflow.",
+          "tags": [
+            "Shopify",
+            "Sidekick",
+            "Canvas",
+            "store design"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-07"
+        },
+        {
+          "id": "tiktok-agentic-commerce-oct07",
+          "category": "agentic-commerce",
+          "title": "TikTok moves from social discovery toward agentic commerce",
+          "source": "Practical Ecommerce",
+          "url": "https://www.practicalecommerce.com/new-ecommerce-tools-october-7-2026",
+          "summary": "TikTok is developing agentic shopping experiences around Buy Direct and Shopping Assistant. Buy Direct supports in-app checkout, while Shopping Assistant provides conversational product guidance around details, sizing, availability and purchasing. The move makes TikTok both a discovery and transaction surface.",
+          "tags": [
+            "TikTok",
+            "agentic commerce",
+            "Shopping Assistant",
+            "checkout"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-07"
+        },
+        {
+          "id": "amazon-ads-agent-oct07",
+          "category": "marketing-automation",
+          "title": "Amazon turns campaign management into an AI agent workflow",
+          "source": "Practical Ecommerce",
+          "url": "https://www.practicalecommerce.com/new-ecommerce-tools-october-7-2026",
+          "summary": "Amazon Ads introduced Ads Agent, bringing sponsored ads, full-funnel campaigns, display, video and audio into one agentic workflow. Advertisers can use the platform for analysis and recommendations, take actions themselves, or let Amazon's AI optimize campaigns on their behalf.",
+          "tags": [
+            "Amazon Ads",
+            "Ads Agent",
+            "paid media",
+            "AI automation"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-07"
+        }
+      ]
+    },
     {
       "date": "2026-10-02",
       "headline": "Friday Signal Brief",
