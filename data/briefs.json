@@ -1,6 +1,95 @@
 {
-  "updatedAt": "2026-10-07T09:00:00-05:00",
+  "updatedAt": "2026-10-08T08:30:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-08",
+      "headline": "Thursday Signal Brief",
+      "lead": "Agentic checkout is moving from announcements into onboarding queues. Google started rolling out a UCP integration hub inside Merchant Center, and Sierra, Meta, Shopify, Stripe and Walmart proposed a standard for how personal agents sign in and act at stores. On the storefront side, Gap, The RealReal and Very are swapping keyword search and static pages for conversational discovery and intent-based offers.",
+      "items": [
+        {
+          "id": "google-ucp-merchant-center-oct08",
+          "category": "agentic-commerce",
+          "title": "Google starts onboarding merchants to AI Mode checkout from Merchant Center",
+          "source": "Search Engine Roundtable",
+          "url": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html",
+          "summary": "Google is gradually rolling out a Universal Commerce Protocol (UCP) integration hub in Merchant Center for U.S. merchants, with Australia and Canada to follow next year. Integrating lets merchants show a checkout button on eligible product listings in AI Mode in Google Search and in Gemini, with capabilities like cart transfer to the merchant's site. Teams already running Google Shopping should check eligibility now and scope the UCP work, because access depends on finishing that integration.",
+          "tags": [
+            "Google",
+            "UCP",
+            "Merchant Center",
+            "AI Mode",
+            "checkout"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-07"
+        },
+        {
+          "id": "personal-agent-protocol-oct08",
+          "category": "agentic-commerce",
+          "title": "Meta, Sierra, Shopify, Stripe and Walmart propose rules for how personal agents shop",
+          "source": "Sierra",
+          "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+          "summary": "Sierra and Meta announced the Personal Agent Protocol, an open standard for how consumers' AI agents authenticate, get permission and act with businesses through websites, APIs or company agents. Shopify, Stripe and Walmart are among the partners, and a v0.1 specification is due later this month. It arrives as some retailers block shopping agents outright, so brands should check whether their bot protection is turning away agents acting for real customers.",
+          "tags": [
+            "Personal Agent Protocol",
+            "Meta",
+            "Sierra",
+            "Shopify",
+            "agent authentication"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-06"
+        },
+        {
+          "id": "gap-ai-discovery-oct08",
+          "category": "ai-merchandising",
+          "title": "Gap brings conversational discovery to Old Navy and Banana Republic",
+          "source": "Digital Commerce 360",
+          "url": "https://www.digitalcommerce360.com/2026/10/07/gap-expands-ai-shopping-with-alta-daily-and-new-discovery-tools/",
+          "summary": "Gap Inc. unveiled natural-language product discovery for Old Navy and Banana Republic, letting shoppers describe what they want instead of translating it into keywords and filters. It is also putting Gap-brand products into AI outfit recommendations on the third-party styling app Alta Daily. When a top-20 online retailer treats the search box as replaceable, shopper expectations for every apparel site start to move.",
+          "tags": [
+            "Gap",
+            "conversational search",
+            "product discovery",
+            "apparel"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-07"
+        },
+        {
+          "id": "realreal-ask-trr-oct08",
+          "category": "ai-merchandising",
+          "title": "The RealReal rolls out its Ask TRR shopping agent to all members",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/the-realreal-expands-ask-trr-ai-shopping-agent-with-google-clouds-gemini-enterprise-302901904.html",
+          "summary": "After a pilot, The RealReal is launching Ask TRR, a natural-language shopping agent built with Google Cloud's Gemini Enterprise, to its 45 million members. It is designed for a catalog where every item is one of one, so shoppers can search by look, era or occasion rather than exact designer names. Any brand with a large or fast-turning catalog has the same problem: keyword search buries products shoppers can't name.",
+          "tags": [
+            "The RealReal",
+            "Gemini Enterprise",
+            "shopping agent",
+            "resale"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-08"
+        },
+        {
+          "id": "very-intent-personalization-oct08",
+          "category": "marketing-automation",
+          "title": "Very reports a revenue lift from agentic, intent-based personalization",
+          "source": "Drapers",
+          "url": "https://www.drapersonline.com/news/very-group-revenue-boosted-by-new-ai-function",
+          "summary": "UK retailer The Very Group is using Made With Intent's decision engine, which reads more than 800 behavioral signals, to decide which offers and prompts each shopper sees, including one-off discounts and personalized payment options. Very said revenue per customer rose by a fifth in one strategy during the first month, with an unquantified conversion lift. The numbers are early and company-reported, but they show onsite promotion logic shifting from fixed rules to real-time intent.",
+          "tags": [
+            "Very Group",
+            "Made With Intent",
+            "personalization",
+            "onsite offers"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-07"
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "headline": "Wednesday Signal Brief",
