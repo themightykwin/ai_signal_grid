@@ -1,6 +1,107 @@
 {
-  "updatedAt": "2026-10-08T08:30:00-05:00",
+  "updatedAt": "2026-10-09T08:30:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-09",
+      "headline": "Friday Signal Brief",
+      "lead": "Agentic checkout kept spreading beyond the big platforms on Thursday. Newegg went live with UCP checkout inside Google AI Mode and Gemini, Crossmint shipped a single API for agents to pay at any online store, and Google turned Gemini into a task-running agent with Shopify and PayPal as early testers. Retailers like HP and Bunnings are also rebuilding their own sites around conversation instead of navigation.",
+      "items": [
+        {
+          "id": "newegg-ucp-checkout-google-ai-mode-oct09",
+          "category": "agentic-commerce",
+          "title": "Newegg goes live with UCP checkout in Google AI Mode and Gemini",
+          "source": "Business Wire via Finviz",
+          "url": "https://finviz.com/news/400383/us-shoppers-can-now-discover-and-purchase-eligible-newegg-products-directly-within-the-gemini-app-and-google-search-including-ai-mode",
+          "summary": "U.S. shoppers can now buy eligible Newegg products inside AI Mode in Google Search and the Gemini app without leaving the conversation, using Universal Commerce Protocol checkout. Newegg stays merchant of record and handles fulfillment and support. It's a template for mid-market retailers: one catalog feeding ChatGPT, Perplexity and Google checkout surfaces at once.",
+          "tags": [
+            "google",
+            "ucp",
+            "checkout",
+            "ai-mode"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-08T08:30:00-05:00"
+        },
+        {
+          "id": "crossmint-agent-commerce-toolkit-oct09",
+          "category": "agentic-commerce",
+          "title": "Crossmint launches a single API for AI agents to pay and check out",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/crossmint-launches-agent-commerce-toolkit-enabling-ai-agents-to-pay-with-any-card-and-check-out-online-through-one-integration-302901649.html",
+          "summary": "Crossmint's Agent Commerce Toolkit combines card storage, Visa Intelligent Commerce and Mastercard Agent Pay credentials, and merchant checkout in one self-serve integration, with an open-source reference app. It lowers the bar for anyone building a shopping agent, which means more agent-driven checkouts hitting regular storefronts. Merchants should watch how bot-detection and fraud rules treat these sessions.",
+          "tags": [
+            "payments",
+            "visa",
+            "mastercard",
+            "agents"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-08T09:00:00-05:00"
+        },
+        {
+          "id": "google-gemini-unified-agent-business-oct09",
+          "category": "ai-foundations",
+          "title": "Google turns Gemini into a task-running agent for businesses, with Shopify and PayPal testing",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "summary": "Google announced a unified Gemini agent that can carry out tasks across connected systems like Workspace, Slack, Jira and Snowflake, launching to businesses before consumers. Shopify, PayPal and On were early testers, and Google added spend caps and smart model routing to control costs. For commerce teams this is a sign that back-office agents for reporting and ops are moving into mainstream tools.",
+          "tags": [
+            "google",
+            "gemini",
+            "enterprise",
+            "agents"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-08T12:00:00-05:00"
+        },
+        {
+          "id": "tiktok-smart-plus-search-gmv-max-oct09",
+          "category": "marketing-automation",
+          "title": "TikTok automates search ads with Smart+ and expands GMV Max and its ad network",
+          "source": "EcomWatch",
+          "url": "https://ecomwatch.com/news/tiktok-is-building-a-new-agentic-commerce-shopping-experience/",
+          "summary": "TikTok added a Smart+ Search Ads Campaign that automates keywords and creative, Smart+ Creative Selection for one creative approval workflow, and an expanded GMV Max that shifts spend toward TikTok Shop content that's performing. It also opened the TikTok Ad Network to U.S. advertisers across nearly 400,000 apps. Sellers should expect less manual control and more need for a steady supply of creative.",
+          "tags": [
+            "tiktok",
+            "ads",
+            "gmv-max",
+            "automation"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-08T10:00:00-05:00"
+        },
+        {
+          "id": "hp-experience-ai-adaptive-site-oct09",
+          "category": "ai-merchandising",
+          "title": "HP pilots an agentic site that rebuilds pages around what the shopper says",
+          "source": "HP Newsroom",
+          "url": "https://www.hp.com/us-en/newsroom/blogs/2026/hp-experience-ai-agentic-web-platform.html",
+          "summary": "HP Experience AI, in beta with a limited group of U.S. customers, lets shoppers speak or type what they need and changes what appears on HP.com, pulling in products, comparisons and follow-up questions. It's a step past the chat widget: conversation becomes the navigation. Brands with complex catalogs should watch whether this beats filters and category pages.",
+          "tags": [
+            "hp",
+            "onsite-ai",
+            "personalization"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-08T09:00:00-05:00"
+        },
+        {
+          "id": "bunnings-buddy-nz-ai-agent-oct09",
+          "category": "ai-merchandising",
+          "title": "Bunnings brings its Buddy AI shopping agent to New Zealand",
+          "source": "Inside Retail New Zealand",
+          "url": "https://insideretail.co.nz/2026/10/08/nz-first-bunnings-launches-ai-shopping-agent-online-and-in-app/",
+          "summary": "Bunnings launched Buddy, built with Google Cloud's Gemini Enterprise, on its New Zealand website and app to help customers plan projects, find products and get advice. The Australian version had to apologize in December 2025 after it gave unlicensed electrical advice. It's a reminder that shopping agents in regulated or safety categories need hard guardrails.",
+          "tags": [
+            "retail",
+            "google-cloud",
+            "guardrails"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-10-08T07:00:00-05:00"
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "headline": "Thursday Signal Brief",
