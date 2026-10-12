@@ -1,6 +1,113 @@
 {
-  "updatedAt": "2026-10-09T08:30:00-05:00",
+  "updatedAt": "2026-10-12T08:30:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-12",
+      "headline": "Monday Signal Brief",
+      "lead": "AI shopping agents are getting written rules, and those rules decide which brands get seen, compared and paid. A file reportedly pulled from Meta's Muse tells the agent to put well-known merchants first. Shopify now passes markdowns to AI agents, and THG put Criteo sponsored products inside a shopping chat. The agent's answer is turning into a shelf with its own ranking logic, ad inventory and data needs, and Shopify is also moving store admin into Gemini and Grok.",
+      "items": [
+        {
+          "id": "meta-muse-well-known-merchant-ranking-oct12",
+          "category": "agentic-commerce",
+          "title": "Meta's Muse agent is told to rank well-known merchants first",
+          "source": "PPC Land",
+          "url": "https://ppc.land/metas-shopping-agent-must-fill-its-top-5-picks-with-well-known-merchants/",
+          "summary": "An instruction file that research firm Profound says it pulled from Muse calls it \"imperative\" that the top five picks come from well-known merchants. It also tells Muse to drop listings priced outside a category's normal range and to check at most three open-web stores, returning at most ten products. In-chat checkout is reserved for Meta catalog items flagged for agentic checkout, and Meta has not commented on the file.",
+          "tags": [
+            "meta",
+            "muse",
+            "ranking",
+            "catalog",
+            "challenger-brands"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-11"
+        },
+        {
+          "id": "shopify-compare-at-prices-agentic-channels-oct12",
+          "category": "ai-merchandising",
+          "title": "Shopify now shares compare-at prices with AI shopping agents",
+          "source": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/compare-at-prices-now-displayed-to-agentic-channels",
+          "summary": "Shopify Catalog now passes compare-at prices to AI shopping agents, so a markdown shows up as a markdown in chat instead of only the current price. Merchants control it with a toggle in the Compare-at section of catalog mapping in admin. Stores that use compare-at as a fake MSRP should audit those values before agents show them as discounts.",
+          "tags": [
+            "shopify",
+            "catalog",
+            "pricing",
+            "markdowns",
+            "agentic-storefronts"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-09"
+        },
+        {
+          "id": "thg-criteo-ai-shopping-assistant-oct12",
+          "category": "marketing-automation",
+          "title": "THG Commerce puts Criteo sponsored products inside its AI shopping assistant",
+          "source": "THG Ingenuity",
+          "url": "https://www.thgingenuity.com/resources/press-releases/thg-commerce-criteo-ai-retail-media",
+          "summary": "THG built its AI Shopping Assistant on Google's Gemini Enterprise and now shows labeled Criteo sponsored products next to organic picks inside the conversation. THG calls it Europe's first and says early sponsored placements got more than 5x average click-through and more than 2x average conversion, company figures with no method published. The assistant also ships as SaaS that can plug into other commerce platforms.",
+          "tags": [
+            "retail-media",
+            "criteo",
+            "conversational-ads",
+            "google-cloud",
+            "gemini-enterprise"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-09"
+        },
+        {
+          "id": "shopify-gemini-grok-connectors-oct12",
+          "category": "ai-foundations",
+          "title": "Shopify connects store admin to Gemini, with a matching Grok connector",
+          "source": "Shopify Help Center",
+          "url": "https://help.shopify.com/en/manual/ai-powered-tools/connecting-ai-tools/shopify-connector-for-gemini",
+          "summary": "Merchants can link a store they own to Gemini to create and edit products, set inventory, build collections, create percentage-off codes and run ShopifyQL analytics in chat. Orders and customers stay read-only, and refunds, cancellations, payment settings and live-theme publishing stay blocked even with write access. A near-identical Grok connector is also live in Help Center.",
+          "tags": [
+            "shopify",
+            "gemini",
+            "grok",
+            "connectors",
+            "store-ops"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-09"
+        },
+        {
+          "id": "google-ads-auto-website-coupons-oct12",
+          "category": "marketing-automation",
+          "title": "Google Ads starts pulling coupons from advertiser sites into ads",
+          "source": "PPC Land",
+          "url": "https://ppc.land/google-ads-will-auto-apply-website-coupons-to-some-campaigns-from-october-12/",
+          "summary": "Starting October 12, Google automatically extracts discount offers from advertiser sites and attaches them as promotion assets on Search and Performance Max campaigns that have location assets and no manual promotions. It is opt-out at the account level under Automated assets. Old sale banners left up on a site could appear in ads, mainly for brands with physical locations.",
+          "tags": [
+            "google-ads",
+            "performance-max",
+            "automated-assets",
+            "promotions"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-06"
+        },
+        {
+          "id": "amazon-ads-review-requests-oct12",
+          "category": "marketing-automation",
+          "title": "Amazon will sell ads that ask recent buyers for reviews, run through Ads Agent",
+          "source": "Amazon Ads",
+          "url": "https://advertising.amazon.com/resources/whats-new/get-product-reviews-faster-with-review-requests",
+          "summary": "Review Requests invites verified recent buyers to rate or review a product. It opens in U.S. open beta in late October for listings under 1,000 ratings and reviews, and campaigns run only through Amazon Ads Agent or the Unified API. Amazon claims 3x weekly ratings and reviews from a 19-day closed beta; pricing is not published.",
+          "tags": [
+            "amazon-ads",
+            "ads-agent",
+            "reviews",
+            "new-products"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-09-29"
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "headline": "Friday Signal Brief",
