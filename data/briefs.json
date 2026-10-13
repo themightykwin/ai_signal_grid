@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-10-12T08:30:00-05:00",
+  "updatedAt": "2026-10-13T08:30:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-13",
+      "headline": "Tuesday Signal Brief",
+      "lead": "Getting named by AI and getting chosen by AI are turning out to be different jobs. Semrush's new index finds fewer than half of the brands AI tools mention are also the sources those tools cite, and the New York Times reports brands paying startups to rewrite their catalogs for agents. Platforms are handing merchants more of the controls at the same time: Microsoft lets advertisers steer AI-written ad copy, Salesforce made catalog-trained agent search standard, and Google turned product image quality from a gate into a ranking factor.",
+      "items": [
+        {
+          "id": "semrush-ai-visibility-mentions-vs-citations-oct13",
+          "category": "ai-foundations",
+          "title": "Semrush finds most brands AI names are not the sources it cites",
+          "source": "PPC Land",
+          "url": "https://ppc.land/asda-ranks-606th-in-chatgpt-citations-as-tesco-sits-25th-semrush-finds/",
+          "summary": "Semrush's second 2026 AI Visibility Index, covering January to July across ChatGPT, Gemini, Google AI Mode and AI Overviews, finds that fewer than half of the top 100 brands each tool names also appear among its top 100 cited sources. Tesco and Asda are named at similar rates, but in July Tesco was ChatGPT's 25th most-cited UK domain and Asda was 606th. Semrush is owned by Adobe and says the study does not link visibility to sales, so use it as a prompt to check whether your own pages are being used as sources, not just whether your brand gets named.",
+          "tags": [
+            "ai-visibility",
+            "semrush",
+            "chatgpt",
+            "google-ai-mode",
+            "citations"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "id": "nyt-brands-pitch-to-ai-agents-oct12",
+          "category": "agentic-commerce",
+          "title": "Brands are paying startups to make their catalogs readable to AI shopping agents",
+          "source": "The New York Times (via The Seattle Times)",
+          "url": "https://www.seattletimes.com/business/as-ai-agents-begin-shopping-brands-are-changing-their-sales-pitch/",
+          "summary": "A New York Times report profiles startups such as Limy, Gauge and New Generation that sell AI-visibility work to brands. Online cabinet retailer RTA Store paid New Generation $15,000 to restructure its site and product content for agents, and its CEO expects to eventually spend up to $12,000 a month on it. One AI marketing founder warns the models change faster than anyone can game them, which argues for fixing product facts and structured data before paying for tricks.",
+          "tags": [
+            "ai-visibility",
+            "product-data",
+            "agents",
+            "mid-market"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-12"
+        },
+        {
+          "id": "salesforce-agentic-commerce-search-ga-oct13",
+          "category": "ai-merchandising",
+          "title": "Salesforce makes catalog-trained Agentic Commerce Search standard for Shopper Agent",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/news/stories/winter-2027-product-release-announcement/",
+          "summary": "Salesforce's Winter '27 release became generally available on October 12, and Agentic Commerce Search is now standard for all Shopper Agent customers. It trains a small language model on each merchant's catalog and shopper behavior to handle natural-language queries instead of exact keyword matches. Salesforce reports a 13% conversion lift and 17% higher add-to-cart rates in early results, company figures with no method published.",
+          "tags": [
+            "salesforce",
+            "agentforce",
+            "site-search",
+            "conversational-search"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-12"
+        },
+        {
+          "id": "google-merchant-center-poor-images-keep-showing-oct13",
+          "category": "ai-merchandising",
+          "title": "Google stops blocking products with low-quality images from Shopping ads and free listings",
+          "source": "Search Engine Roundtable",
+          "url": "https://www.seroundtable.com/google-merchant-center-poor-image-inclusion-42273.html",
+          "summary": "Google updated its Merchant Center help page to say products flagged for blurry, pixelated or low-resolution images will keep showing in ads and free listings; the old wording said they could be held back until the images improved. That turns image quality from an eligibility gate into a performance problem, so weak images now cost clicks quietly instead of triggering a disapproval you would notice. Google also recently raised the minimum product image size in Merchant Center to 500x500 pixels.",
+          "tags": [
+            "google-merchant-center",
+            "product-images",
+            "shopping-ads",
+            "feeds"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-12"
+        },
+        {
+          "id": "microsoft-ai-max-messaging-guidelines-oct13",
+          "category": "marketing-automation",
+          "title": "Microsoft lets advertisers tell AI Max what to say and avoid in generated ads",
+          "source": "PPC News Feed",
+          "url": "https://ppcnewsfeed.com/ppc-news/2026-10/microsoft-adds-messaging-guidelines-to-text-guardrails/",
+          "summary": "Microsoft Advertising added messaging guidelines to the text guardrails for AI Max campaigns, so advertisers can name themes, claims, products, offers or topics to emphasize or avoid in auto-generated assets. Guardrails now allow up to 25 term exclusions and up to 40 messaging guidelines, and the guidelines are in a closed pilot for now. Brands that sell on specific claims, like shipping terms or materials, should write that list before the pilot opens.",
+          "tags": [
+            "microsoft-advertising",
+            "ai-max",
+            "ad-copy",
+            "brand-safety"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-11"
+        },
+        {
+          "id": "strack-van-til-homesome-ai-concierge-oct13",
+          "category": "agentic-commerce",
+          "title": "Regional grocer Strack & Van Til launches an AI concierge that clips coupons and builds lists",
+          "source": "Progressive Grocer",
+          "url": "https://progressivegrocer.com/exclusive-strack-van-til-rolls-out-homesomes-ai-concierge",
+          "summary": "Strack & Van Til, a Hy-Vee company with more than 20 stores in northwest Indiana, launched Ernie, Homesome's white-label AI Concierge, in its app and website. It connects catalog, pricing, weekly ad, coupons, loyalty and order status, so shoppers can ask for aisle deals, check points, or upload a recipe photo and get a shoppable list. Homesome pitches it as an agent regional retailers own rather than ceding shoppers to marketplaces, and says more partners get it in the coming weeks.",
+          "tags": [
+            "grocery",
+            "owned-agent",
+            "loyalty",
+            "homesome"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "id": "kakao-kanana-space-reorder-oct13",
+          "category": "agentic-commerce",
+          "title": "KakaoTalk's new assistant can reorder last week's purchase from chat history",
+          "source": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/business/kakaos-new-ai-assistant-can-reorder-your-groceries-manage-schedules-from-chats/12917067",
+          "summary": "Kakao unveiled Kanana Space, an assistant inside KakaoTalk, which has about 50 million users, that can send messages, manage schedules and buy products with user approval. In a demo it found a user's usual bottled water from their chats, applied coupons and prepared the order up to payment, which works because Kakao runs its own commerce and wallet services. A closed beta starts in December, and it is an early look at messaging apps becoming the place repeat purchases happen.",
+          "tags": [
+            "kakao",
+            "messaging-commerce",
+            "reorder",
+            "agents"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-10-13"
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "headline": "Monday Signal Brief",
