@@ -1,6 +1,115 @@
 {
-  "updatedAt": "2026-10-13T08:30:00-05:00",
+  "updatedAt": "2026-10-14T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-14",
+      "headline": "Wednesday Signal Brief",
+      "lead": "Shopify just opened the rails so any AI agent can search a billion products and check out with Shop Pay, without a special partnership. The same day, Shopify's own data says AI-referred sessions convert far better than organic search, Forter shipped tools to tell trusted agents from fraud bots, and Klaviyo put its marketing agent in every account. Discovery and checkout are moving into chat; the operators who win will be the ones whose catalogs, fraud rules, and retention stack are ready for agents they don't control.",
+      "items": [
+        {
+          "id": "shopify-shop-mcp-any-agent-checkout-oct14",
+          "category": "agentic-commerce",
+          "title": "Shopify opens catalog search and Shop Pay checkout to any MCP agent",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+          "summary": "Shopify launched Shop MCP on October 13 so compatible AI agents can search more than a billion products in Shopify Catalog, build carts, and complete Shop Pay checkout through one MCP connection at mcp.shop.com, without a bilateral partnership like the earlier Meta Muse deal. Shoppers connect an agent to their Shop account, set rules such as budget caps or fast shipping only, and must approve each purchase; orders land in the merchant's Shopify admin like any other order. The developer changelog lists 17 tools covering search, Shop sign-in, carts, checkout, and order tracking, and says search needs no API key.",
+          "tags": [
+            "shopify",
+            "shop-mcp",
+            "shop-pay",
+            "agents",
+            "checkout"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "id": "shopify-ai-referral-conversion-oct14",
+          "category": "ai-merchandising",
+          "title": "Shopify data: AI-referred sessions convert 80% higher than organic search",
+          "source": "InternetRetailing",
+          "url": "https://internetretailing.net/shopify-report-suggests-ai-is-becoming-a-major-retail-discovery-channel/",
+          "summary": "Shopify's Entrepreneur Effect research hub reports that between April and June 2026, AI-referred sessions converted 80% higher than organic search traffic, and orders from those referrals had a 14% higher average order value. The same report says businesses on Shopify generated more than $1.2tn in economic activity worldwide over the past year. Treat the lift as platform-reported, not an independent A/B test, but it is a clear signal to treat AI discovery the way you treat SEO and paid search: with feed quality, compare-at accuracy, and agent-ready product data.",
+          "tags": [
+            "shopify",
+            "ai-discovery",
+            "conversion",
+            "aov",
+            "attribution"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-14"
+        },
+        {
+          "id": "forter-agentic-commerce-engine-oct14",
+          "category": "agentic-commerce",
+          "title": "Forter launches Agentic Commerce Engine to ID trusted AI shoppers and run headless checkout",
+          "source": "Forter",
+          "url": "https://www.forter.com/blog/ai-shopping-agents-holidays/",
+          "summary": "Forter said on October 13 that Agentic Commerce Engine is live: Fraud Management for Agentic Commerce to spot legitimate assistants versus abuse bots, Agentic Orchestration for headless checkout via agentic protocols through a single no-code integration, and an AI Activity Dashboard showing which agents are on the site. Forter claims agentic orders on its network are up fourfold since August and automated fraud doubled in 60 days; those are company figures. Merchants still running bot-block-everything rules should audit whether they are also killing real agent-driven orders ahead of peak.",
+          "tags": [
+            "forter",
+            "fraud",
+            "agentic-checkout",
+            "headless",
+            "holiday"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "id": "klaviyo-composer-ga-oct14",
+          "category": "marketing-automation",
+          "title": "Klaviyo makes Composer generally available with scheduled tasks, citations, and SQL",
+          "source": "Klaviyo",
+          "url": "https://www.klaviyo.com/uk/blog/composer-marketing-agent",
+          "summary": "Klaviyo's Composer marketing agent is now available to every Klaviyo customer. It answers performance questions with visible citations and industry benchmarks across more than 205,000 customers, runs recurring audits on a schedule in the cloud, and can apply team-defined Skills. The same release wave adds SQL in Klaviyo Data Platform so Composer can answer questions outside pre-built skills, plus Social Performance revenue reporting for Instagram actions and multi-market Customer Agent support for Shopify Markets.",
+          "tags": [
+            "klaviyo",
+            "composer",
+            "retention",
+            "sql",
+            "marketing-agent"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "id": "spangle-halo-retailer-agent-oct14",
+          "category": "ai-merchandising",
+          "title": "Spangle launches Halo, a retailer-side agent for UCP and MCP shopping conversations",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/spangle-launches-spangle-halo-bringing-retailer-side-intelligence-to-ai-agent-commerce-302906284.html",
+          "summary": "Spangle AI announced Spangle Halo on October 13, an AI merchant agent meant to represent retailers inside agent-to-agent shopping through Universal Commerce Protocol, Model Context Protocol, and browser-based flows. It uses Spangle's brand-specific demand and business intelligence to choose what to merchandise and how to grow basket value within retailer-set rules. Availability starts with select enterprise retailers; Spangle cites prior results at REVOLVE (60% ROAS lift, 50% revenue-per-visit, 30% conversion) that are vendor-reported and refer to existing products, not Halo specifically.",
+          "tags": [
+            "spangle",
+            "halo",
+            "ucp",
+            "mcp",
+            "retailer-agent"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "id": "google-gemini-4-argon-ga-oct14",
+          "category": "ai-foundations",
+          "title": "Google makes Gemini 4 Argon broadly available at intro API pricing",
+          "source": "Google",
+          "url": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-4-argon-built-to-solve-your-hardest-problems/",
+          "summary": "Google opened Gemini 4 Argon globally on October 13 for developers and enterprises via the Gemini API, and for Google AI Pro and Ultra subscribers in the Gemini app, AI Mode in Search, and Google Antigravity. Introductory API pricing is $2 per million input tokens and $10 per million output tokens through November 30, then $4/$20. Argon targets long multi-step coding, agentic, and domain work with a 1M unified token limit; ecommerce teams building internal agents or catalog tooling should note the intro window before rates double.",
+          "tags": [
+            "google",
+            "gemini",
+            "argon",
+            "api-pricing",
+            "models"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-13"
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "headline": "Tuesday Signal Brief",
