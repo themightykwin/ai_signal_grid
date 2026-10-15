@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-10-14T08:00:00-05:00",
+  "updatedAt": "2026-10-15T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-15",
+      "headline": "Thursday Signal Brief",
+      "lead": "As AI takes over more of the ad spend and the buying, the platforms are moving the guardrails rather than removing them. Google now lets advertisers cap Display and Search partner spend by percentage, Meta is dropping manual placements on Sales campaigns in favor of account-level exclusions, and Amex wants every agent purchase tied to a token that proves what the shopper actually asked for. Control is shifting from individual settings to rules you set once, so teams that write those rules down before the holiday rush will keep the most say over where their money goes.",
+      "items": [
+        {
+          "id": "google-ads-channel-prioritization-oct15",
+          "category": "marketing-automation",
+          "title": "Google Ads lets advertisers cap Display and Search partner spend by percentage",
+          "source": "PPC Land",
+          "url": "https://ppc.land/google-ads-lets-advertisers-limit-display-and-partner-spend-by-percentage/",
+          "summary": "Google added channel prioritization and budget allocation controls to Search, Shopping, Performance Max and Demand Gen, rolling out progressively from October 15. Advertisers can mark Search partners or the Display Network as low priority and set a best-effort daily cap as a share of average daily budget, with 0% stopping spend there, though ranking alone changes nothing for campaigns that aren't budget-limited. In February 2027, Search campaigns with Display turned on migrate automatically, and Google says a low-priority 50% allocation keeps today's setup.",
+          "tags": [
+            "google-ads",
+            "performance-max",
+            "budgets",
+            "display-network",
+            "search-partners"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-14"
+        },
+        {
+          "id": "amex-intent-intelligence-framework-oct15",
+          "category": "agentic-commerce",
+          "title": "Amex publishes a framework to block agent purchases that don't match what the shopper asked for",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+          "summary": "American Express released its Intent Intelligence Framework on October 13. A Create Intent API captures the shopper's instructions, such as merchant, maximum budget and product preferences, and once the shopper authenticates, a Proof of Intent Token is used to get a scoped payment credential for checkout. Amex says it can stop a purchase that strays from the request, like an agent buying Adidas when the shopper asked for white Nikes in size 9, so clear brand, title and variant data matter more for agent-placed orders.",
+          "tags": [
+            "amex",
+            "payments",
+            "agents",
+            "fraud",
+            "checkout"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "id": "meta-removes-manual-placements-sales-oct15",
+          "category": "marketing-automation",
+          "title": "Meta removes manual placement selection for Sales, Leads, Engagement and App campaigns",
+          "source": "Social Samosa",
+          "url": "https://www.socialsamosa.com/news-2/meta-removes-manual-placement-selection-ad-campaign-objectives-12671287",
+          "summary": "Meta is removing ad-set-level manual placement selection for Sales, Leads, Engagement and App promotion campaigns, while Awareness and Traffic keep it. Brands can still block Audience Network, Facebook Marketplace and the right column through account-level exclusions, now settable by campaign objective, and can adjust bids with placement value rules. Ads won't deliver where their media doesn't fit, so upload several aspect ratios (up to 10 images and videos per ad); Meta cites an experiment showing 10% lower cost per result with Advantage+ placements.",
+          "tags": [
+            "meta",
+            "advantage-plus",
+            "placements",
+            "paid-social"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "id": "google-ai-max-search-terms-ad-combinations-oct15",
+          "category": "marketing-automation",
+          "title": "Google Ads report shows which AI Max headlines and landing pages each search term got",
+          "source": "Search Engine Land",
+          "url": "https://searchengineland.com/google-ads-adds-search-terms-and-ad-combinations-report-for-ai-max-495476",
+          "summary": "A new Search terms and ad combinations report is appearing in some Google Ads accounts, putting each triggering query next to the headlines, descriptions and landing page it served. It also flags whether the match came from AI Max expanded matching or URL inclusions and whether the assets were advertiser-provided. Rollout timing isn't confirmed, but where it shows up, check top-spending terms for mismatches like a basic query landing on a premium product.",
+          "tags": [
+            "google-ads",
+            "ai-max",
+            "search",
+            "reporting"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "id": "google-ai-mode-shopping-ads-offers-oct15",
+          "category": "ai-merchandising",
+          "title": "Google AI Mode Shopping ads now display merchant promotions",
+          "source": "Search Engine Watch",
+          "url": "https://searchenginewatch.com/google-ai-mode-now-showing-offers-in-shopping-ads/",
+          "summary": "Shopping ads at the bottom of Google AI Mode answers are now showing offers such as \"Buy 4 get $20 off,\" with a details popup on click, the same way promotions already appear in regular Shopping ads. Until now these AI Mode ads showed only the image, name, price, brand and reviews. With holiday offers coming, get promotions submitted and approved in Merchant Center early so they can appear on this surface too.",
+          "tags": [
+            "google",
+            "ai-mode",
+            "shopping-ads",
+            "promotions"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-12"
+        },
+        {
+          "id": "shopify-sidekick-checkout-accounts-oct15",
+          "category": "ai-merchandising",
+          "title": "Shopify brings Sidekick into the checkout and customer accounts editor",
+          "source": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/customize-checkout-and-accounts-configurations-with-sidekick",
+          "summary": "Sidekick is now available in the desktop checkout and accounts editor, where merchants can ask how to configure checkout and customer account settings, get app recommendations and search the Help Center. In the Checkout Blocks app it can explain configured blocks and payment, delivery and validation functions. It guides rather than edits, pointing to the settings or steps so the team makes the change itself.",
+          "tags": [
+            "shopify",
+            "sidekick",
+            "checkout",
+            "customer-accounts"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-10-13"
+        },
+        {
+          "id": "grok-voice-3-support-calls-oct15",
+          "category": "ai-foundations",
+          "title": "Grok Voice 3.0 launches as a speech-to-speech model aimed at support calls",
+          "source": "SpaceXSI",
+          "url": "https://x.ai/news/grok-voice-3",
+          "summary": "Grok Voice 3.0 is available in the Voice Agent API at $0.08 per minute, the same price as its predecessor, with under-one-second latency and a first-place 86.9 on Artificial Analysis's Speech-to-Speech Index. The company says Starlink call centers use it for 20,000 calls a day, with about 70% resolved without a human. For teams weighing voice agents for order status, returns or phone sales, per-minute pricing makes the cost easy to compare against current support spend.",
+          "tags": [
+            "voice-ai",
+            "customer-service",
+            "models",
+            "api"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-14"
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "headline": "Wednesday Signal Brief",
