@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-10-15T08:00:00-05:00",
+  "updatedAt": "2026-10-16T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-16",
+      "headline": "Friday Signal Brief",
+      "lead": "AI shopping is moving into the places people already spend time, and the merchant's own site is turning into a later step in the journey. Google's Universal Cart now tracks products across retailers in Search and Gemini, Meta will start opening in-app product pages from live ads on October 28 unless advertisers opt out, and PayPal is putting checkout inside Glance's preinstalled shopping agent. Stripe says agent-driven commerce took off in September, so the brands that keep their feeds clean and check their Meta defaults this month will hold more control going into Black Friday.",
+      "items": [
+        {
+          "id": "google-universal-cart-us-launch-oct16",
+          "category": "agentic-commerce",
+          "title": "Google's Universal Cart goes live in US Search and the Gemini app",
+          "source": "Google",
+          "url": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+          "summary": "Google began rolling out Universal Cart in the U.S. on October 15, letting shoppers save products from multiple retailers across AI Mode in Search and the Gemini app and get alerts on price drops and restocks from its Shopping Graph. Checkout runs on the Universal Commerce Protocol, either through Google Pay inside the cart or by handing items to the merchant's own cart, and the merchant stays the seller of record; Google names Nike, Sephora, Target, Walmart, Wayfair and many Shopify merchants. Because the cart also surfaces promo codes and card perks, accurate price, availability and promotion data in your product feed matters more heading into the holidays.",
+          "tags": [
+            "google",
+            "universal-cart",
+            "ucp",
+            "gemini",
+            "checkout"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-15"
+        },
+        {
+          "id": "meta-product-browsing-default-oct16",
+          "category": "marketing-automation",
+          "title": "Meta will switch on product browsing in live Facebook and Instagram ads on October 28",
+          "source": "PPC Land",
+          "url": "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/",
+          "summary": "Meta told advertisers it will add product browsing to existing ads starting October 28 unless they opt out, so a tap may open an in-app page with product info and personalized suggestions before the shopper reaches your site. Meta cites 3% more conversions from an August test across about 117,700 advertisers but doesn't say which conversions or at what cost, and PPC Land found no public Meta documentation of the change. Decide before the 28th whether to use the opt-out or the per-ad toggle in Advantage+ Creative and Destination settings, and watch for reporting that mixes your creative's results with the experience Meta generates around it.",
+          "tags": [
+            "meta",
+            "advantage-plus",
+            "product-browsing",
+            "defaults",
+            "holiday"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-15"
+        },
+        {
+          "id": "stripe-agentic-commerce-vertical-oct16",
+          "category": "agentic-commerce",
+          "title": "Stripe says agentic commerce activity started \"going vertical\" in September",
+          "source": "Payments Dive",
+          "url": "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/",
+          "summary": "Stripe president John Collison said on his Cheeky Pint podcast, talking with Mark Zuckerberg and Alexandr Wang, that agent-driven commerce on Stripe took off in September, though he shared no figures. Wang said Meta's Muse is one of the first services where people fully delegate purchases, and Zuckerberg said far more businesses are asking Meta to integrate than are trying to block it. Treat it as a direction rather than a number, and check that your checkout and fraud rules can handle agent-placed orders before peak season.",
+          "tags": [
+            "stripe",
+            "meta-muse",
+            "agents",
+            "payments"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-15"
+        },
+        {
+          "id": "glance-paypal-agentic-checkout-oct16",
+          "category": "agentic-commerce",
+          "title": "PayPal brings native checkout to Glance's AI shopping agent",
+          "source": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20261015403540/en/Glance-and-PayPal-Bring-AI-Powered-Shopping-and-Checkout-to-Tens-of-Millions-of-U.S.-Consumers",
+          "summary": "Glance, an InMobi-backed AI shopping app that carriers and device makers preinstall on phones, made PayPal its only native in-app checkout on October 15. Shoppers can try on clothes with an AI avatar built from a single photo, build a cart and pay without leaving Glance, which says it is embedded on more than 60 million mobile and connected-TV devices. Merchants join through PayPal's agentic commerce services at paypal.ai, which PayPal pitches as one integration for multiple AI shopping surfaces with real-time pricing and availability.",
+          "tags": [
+            "paypal",
+            "glance",
+            "checkout",
+            "virtual-try-on",
+            "agents"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-15"
+        },
+        {
+          "id": "wix-symphony-link-agent-wallet-oct16",
+          "category": "agentic-commerce",
+          "title": "Wix's Symphony agents can now pay suppliers and bills through Stripe's Link wallet",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/15/3381745/0/en/symphony-by-wix-integrates-link-s-wallet-for-agents-built-by-stripe-enabling-ai-agents-to-make-payments-on-behalf-of-small-businesses.html",
+          "summary": "Symphony by Wix, Wix's standalone multi-agent system for small businesses, now connects to Link, Stripe's digital wallet, so its agents can reorder stock, pay supplier invoices and send make-good gift cards on the owner's behalf. The owner approves each spend within a 10-minute window by WhatsApp or SMS, and Stripe pays with a token or one-time virtual card capped at the approved amount. It is rolling out to Symphony users with a U.S. Link account and shows agents starting to handle the buying side of running a store, not just the selling side.",
+          "tags": [
+            "wix",
+            "stripe",
+            "link",
+            "agent-payments",
+            "smb"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-15"
+        },
+        {
+          "id": "shopify-flow-auto-shipping-labels-oct16",
+          "category": "marketing-automation",
+          "title": "Shopify Flow can now buy shipping labels automatically",
+          "source": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/buy-shipping-labels-automatically-with-shopify-flow",
+          "summary": "A new Shopify Flow action buys shipping labels as qualifying orders come in, using the carrier, service, package type, weight and ship date you choose. You can target orders by tag, by product, single-item orders, or any mix of order attributes, and orders that don't match are left alone. Starting from the ready-made template is a quick way to take label work off simple, repeatable orders before holiday volume hits.",
+          "tags": [
+            "shopify",
+            "shopify-flow",
+            "shipping",
+            "fulfillment",
+            "automation"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-10-15"
+        },
+        {
+          "id": "meta-muse-spark-open-oct16",
+          "category": "ai-foundations",
+          "title": "Meta releases Muse Spark Open, an open-weight model built for coding and agent work",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+          "summary": "Meta launched Muse Spark Open on October 15, an 816-billion-parameter, natively multimodal open-weight model with a 1 million token context window that Meta says beats other popular open-weight models on its own evaluations. It is available through several API platforms and can run locally on a Mac Studio with at least 1TB of RAM. For ecommerce teams it adds another open option for catalog enrichment, support and internal agents where you want more control over data and cost.",
+          "tags": [
+            "meta",
+            "open-weight",
+            "models",
+            "agents"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-10-15"
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "headline": "Thursday Signal Brief",
