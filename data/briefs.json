@@ -1,6 +1,131 @@
 {
-  "updatedAt": "2026-10-16T08:00:00-05:00",
+  "updatedAt": "2026-10-19T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-19",
+      "headline": "Monday Signal Brief",
+      "lead": "The tools for selling through AI agents kept shipping into the weekend, but most merchants still aren't letting agents buy. Shopify now passes shopper consent choices through agent carts and checkouts, Vercel and Fabric shipped ways to make Shopify catalogs readable to agents, and BrightEdge says agent purchases are growing about 43% a month while only about 3% of the ecommerce companies it works with let agents complete a transaction. On the ad side, Google started testing ads in personalized AI Mode and Meta walked back the AI-training language in its new business terms, so check your settings and terms before the holiday push.",
+      "items": [
+        {
+          "id": "agent-checkout-3-percent-brightedge-oct19",
+          "category": "agentic-commerce",
+          "title": "Agent purchases are growing 43% a month, but only about 3% of sellers let agents check out",
+          "source": "The Wall Street Journal",
+          "url": "https://www.wsj.com/business/ai-agents-bring-new-headaches-to-online-sellers-d2dc84b4",
+          "summary": "A Heard on the Street column cites BrightEdge estimates that purchases made through AI agents are growing about 43% month over month and have roughly quadrupled since April, while only about 3% of the ecommerce companies BrightEdge works with allow agents to complete transactions. Amazon blocks outside agents like Meta's Muse and OpenAI's Dots, Target only admits approved agents, and Walmart has partnered with OpenAI and Google. The open questions for merchants are returns and chargebacks when an agent buys the wrong thing, and how to prove an agent is authorized to pay.",
+          "tags": [
+            "agentic-checkout",
+            "brightedge",
+            "amazon",
+            "walmart",
+            "target"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-16"
+        },
+        {
+          "id": "shopify-ucp-buyer-consent-oct19",
+          "category": "agentic-commerce",
+          "title": "Shopify's Checkout MCP and Cart MCP now carry shopper consent choices from AI agents",
+          "source": "Shopify",
+          "url": "https://shopify.dev/changelog/posts/checkout-mcp-and-cart-mcp-now-support-ucp-buyer-consent",
+          "summary": "Agents using Shopify's Checkout MCP and Cart MCP on UCP version 2026-08-25 can now show shoppers the store's own privacy and marketing options, including email and SMS opt-in, and pass those choices to the shop with the cart, checkout and order. If an agent sends no consent, Shopify applies the shop's default settings for the buyer's country, and defaults to opt-out when the country is unknown. That means agent-placed orders can grow your email and SMS lists, but only if your consent defaults and policy pages are set up the way you want.",
+          "tags": [
+            "shopify",
+            "ucp",
+            "mcp",
+            "consent",
+            "email-sms"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-16"
+        },
+        {
+          "id": "vercel-shop-ga-oct19",
+          "category": "agentic-commerce",
+          "title": "Vercel Shop, an open source agent-ready Shopify storefront, is generally available",
+          "source": "Vercel",
+          "url": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
+          "summary": "Vercel's open source Next.js storefront template for Shopify is now generally available, built on the rebuilt Hydrogen SDK. The same product URL can serve a normal page to shoppers or machine-readable price, availability and options to agents, and the template exposes UCP catalog search and cart tools over MCP at the merchant's own domain. It's mainly relevant to headless or Plus brands weighing a rebuild, since it bundles agent access, structured data and an on-site shopping assistant in one codebase.",
+          "tags": [
+            "vercel",
+            "shopify",
+            "hydrogen",
+            "headless",
+            "ucp"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-16"
+        },
+        {
+          "id": "fabric-for-shopify-catalog-oct19",
+          "category": "ai-merchandising",
+          "title": "Fabric launches a Shopify app that enriches catalogs so AI agents can recommend products",
+          "source": "Fabric",
+          "url": "https://fabric.inc/blog/agentic-commerce-on-shopify-just-got-easy",
+          "summary": "Fabric's new Shopify app syncs a store's full catalog, uses a merchant agent to help enrich product attributes, and publishes the results back to the theme. Enriched attributes are written to metafields, JSON-LD Product schema is added for agents, and merchants choose whether each attribute is shown to shoppers, agents or both. It's another sign that thin product data, not missing protocols, is now the main reason products don't show up in agent answers.",
+          "tags": [
+            "fabric",
+            "shopify",
+            "product-data",
+            "metafields",
+            "schema"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-16"
+        },
+        {
+          "id": "google-ai-mode-personal-intelligence-ads-oct19",
+          "category": "marketing-automation",
+          "title": "Google starts testing ads in AI Mode for users who connect their apps",
+          "source": "Search Engine Land",
+          "url": "https://searchengineland.com/google-begins-testing-ads-in-ai-mode-for-users-with-personal-intelligence-enabled-496990",
+          "summary": "Google is testing ads in AI Mode for people who opt into Personal Intelligence, which was ad-free when it launched, and insights from their connected Google apps may now help pick which ads they see. Google says ads won't be targeted directly on Gmail or Photos content, advertisers can't access connected apps, and sensitive data isn't used. No new advertiser controls or targeting options have been announced, so for now the practical step is to watch AI Mode placements in your Search and Shopping reporting.",
+          "tags": [
+            "google",
+            "ai-mode",
+            "personal-intelligence",
+            "ads",
+            "privacy"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-16"
+        },
+        {
+          "id": "meta-commercial-terms-training-language-removed-oct19",
+          "category": "marketing-automation",
+          "title": "Meta removes AI-training language from its new commercial terms after pushback",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "summary": "Meta's updated commercial terms had said it could use content from a business account's domains and web pages to develop and train its products, which legal experts quoted by Nieman Lab read as permission to scrape any site with a Meta business account. Meta has now removed that provision and says the consolidated crawling terms only apply to its ads and business products and don't change how it uses web crawlers. Brands advertising on Meta should still expect its crawler to read their product pages for ad and shopping features, so keep prices, availability and policies on those pages accurate.",
+          "tags": [
+            "meta",
+            "terms",
+            "crawling",
+            "ai-training",
+            "advertisers"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-17"
+        },
+        {
+          "id": "google-merchant-center-warranty-attribute-oct19",
+          "category": "ai-merchandising",
+          "title": "Google Merchant Center adds a warranty attribute for all product types",
+          "source": "Search Engine Land",
+          "url": "https://searchengineland.com/google-merchant-center-adds-warranty-attribute-for-product-listings-497026",
+          "summary": "Merchant Center now accepts a warranty attribute for general products in Shopping ads and free listings, not just vehicle ads in Japan, using a duration and a unit of months or years (for example 3:year). It's optional in most cases but may be required where local rules demand warranty disclosure, such as Quebec's Bill 29. Google hasn't promised any visibility boost, but it's one more structured field shoppers and AI answers can compare, so add it where you offer a real warranty.",
+          "tags": [
+            "google",
+            "merchant-center",
+            "product-feed",
+            "warranty"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-10-16"
+        }
+      ]
+    },
     {
       "date": "2026-10-16",
       "headline": "Friday Signal Brief",
