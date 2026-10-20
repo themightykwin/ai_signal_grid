@@ -1,6 +1,129 @@
 {
-  "updatedAt": "2026-10-19T08:00:00-05:00",
+  "updatedAt": "2026-10-20T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-20",
+      "headline": "Tuesday Signal Brief",
+      "lead": "Money20/20 USA opened in Las Vegas, and the agent conversation has moved from checkout buttons to trust: proving who an agent works for, what it's allowed to spend, and who eats the loss when it gets it wrong. Skyfire and Forter are feeding agent identity into fraud decisions, Visa has trusted agents paying real invoices through supplier portals, and Proof and Circle showed identity and payment in one step. Meanwhile TikTok is shortening the path from video to purchase, and analysts see Walmart's open-door approach to agents paying off while Amazon keeps them out.",
+      "items": [
+        {
+          "id": "skyfire-forter-kya-fraud-oct20",
+          "category": "agentic-commerce",
+          "title": "Forter adds Skyfire's agent identity tokens to its fraud decisions as agent orders quadruple",
+          "source": "FinTech Global",
+          "url": "https://fintech.global/2026/10/19/skyfire-and-forter-target-fraud-in-ai-agent-checkout/",
+          "summary": "Forter now uses Skyfire's Know Your Agent (KYA) tokens inside its fraud product for agent purchases, so merchants can tell an authorized shopping agent from a bot pretending to be one. The companies say agentic orders flowing through Forter's network have more than quadrupled since August, and that standard bot defenses often decline legitimate agent buyers. Merchants don't need to change their checkout, but it's worth asking your fraud vendor how it scores agent traffic before the holiday rush.",
+          "tags": [
+            "fraud",
+            "know-your-agent",
+            "forter",
+            "skyfire",
+            "checkout"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-19"
+        },
+        {
+          "id": "visa-bill-billtrust-agent-payments-oct20",
+          "category": "agentic-commerce",
+          "title": "Visa, BILL and Billtrust launch a live pilot where trusted AI agents pay supplier invoices",
+          "source": "Visa",
+          "url": "https://investor.visa.com/news/news-details/2026/Visa-BILL-and-Billtrust-Launch-First-Live-Pilot-for-Trusted-AI-Agent-Payments-Between-Buyer-and-Supplier-Platforms/default.aspx",
+          "summary": "BILL's payment agent, registered through Visa's Trusted Agent Protocol and Agentic Directory, now pays approved invoices end to end through Billtrust supplier portals using tokenized cards and the buyer's payment rules. Visa says the agent authentication can stand in for CAPTCHA and other bot blocks without a separate agent login, and the pilot is processing live transactions. It's B2B for now, but it shows how verified agents could get past the same bot walls that block them on retail sites.",
+          "tags": [
+            "visa",
+            "trusted-agent-protocol",
+            "b2b-payments",
+            "bill",
+            "billtrust"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "id": "proof-circle-x401-x402-usdc-oct20",
+          "category": "agentic-commerce",
+          "title": "Proof and Circle demo an agent that proves who it buys for and pays in USDC in one step",
+          "source": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/circle-proof-identity-usdc-payments-money2020/",
+          "summary": "At Money20/20, Proof and Circle showed an agent presenting a verified identity credential over Proof's x401 protocol, then paying in USDC from a Circle Agent Wallet over x402. The merchant sees only the identity details it needs and gets signed proof of payment it can use in a dispute. It's a demo, not a product launch, but it points to age-restricted and high-value sellers being able to check identity and authority in the same exchange as the payment.",
+          "tags": [
+            "x402",
+            "x401",
+            "stablecoins",
+            "circle",
+            "identity"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-19"
+        },
+        {
+          "id": "tiktok-shoplazza-buy-direct-oct20",
+          "category": "agentic-commerce",
+          "title": "TikTok teams with Shoplazza to power Buy Direct and its Shopping Assistant",
+          "source": "PYMNTS",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/tiktok-turns-to-shoplazza-to-power-agentic-commerce-offering/",
+          "summary": "Shoplazza is a commerce and payment partner for TikTok's new Buy Direct, which lets people buy from brands inside TikTok over the Universal Commerce Protocol while the brand stays merchant of record. TikTok's Shopping Assistant also answers product questions from merchant-supplied page data in the in-app browser. If you sell through TikTok ads, accurate product data and a short path to checkout now matter as much as the creative.",
+          "tags": [
+            "tiktok",
+            "ucp",
+            "buy-direct",
+            "shoplazza",
+            "social-commerce"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-19"
+        },
+        {
+          "id": "bofa-walmart-agent-shopping-oct20",
+          "category": "agentic-commerce",
+          "title": "Bank of America analysts say Walmart's open stance on shopping agents positions it to win",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/article/amazon-blocks-agentic-ai-shopping-but-walmart-is-betting-big-that-its-worth-saying-yes-100000436.html",
+          "summary": "A Bank of America note published Monday cites Walmart's integrations with multiple AI ecosystems, its own Sparky assistant, and partnerships with agents like Meta's Muse as reasons it's well placed if shoppers hand buying to agents. Amazon blocks Muse and bans outside automated shopping tools. The analysts say most people still use AI to research rather than buy, so the bet is about getting in while habits form, and it leaves open what agent checkout does to retail ad businesses.",
+          "tags": [
+            "walmart",
+            "amazon",
+            "meta-muse",
+            "retail-strategy"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "id": "money2020-know-your-agent-liability-oct20",
+          "category": "ai-foundations",
+          "title": "At Money20/20, identity vendors say agents are breaking merchant fraud signals",
+          "source": "FinTech Futures",
+          "url": "https://www.fintechfutures.com/blockchain-crypto-digital-assets/money20-20-usa-2026-stablecoins-and-id-verification-dominate-opening-day",
+          "summary": "On a Know Your Agent panel, Skyfire's CEO said a real agent can show up from IP addresses in three locations, which is exactly what merchant fraud tools treat as a red flag. VGS's CEO said properly verified agents with clear spend limits could eventually shift some liability to issuers and networks and away from merchants, who are the least prepared to absorb it. Nothing has changed in the rules yet, so for now chargeback risk on agent orders still sits with the seller.",
+          "tags": [
+            "know-your-agent",
+            "fraud",
+            "chargebacks",
+            "money2020"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "id": "perfect-corp-glasses-removal-oct20",
+          "category": "ai-merchandising",
+          "title": "Perfect Corp. uses generative AI to remove shoppers' own glasses during virtual try-on",
+          "source": "Business Wire via FinancialContent",
+          "url": "https://markets.financialcontent.com/stocks/article/bizwire-2026-10-20-perfect-corp-launches-genai-powered-glasses-removal-letting-glasses-wearers-try-on-new-frames-without-taking-theirs-off",
+          "summary": "Perfect Corp. added a Glasses Removal feature to its eyewear virtual try-on that rebuilds the face behind a shopper's current glasses, so they can keep them on and still see each new frame clearly. It replaces older frame-masking methods that left smudges and outlines, and works on websites, apps and in-store kiosks through one integration. Brands only need three product photos per frame to create a try-on item.",
+          "tags": [
+            "virtual-try-on",
+            "eyewear",
+            "generative-ai",
+            "perfect-corp"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-10-20"
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "headline": "Monday Signal Brief",
