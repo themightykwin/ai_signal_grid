@@ -1,6 +1,128 @@
 {
-  "updatedAt": "2026-10-20T08:00:00-05:00",
+  "updatedAt": "2026-10-21T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-21",
+      "headline": "Wednesday Signal Brief",
+      "lead": "Agent readiness is turning into a platform default instead of a project. Commerce switched on WebMCP for eligible BigCommerce stores with no merchant setup, Target finally shipped its own shopping assistant, and Yotpo launched a tool that shows brands where AI answers leave them out. On the payments side, Money20/20 kept circling trust: Amex research says shoppers are far more comfortable letting AI research than letting it buy, while Mastercard and Evervault shipped new ways to cap what an agent can spend and see.",
+      "items": [
+        {
+          "id": "commerce-cloudflare-webmcp-oct21",
+          "category": "agentic-commerce",
+          "title": "Commerce and Cloudflare turn on WebMCP by default so browser agents can shop BigCommerce stores",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/21/3385458/0/en/commerce-and-cloudflare-bring-ai-shopping-assistants-to-bigcommerce-merchants-online-stores-with-webmcp.html",
+          "summary": "Eligible BigCommerce stores now tell a shopper's browser agent what they sell and what actions it can take, so the agent can search real products, prices and stock, fill a cart, and hand back a link to finish checkout on the merchant's site. It's on by default with no code changes, and merchants can switch it off in a new settings menu that manages all of Commerce's AI connections. If you're on BigCommerce, check that setting and your catalog data now, because agents will read exactly what's there.",
+          "tags": [
+            "webmcp",
+            "bigcommerce",
+            "cloudflare",
+            "agent-readiness",
+            "checkout"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "id": "amex-agent-trust-money2020-oct21",
+          "category": "agentic-commerce",
+          "title": "Amex at Money20/20: 59% of shoppers are fine with AI research, but only 36% with AI buying",
+          "source": "FinTech Futures",
+          "url": "https://www.fintechfutures.com/ai-in-fintech/money2020-usa-2026-agentic-commerce-take-centre-stage-on-day-two",
+          "summary": "On a day-two panel, Amex Digital Labs cited research showing 59% of US consumers are comfortable using AI for product research versus 36% for letting an agent complete a purchase, and nearly 75% say buying from a preferred merchant still matters when AI shops for them. Walmart and Google speakers echoed that agents should support the retailer relationship, with Google pointing to UCP-enabled checkouts already live with US merchants. For brands, discovery is where agents matter today, and brand loyalty still carries into agent-led purchases.",
+          "tags": [
+            "consumer-trust",
+            "amex",
+            "walmart",
+            "google",
+            "money2020"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "id": "target-ask-target-beta-oct21",
+          "category": "ai-merchandising",
+          "title": "Target launches Ask Target, a beta AI shopping assistant, ahead of the holidays",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/target-rolls-out-ai-shopping-assistant-for-holiday-push-2026-10",
+          "summary": "Target released a beta of its Ask Target chatbot in time for holiday shopping, catching up with Amazon, Walmart and Lowe's, which have offered assistants for months. It answers general Target questions as well as gift queries, and comes two months after Target hired former Lowe's AI head Chandhu Nair as chief AI officer. Walmart says Sparky users build baskets 40% larger, so expect shoppers to get used to asking a retailer's own bot instead of browsing.",
+          "tags": [
+            "target",
+            "shopping-assistant",
+            "holiday",
+            "retail"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "id": "yotpo-discover-ai-visibility-oct20",
+          "category": "marketing-automation",
+          "title": "Yotpo launches Discover to show brands where AI answers recommend competitors instead of them",
+          "source": "USA Today (Yotpo press release)",
+          "url": "https://www.usatoday.com/press-release/story/51669/yotpo-discover-helps-ecommerce-brands-influence-how-ai-recommends-their-products/",
+          "summary": "Discover tracks where a brand's products appear in AI shopping answers by product, category, region and buying stage, shows which competitors get recommended instead, and turns the gaps into content and product-page fixes using reviews and other customer signals. Yotpo's case studies report Aetrex saw a 62% increase in No. 1 placements in AI answers, and an MCP connection lets teams pull the data into Claude and similar tools. It works with Shopify, Salesforce Commerce, Adobe Commerce and BigCommerce.",
+          "tags": [
+            "yotpo",
+            "ai-visibility",
+            "aeo",
+            "reviews",
+            "mcp"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "id": "mastercard-agent-pay-machines-oct20",
+          "category": "agentic-commerce",
+          "title": "Mastercard opens early access to Agent Pay for Machines, built on the x402 payment protocol",
+          "source": "Mastercard",
+          "url": "https://www.mastercard.com/global/en/news-and-trends/press/2026/october/Mastercard-Agent-Pay-for-Machines-in-action.html",
+          "summary": "At Cloudflare Connect, Mastercard showed agents paying for digital services with signed vouchers that stay inside a budget and task the business approves, then opened early access to its APIs and documentation after pilots with Cloudflare, Coinbase and others. The demo had a marketing agency's agent buy social research and generated campaign images on its own. It's aimed at agents buying data and tools, not shoppers buying products, but it's a preview of how spend limits for agents will work.",
+          "tags": [
+            "mastercard",
+            "x402",
+            "agent-payments",
+            "cloudflare"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "id": "evervault-browser-tokens-oct20",
+          "category": "agentic-commerce",
+          "title": "Evervault's Browser Tokens let agents check out on any site without seeing the real card",
+          "source": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20261020664529/en/Evervault-Launches-Browser-Tokens-Enabling-Secure-Agentic-Payments",
+          "summary": "Evervault swaps card numbers, passwords and personal data for short-lived tokens that agents and hosted browsers handle instead, restoring the real values only for destinations the developer approves. It works on existing checkout pages without merchants adopting any agent protocol. That means more agent orders may arrive through your normal checkout looking like ordinary browser sessions, which is another reason to know how your fraud tools treat automated traffic.",
+          "tags": [
+            "evervault",
+            "tokenization",
+            "agent-checkout",
+            "security"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-20"
+        },
+        {
+          "id": "reign-woocommerce-checkout-oct20",
+          "category": "ai-foundations",
+          "title": "Reign and WooCommerce partner on AI-built checkouts and payment routing for social-first brands",
+          "source": "EIN Presswire",
+          "url": "https://www.einpresswire.com/article/951032213/reign-com-and-woocommerce-partner-to-bring-ai-native-checkout-and-payments-to-more-than-four-million-online-stores",
+          "summary": "Reign will bring its AI-built checkout pages, routing across more than 150 payment integrations, failed-payment recovery and portable subscription billing to WooCommerce stores, with the extension expected in Q1 2027. It's pitched at direct-response and subscription brands driving traffic from TikTok, Instagram and Facebook that want to own their checkout and cards on file. Nothing ships this year, but it's one to watch if you run subscriptions on WooCommerce.",
+          "tags": [
+            "woocommerce",
+            "checkout",
+            "subscriptions",
+            "payments"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-10-20"
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "headline": "Tuesday Signal Brief",
