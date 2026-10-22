@@ -1,6 +1,129 @@
 {
-  "updatedAt": "2026-10-21T08:00:00-05:00",
+  "updatedAt": "2026-10-22T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-22",
+      "headline": "Thursday Signal Brief",
+      "lead": "Agents are getting rules of the road. Walmart opened an MCP gateway for shopping agents with its own terms, spending limits and agent-only purchase history, and Meta said it will charge businesses a fee on sales its Muse agent helps close. On the ad side, the platforms are taking more of the wheel: ChatGPT Ads will start rewriting copy and URLs by default on October 30, and a new Semrush study finds AI Overviews on 88% of tracked commercial searches.",
+      "items": [
+        {
+          "id": "walmart-agent-gateway-oct22",
+          "category": "agentic-commerce",
+          "title": "Walmart launches an MCP Agent Gateway, Agent Profiles with spending limits, and terms shopping agents must follow",
+          "source": "Walmart",
+          "url": "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers",
+          "summary": "Walmart is giving approved agents an MCP connection to shop Walmart and Sam's Club, starting as a beta for companies and developers, and next month adds Agent Profiles so shoppers can see each agent's purchases separately and cap spending at amounts like $50, $100 or $200. Its new agent terms say purchases need approval by default, agents never see card details, normal returns apply even when an agent gets it wrong, and agents that break the rules get blocked. It's the clearest template yet for what a retailer's agent policy looks like, and a useful checklist if you're deciding whether to block or welcome agents on your own store.",
+          "tags": [
+            "walmart",
+            "mcp",
+            "agent-terms",
+            "spending-limits",
+            "agent-readiness"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "id": "meta-muse-commerce-fees-oct22",
+          "category": "agentic-commerce",
+          "title": "Meta says 10 million people have set up Muse, shopping is the top use, and businesses will pay a fee on agent sales",
+          "source": "PPC Land",
+          "url": "https://ppc.land/metas-ads-with-creators-gain-97-to-a-15bn-annual-run-rate/",
+          "summary": "On Meta's Q3 earnings call, Mark Zuckerberg said more than 10 million people in the US and Canada have set up Muse agents in about six weeks, and that shopping is the most common use, with average purchases over $200. Meta plans to keep Muse free for users and charge businesses a fee on the transactions it helps complete, though no rate or start date was given. The same call put creator partnership ads at a $15 billion run rate, up 97% year over year, so creator-led ads and agent-driven sales are both becoming line items DTC brands will pay Meta for.",
+          "tags": [
+            "meta",
+            "muse",
+            "earnings",
+            "transaction-fees",
+            "partnership-ads"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "id": "chatgpt-ads-creative-enhancements-oct22",
+          "category": "marketing-automation",
+          "title": "ChatGPT Ads will rewrite headlines, descriptions and landing URLs by default starting October 30",
+          "source": "Search Engine Land",
+          "url": "https://searchengineland.com/chatgpt-ads-to-enable-creative-enhancements-on-october-30-497608",
+          "summary": "OpenAI told advertisers it will switch on creative enhancements for new and existing self-serve ChatGPT campaigns on October 30, letting the system adjust headlines and descriptions, resize images, translate copy and optimize destination URLs based on the conversation. Those variations can run without you reviewing each one. If you advertise on ChatGPT and have claims, pricing or compliance copy that can't drift, check the account and campaign toggles in Ads Manager before the date.",
+          "tags": [
+            "openai",
+            "chatgpt-ads",
+            "creative-automation",
+            "opt-out"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "id": "semrush-aio-commercial-keywords-oct22",
+          "category": "ai-merchandising",
+          "title": "Semrush finds AI Overviews on 88% of tracked commercial searches, with ecommerce queries jumping the most",
+          "source": "Semrush",
+          "url": "https://www.semrush.com/blog/ai-overviews-commercial-modifiers-study/",
+          "summary": "Across 400 US commercial keywords tracked from September 2025 to August 2026, AI Overview coverage rose from 45.75% to 88%, and to 97% when weighted by search volume. Ecommerce queries had the biggest rise, from 32.62% to 85.11%, and ecommerce price and cost searches went from under 5% to over 71%. For product pages and buying guides, that means the AI summary is now the first impression on most decision-stage searches, so check what it says about you and which review sites it cites.",
+          "tags": [
+            "google",
+            "ai-overviews",
+            "seo",
+            "semrush",
+            "study"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "id": "cafe24-webmcp-all-stores-oct22",
+          "category": "agentic-commerce",
+          "title": "Cafe24 turns on WebMCP for every store on its platform",
+          "source": "Digital Today",
+          "url": "https://www.digitaltoday.co.kr/en/view/117909/cafe24-connects-ai-agents-across-all-its-online-stores",
+          "summary": "South Korean commerce platform Cafe24 applied WebMCP to all stores built on it, exposing 11 shopping functions to browser agents, from product search and option selection to cart edits, single-item purchase and order lookups. Shoppers still handle login and final payment themselves. Coming a day after BigCommerce did the same, it shows platforms making agent-readable storefronts a default feature rather than a merchant project.",
+          "tags": [
+            "cafe24",
+            "webmcp",
+            "browser-agents",
+            "platforms"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "id": "meta-catalog-product-metrics-oct22",
+          "category": "marketing-automation",
+          "title": "Meta Ads Manager appears to add product-level spend and sales for catalog campaigns",
+          "source": "PPC Land",
+          "url": "https://ppc.land/meta-ads-manager-gains-7-product-level-metrics-for-catalog-campaigns/",
+          "summary": "Advertisers are reporting a new 'Top products in your campaign' panel in Ads Manager that ranks catalog items by spend, clicks, views, purchases and attributed orders, filterable by ad set. Meta hasn't documented it yet, and one advertiser says it counts sitelinks as products, so treat the numbers with care. If it's in your account, it's a quick way to spot products soaking up budget without sales before Black Friday.",
+          "tags": [
+            "meta",
+            "catalog-ads",
+            "reporting",
+            "advantage-plus"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "id": "stripe-treasury-agents-oct22",
+          "category": "ai-foundations",
+          "title": "Stripe Treasury for agents lets ChatGPT, Claude and other agents check balances and pay invoices with approval",
+          "source": "Stripe",
+          "url": "https://stripe.com/newsroom/news/treasury-for-agents",
+          "summary": "Stripe now lets businesses connect agents to their Stripe Treasury accounts through its MCP server to check balances, pay invoices, move money between accounts and convert currencies. Owners choose which accounts an agent can see, whether it can act or only read, and when money movement needs a human sign-off, with agent spending limits coming in the next few weeks. For small brands already on Stripe, it's a practical step toward agents handling back-office finance, not just storefront tasks.",
+          "tags": [
+            "stripe",
+            "treasury",
+            "mcp",
+            "back-office",
+            "approvals"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-21"
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "headline": "Wednesday Signal Brief",
