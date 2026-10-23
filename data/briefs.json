@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-10-22T08:00:00-05:00",
+  "updatedAt": "2026-10-23T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-23",
+      "headline": "Friday Signal Brief",
+      "lead": "The platforms are switching AI on for you and handing you the bill. Meta's new terms make advertisers solely responsible for whatever its AI changes in their ads from October 30, and Google quietly added Performance Max options that pull images and videos from your site and social channels, with one reportedly on by default. Etsy went the other way, banning bot-made listings and requiring a real photo of every item, while Anthropic's new Claude Duet joins the agents that can buy with Shop Pay and Link.",
+      "items": [
+        {
+          "id": "meta-ai-features-advertiser-liability-oct23",
+          "category": "marketing-automation",
+          "title": "Meta's October 30 terms make advertisers solely responsible for what its AI changes in their ads",
+          "source": "PPC Land",
+          "url": "https://ppc.land/metas-ai-rewrites-the-ads-from-october-30-advertisers-carry-the-risk/",
+          "summary": "Meta's revised Commercial Terms add an 'AI Features' section that, per Adweek's reading, makes advertisers solely responsible for anything Meta's AI creates or edits in their ads, including features Meta switches on itself, and continued use counts as acceptance. It landed the same week advertisers like Bookshop.org reported Meta 'enhancing' their ads with imagery nobody on their team made. Before October 30, open every active campaign's creative settings, turn off the generative enhancements you haven't approved, and spot-check live ads for edits.",
+          "tags": ["meta-ads", "advantage-plus-creative", "ad-policy", "brand-safety"],
+          "significance": "high",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "id": "google-pmax-sourced-videos-oct23",
+          "category": "marketing-automation",
+          "title": "Google Performance Max adds Landing page images and Sourced videos, and one may already be on",
+          "source": "Search Engine Land",
+          "url": "https://searchengineland.com/google-ads-adds-new-image-and-video-sourcing-options-to-performance-max-498204",
+          "summary": "Two new asset optimization toggles let Google pull images from your website and videos from your social channels, landing pages and linked YouTube channels into Performance Max, with up to 10 sourced videos per asset group. The advertiser who spotted it says Sourced videos was enabled automatically. Check each PMax campaign's asset optimization settings now, and make sure you actually hold ad rights to any creator or UGC video on your socials before leaving it on.",
+          "tags": ["google-ads", "performance-max", "creative-automation", "ugc-rights"],
+          "significance": "high",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "id": "etsy-ai-listing-rules-oct23",
+          "category": "ai-merchandising",
+          "title": "Etsy bans AI-made patterns and recipes, bot-generated listings, and listings without a real photo",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
+          "summary": "Etsy will stop allowing AI-generated recipes, patterns and instructions, bars listings created by bots with no human involvement, and requires at least one unedited photo of the actual item. Etsy said buyers' confusion over AI content has become a top-three barrier to shopping more often. AI-assisted art stays allowed with disclosure, so sellers using AI for listing copy or mockups should add real product photos and clear disclosures before the rules bite.",
+          "tags": ["etsy", "marketplace-policy", "ai-disclosure", "product-photos"],
+          "significance": "high",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "id": "claude-duet-shop-pay-link-oct23",
+          "category": "agentic-commerce",
+          "title": "Anthropic launches Claude Duet, an agent that can buy with Stripe Link and Shop Pay",
+          "source": "Anthropic",
+          "url": "https://claude.com/resources/articles/claude-duet",
+          "summary": "Claude Duet is a research-preview app for professionals and small business owners that monitors connected apps, works in the background and checks in before acting. Stripe says Duet can buy things anywhere online with Link's agent wallet using a virtual card after the user approves each purchase, and can send invoices, manage prices and issue refunds through Stripe MCP; TechCrunch reports Shop Pay checkout too. It's another big agent that buys through wallets your store may already accept, so Shop Pay and Link being on at checkout matters more each week.",
+          "tags": ["anthropic", "claude-duet", "stripe-link", "shop-pay", "agent-payments"],
+          "significance": "medium",
+          "publishedAt": "2026-10-21"
+        },
+        {
+          "id": "verge-agents-blocked-bot-checks-oct23",
+          "category": "agentic-commerce",
+          "title": "The Verge finds shopping agents tripping over retailer bot checks as often as outright bans",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+          "summary": "Testing Meta's Muse, The Verge found it caught in Target's bot check one day and let through the next, while Amazon hard-blocks it. Target told the reporter that agent access can depend on how the agent approaches the site and that some areas stay closed to protect accounts. If you want agent orders, check whether your bot protection or firewall is quietly blocking them; if you don't, write down a policy rather than leaving it to whatever your firewall happens to do.",
+          "tags": ["agent-access", "bot-protection", "meta-muse", "amazon", "target"],
+          "significance": "medium",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "id": "merchant-center-conversational-attributes-oct23",
+          "category": "ai-merchandising",
+          "title": "A field guide to Google Merchant Center's six conversational attributes for AI Mode",
+          "source": "Search Engine Land",
+          "url": "https://searchengineland.com/google-merchant-center-conversational-attributes-explained-497702",
+          "summary": "Search Engine Land breaks down the six optional attributes Google uses to understand products in AI Mode and AI Overviews: question_and_answer, document_link, related_product, item_group_title, variant_option and popularity_rank. Google recommends adding them through a supplemental feed so your main product data stays untouched, and they don't affect existing approvals. Start with Q&A on your top sellers, then use the AI performance insights report to see where you show up.",
+          "tags": ["google-merchant-center", "ai-mode", "product-feeds", "conversational-attributes"],
+          "significance": "medium",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "id": "therabody-aws-shopping-assistant-oct23",
+          "category": "ai-merchandising",
+          "title": "Therabody launches an AI shopping assistant on AWS's packaged Agentic Shopping Assistant in under 90 days",
+          "source": "Amazon (AWS)",
+          "url": "https://press.aboutamazon.com/aws/2026/10/therabody-launches-ai-shopping-assistant-jason-with-aws-to-deliver-personalized-science-backed-recommendations-for-every-body",
+          "summary": "Therabody's assistant, Jason, asks shoppers about their goal, budget and lifestyle, then recommends a device and explains why. It's built on AWS's Agentic Shopping Assistant, configured around Therabody's own products and compliance rules, and launched in under 90 days. For brands with considered purchases, a guided-selling assistant is becoming an off-the-shelf build rather than a custom project.",
+          "tags": ["aws", "on-site-assistant", "guided-selling", "therabody"],
+          "significance": "low",
+          "publishedAt": "2026-10-21"
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "headline": "Thursday Signal Brief",
