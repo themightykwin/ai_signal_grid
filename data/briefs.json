@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-10-23T08:00:00-05:00",
+  "updatedAt": "2026-10-26T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-26",
+      "headline": "Monday Signal Brief",
+      "lead": "A quiet weekend, but the pattern held: the platforms keep writing more of your ad for you. Google now drops AI-written, positive-only review summaries into Search ads that advertisers can't edit, and Meta pushed its AI terms to November 20 without changing the clause that makes advertisers liable for its AI edits. Meta also put a number on over-split accounts, while Naver and Glance show agent checkout spreading beyond the US giants.",
+      "items": [
+        {
+          "id": "google-ai-review-summaries-search-ads-oct26",
+          "category": "marketing-automation",
+          "title": "Google's AI now writes positive-only review summaries into Search ads, and advertisers can't edit them",
+          "source": "PPC Land",
+          "url": "https://ppc.land/google-ai-writes-positive-only-review-summaries-into-search-ads-in-4-markets/",
+          "summary": "A new Google Ads help page describes AI-generated summaries of online reviews that appear inside Search ads in the US, UK, Australia and India, pulling positive comments from across the web. Advertisers can't edit the text, and the page gives no opt-out, reporting column or detail on which review sources are used. What third-party review sites say about your store now feeds your paid ads, so audit your reviews off your own site and fix recurring complaints before peak season.",
+          "tags": ["google-ads", "reviews", "ai-generated-ads", "search-ads"],
+          "significance": "high",
+          "publishedAt": "2026-10-25"
+        },
+        {
+          "id": "meta-ai-terms-delayed-nov20-oct26",
+          "category": "marketing-automation",
+          "title": "Meta delays its new AI terms to November 20, but the advertiser liability clause hasn't changed",
+          "source": "PPC Land",
+          "url": "https://ppc.land/meta-delays-its-ai-terms-to-november-20-the-trust-problem-does-not-move/",
+          "summary": "Meta told Reuters on Friday that its revised Commercial and Self-Serve Ad Terms will take effect November 20 instead of October 30, after publishers complained to EU and UK regulators. Meta did not say it would change the text: the AI Features section still leaves businesses solely responsible for what Meta's AI does in their ads, and the website-crawling clause remains. Use the extra three weeks to switch off Advantage+ creative enhancements you haven't approved, and note that product browsing still turns on in existing ads October 28 unless you opt out.",
+          "tags": ["meta-ads", "ad-policy", "advantage-plus-creative", "brand-safety"],
+          "significance": "high",
+          "publishedAt": "2026-10-23"
+        },
+        {
+          "id": "meta-50-weekly-conversions-28-percent-oct26",
+          "category": "marketing-automation",
+          "title": "Meta says ad sets under 50 weekly conversions cost about 28% more per purchase",
+          "source": "PPC Land",
+          "url": "https://ppc.land/meta-says-ad-sets-under-50-weekly-conversions-cost-28-more-per-purchase/",
+          "summary": "In a peak-season best-practice post, Meta says ad sets getting fewer than roughly 50 conversions a week ran about 28% more expensive per purchase in its own analysis, though it doesn't publish the method. Its rule of thumb is weekly budget divided by (cost per purchase x 50) equals the most ad sets your budget can support, so $20,000 a week at a $40 CPA supports about 10. Before Black Friday, consolidate thin ad sets and group your edits so campaigns aren't constantly re-entering learning.",
+          "tags": ["meta-ads", "learning-phase", "account-structure", "peak-season"],
+          "significance": "medium",
+          "publishedAt": "2026-10-25"
+        },
+        {
+          "id": "naver-ai-shopping-agent-payments-oct26",
+          "category": "agentic-commerce",
+          "title": "Naver will pilot in-agent payment in its AI shopping agent, aiming to launch by year-end",
+          "source": "Aju Press",
+          "url": "https://www.ajupress.com/view/20261025174070349",
+          "summary": "Naver said it will pilot payment inside its AI shopping agent for select product categories, so shoppers can go from search and comparison to purchase without leaving the agent, and it's bringing the agent to desktop web. Naver says the agent's monthly users and daily conversations grew about fivefold from March to August, and daily transaction volume through it quadrupled. It's another big marketplace moving checkout into the agent itself, which makes clean product data and accurate pricing the thing that wins the sale.",
+          "tags": ["naver", "agent-checkout", "korea", "marketplaces"],
+          "significance": "medium",
+          "publishedAt": "2026-10-25"
+        },
+        {
+          "id": "l-catterton-invests-glance-oct26",
+          "category": "agentic-commerce",
+          "title": "L Catterton invests in Glance's AI shopping platform to fund its US expansion",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/companies/l-catterton-invests-in-inmobi-backed-glance-to-tap-ai-led-shopping-14060062.html",
+          "summary": "Consumer investor L Catterton made a strategic investment, terms undisclosed, in Glance, the InMobi-backed AI shopping platform that runs on lock screens and connected TVs through partners like Samsung, Motorola and DIRECTV. The money backs Glance's US push, after PayPal added native checkout to its shopping agent earlier this month. Expect more shopping agents on screens you don't control, so make sure your catalog feeds and checkout options are ready to be surfaced outside your own site.",
+          "tags": ["glance", "funding", "ai-shopping-agents", "connected-tv"],
+          "significance": "low",
+          "publishedAt": "2026-10-26"
+        }
+      ]
+    },
     {
       "date": "2026-10-23",
       "headline": "Friday Signal Brief",
