@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-10-26T08:00:00-05:00",
+  "updatedAt": "2026-10-27T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-27",
+      "headline": "Tuesday Signal Brief",
+      "lead": "Agent shoppers arrived faster than most stores prepared for, and the platforms are now handing merchants the controls. Shopify moved its Knowledge base into every admin so you can publish what AI agents say about your store, while Forter says agentic traffic tripled in a month and The RealReal had to tighten bot defenses after an agent hoarded listings. Salesforce turned on UCP checkout on Google, and Google's AI Mode is putting Shopping ads inside answers on mobile.",
+      "items": [
+        {
+          "id": "shopify-knowledge-base-admin-oct27",
+          "category": "agentic-commerce",
+          "title": "Shopify builds Knowledge base into every admin, so merchants publish what AI agents say about their store",
+          "source": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/knowledge-base-is-now-available-in-your-admin",
+          "summary": "Knowledge base now lives at Sales channels > Agentic > Knowledge base and replaces the standalone app, which goes away after January 15, 2027. Shopify drafts facts such as contact details and gift services from your published storefront pages, but nothing reaches AI agents until you publish it, and stores with more than 1,000 facts in the old app must re-add the ones they want. Open it this week, check each draft against your real shipping cutoffs, returns and holiday policies, and publish the accurate ones before peak traffic.",
+          "tags": [
+            "shopify",
+            "knowledge-base",
+            "ai-agents",
+            "store-policies"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "id": "forter-agentic-traffic-tripled-oct27",
+          "category": "agentic-commerce",
+          "title": "Forter says AI shopping agent traffic more than tripled in a month after Muse and Instinct launched",
+          "source": "e-commerce.news",
+          "url": "https://e-commerce.news/story/ai-shopping-assistants-triple-traffic-hitting-retailers",
+          "summary": "Across Forter's merchant network, traffic from personal shopping agents more than tripled in a month, and Meta's Muse made up 46% of agentic orders in the last week of September. Orders between $50 and $200 were the most common across agents, and Forter warns that Muse crawls stores that aren't set up for agents, which is slower and more error-prone. CEO Michael Reitblat said merchants have about 6-8 weeks to react instead of the usual 6-12 months, so decide now whether you'll verify and accept agent checkouts this holiday.",
+          "tags": [
+            "forter",
+            "meta-muse",
+            "agent-traffic",
+            "fraud"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "id": "therealreal-bot-defense-muse-oct27",
+          "category": "agentic-commerce",
+          "title": "The RealReal tightens bot defenses after Meta's Muse was used to hold items in carts for hours",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+          "summary": "The Verge showed Muse could keep re-adding The RealReal listings to a cart every time the 20-minute hold expired, blocking other shoppers for hours. The RealReal's CTO said its bot defense now makes it much harder for any agent to log in, add to cart and check out, though agents can still surface listings and link to product pages. If you run cart holds, limited drops or reservations, test what an agent can do with them before shoppers' agents find the gap for you.",
+          "tags": [
+            "the-realreal",
+            "meta-muse",
+            "bot-defense",
+            "inventory-holds"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "id": "salesforce-b2c-ucp-google-checkout-oct27",
+          "category": "agentic-commerce",
+          "title": "Salesforce B2C Commerce turns on UCP checkout in Google's Gemini and AI Mode",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/blog/b2c-commerce-october-26-release/",
+          "summary": "Salesforce's October B2C Commerce release lets merchants switch on Universal Commerce Protocol checkout so shoppers can buy on Google surfaces like the Gemini app and AI Mode while the merchant stays merchant of record. The release also adds a Merchandising Agent that builds catalog filters from plain English, store-inventory search in Agentic Commerce Search, and a traffic report that separates chatbot-referred revenue. Agentic Commerce Search is sold as an add-on that also works for Shopify and Adobe Commerce stores.",
+          "tags": [
+            "salesforce",
+            "ucp",
+            "google-ai-mode",
+            "agentic-checkout"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "id": "google-ai-mode-shopping-ads-mobile-oct27",
+          "category": "marketing-automation",
+          "title": "Google's inline Shopping ads carousel in AI Mode answers now shows on mobile",
+          "source": "Search Engine Watch",
+          "url": "https://searchenginewatch.com/google-ai-mode-shopping-ads-carousel-now-appears-on-mobile/",
+          "summary": "A Shopping ads carousel that had been spotted inside AI Mode responses on desktop is now appearing on mobile too, placing product ads directly in the AI-generated answer. It looks like part of a series of AI Mode ad tests rather than a formal launch. With most holiday browsing on phones, keep your Shopping feed titles, images and promotions clean, since that feed is what fills the carousel.",
+          "tags": [
+            "google-ai-mode",
+            "shopping-ads",
+            "mobile",
+            "ad-formats"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "id": "fanatics-openai-shop-the-look-oct27",
+          "category": "ai-merchandising",
+          "title": "Fanatics launches an OpenAI-powered Shop the Look that builds in-stock outfits on product pages",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/fanatics-streamline-fan-experience/",
+          "summary": "Fanatics.com and the official NFL, NBA, MLB and NHL stores now suggest coordinated game-day outfits on product pages, built by OpenAI models from enriched product, team and inventory data and refreshed daily. Fanatics' merchandising rules keep the picks compatible, and the first 50 looks were built and tested in under a day. In testing across about 30,000 MLB products the new version drove 10% higher engagement than the old Shop the Look.",
+          "tags": [
+            "fanatics",
+            "openai",
+            "product-recommendations",
+            "cross-sell"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "id": "google-ads-policy-summary-oct27",
+          "category": "marketing-automation",
+          "title": "Google Ads adds a Policy Summary page that sorts policy issues by cost, conversions and ROAS",
+          "source": "Search Engine Land",
+          "url": "https://searchengineland.com/google-ads-introduces-centralized-dashboard-for-tracking-policy-issues-499005",
+          "summary": "A new page at Admin > Policy > Summary groups account-level issues and ad or asset-group violations in one place. You can sort problems by cost, conversions or ROAS, so the disapprovals hurting your best campaigns surface first, and the old Policy Manager is still available. Worth a check before peak, when a disapproved Performance Max asset group can quietly cost a week of sales.",
+          "tags": [
+            "google-ads",
+            "ad-policy",
+            "disapprovals",
+            "account-management"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-10-26"
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "headline": "Monday Signal Brief",
