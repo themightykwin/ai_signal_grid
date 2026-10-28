@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-10-27T08:00:00-05:00",
+  "updatedAt": "2026-10-28T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-28",
+      "headline": "Wednesday Signal Brief",
+      "lead": "The platforms are quietly rewriting the numbers and the shelf heading into peak. Meta's Pixel starts counting conversions on shoppers' own devices on November 12 unless you opt out, and an audit found almost no Meta advertisers label their AI-made creative. Shopify's Catalog API now returns brands that don't sell on Shopify and lets merchants pay commission for agent-driven placements, while Riskified's survey shows shoppers want AI help but still don't trust it to buy alone.",
+      "items": [
+        {
+          "id": "meta-pixel-on-device-conversions-oct28",
+          "category": "marketing-automation",
+          "title": "Meta Pixel starts counting conversions on shoppers' devices from November 12, on by default",
+          "source": "PPC Land",
+          "url": "https://ppc.land/meta-pixel-will-count-more-conversions-from-nov-12-unless-advertisers-opt-out/",
+          "summary": "A new Events Manager setting, \"Measure conversions on customer devices,\" switches on for every dataset already sending events and matches some purchases on the shopper's phone or computer using details like their email. Meta hasn't said whether the recovered conversions feed bidding or carry order value, and it lands 15 days before Black Friday. Before November 12, export Meta-attributed purchases next to your real Shopify orders by day so you can tell a reporting bump from an actual lift, and keep Conversions API running.",
+          "tags": [
+            "meta",
+            "meta-pixel",
+            "attribution",
+            "black-friday"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-27"
+        },
+        {
+          "id": "shopify-catalog-external-brands-oct28",
+          "category": "agentic-commerce",
+          "title": "Shopify's Catalog API can now return brands that don't sell on Shopify",
+          "source": "Shopify Developer Changelog",
+          "url": "https://shopify.dev/changelog/posts/search-brands-that-don-t-sell-on-shopify-in-the-catalog-api-beta",
+          "summary": "A new sources parameter on search_catalog lets agents and apps mix external brands into the same results as Shopify merchants, with data pulled from each brand's own website. External products are US-only during the beta, can't use Shopify checkout and send shoppers to the brand's product page. Shopify merchants now compete in agent results against non-Shopify brands too, so the accuracy of your titles, prices and policies matters more than the platform you're on.",
+          "tags": [
+            "shopify",
+            "catalog-api",
+            "ai-agents",
+            "product-data"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-27"
+        },
+        {
+          "id": "shopify-promoted-placements-shop-campaigns-oct28",
+          "category": "agentic-commerce",
+          "title": "Shopify's Promoted Placements beta pays agents extra commission funded by merchants' Shop Campaigns",
+          "source": "Shopify Developer Changelog",
+          "url": "https://shopify.dev/changelog/posts/promoted-placements-beta-now-includes-shop-campaigns",
+          "summary": "Merchants running Shop Campaigns with external platforms turned on now include the Catalog API, so apps and agents that surface their products earn the merchant-funded commission on top of Shopify's base rate. Buyers who click those products land in Shop. It's an early sign of paid placement inside agent shopping results, so if you run Shop Campaigns, check whether external platforms are on and watch what those sales cost you.",
+          "tags": [
+            "shopify",
+            "shop-campaigns",
+            "ai-agents",
+            "commission"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-27"
+        },
+        {
+          "id": "riskified-agentic-commerce-pulse-oct28",
+          "category": "agentic-commerce",
+          "title": "Riskified survey: 80% of shoppers use AI to shop, but only 11% have bought inside an AI tool",
+          "source": "Riskified",
+          "url": "https://www.riskified.com/press/agentic-commerce-pulse-consumer-survey-november-2026/",
+          "summary": "Riskified's September survey of 5,100 consumers in five countries found 68% are likely to use AI for holiday shopping, yet just 7% are comfortable letting it buy without their approval and 43% want to approve every purchase. Some 51% say the AI platform should refund a mistaken purchase, even though Muse's and Instinct's terms put that on the user. Expect \"the agent did it\" disputes to land on you, so write down how you'll handle agent-placed returns and chargebacks before peak.",
+          "tags": [
+            "riskified",
+            "consumer-survey",
+            "ai-agents",
+            "chargebacks"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-27"
+        },
+        {
+          "id": "resemble-ai-meta-ads-disclosure-oct28",
+          "category": "marketing-automation",
+          "title": "Audit finds 1 in 11 Meta ad files used AI media, and only 2 of 3,379 said so in the copy",
+          "source": "PPC Land",
+          "url": "https://ppc.land/only-2-of-3-379-ai-flagged-meta-ad-files-disclosed-ai-use-resemble-ai-finds/",
+          "summary": "Resemble AI scanned 37,768 Facebook and Instagram ad files from 509 companies and flagged 8.9% as AI-generated or manipulated, with 70% built to look like real photos or video and 46% showing a person. The vendor used its own detector and published no error rates, but New York's synthetic performer law and EU AI Act Article 50 already put disclosure on the advertiser. If you run AI-made models or UGC-style testimonials, add a clear AI label now rather than waiting for a platform to force it.",
+          "tags": [
+            "meta",
+            "ai-creative",
+            "disclosure",
+            "ugc"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-27"
+        },
+        {
+          "id": "google-ads-ai-translation-oct28",
+          "category": "marketing-automation",
+          "title": "Google Ads rolls out an AI tool that translates ad text, keywords, image text and landing pages",
+          "source": "Search Engine Watch",
+          "url": "https://searchenginewatch.com/google-ads-rolls-out-an-ai-translation-tool-for-campaigns/",
+          "summary": "The tool translates headlines, descriptions, sitelinks and keywords inside the Google Ads interface, swaps text inside images and can handle landing pages through manual URLs or a JavaScript snippet. It's still rolling out, so not every account has it yet. It makes testing a new market much cheaper, but have a native speaker review the output before you put spend behind it.",
+          "tags": [
+            "google-ads",
+            "translation",
+            "international",
+            "ai-tools"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-27"
+        },
+        {
+          "id": "fast-simon-commerce-native-ai-oct28",
+          "category": "ai-merchandising",
+          "title": "Fast Simon launches a Commerce-Native AI model that ranks products within merchant-set guardrails",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3389177/0/en/fast-simon-unveils-commerce-native-ai-to-help-brands-grow-revenue-by-optimizing-product-discovery.html",
+          "summary": "Built for Shopify brands, the model adjusts product rankings and recommendations as shoppers browse, weighing new arrivals, inventory and promotions against rules merchandisers set, such as exclusions and editorial placements. It includes a built-in A/B test against the merchant's existing merchandising. If you trial it, insist on that holdout comparison rather than vendor-reported uplift.",
+          "tags": [
+            "fast-simon",
+            "merchandising",
+            "personalization",
+            "shopify"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-10-27"
+        }
+      ]
+    },
     {
       "date": "2026-10-27",
       "headline": "Tuesday Signal Brief",
