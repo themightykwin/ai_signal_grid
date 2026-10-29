@@ -1,6 +1,141 @@
 {
-  "updatedAt": "2026-10-28T08:00:00-05:00",
+  "updatedAt": "2026-10-29T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-29",
+      "headline": "Thursday Signal Brief",
+      "lead": "Shopify's Fall '26 Edition made every Shopify store something AI agents can shop and pay at by default, and gave merchants a page to control what those agents are told about them. The ad platforms moved the same day: Shopify's Campaign Autopilot opened to all merchants, Meta rolled out LLM-based ad ranking it says lifted Facebook conversions, and Google pushed ads in AI Mode into ten more countries. Amazon and Google are both pulling outside brands into their own AI shopping surfaces, often with little merchant control over how those listings look.",
+      "items": [
+        {
+          "id": "shopify-fall-26-shop-pay-agents-knowledge-base-oct29",
+          "category": "agentic-commerce",
+          "title": "Shopify's Fall '26 Edition brings Shop Pay into AI agents and adds a knowledge base merchants approve",
+          "source": "Shopify",
+          "url": "https://www.shopify.com/news/fall-26-edition-merchant",
+          "summary": "Shop Pay checkout now works inside personal AI agents, starting with Muse from Meta, Claude Duet and Instinct, and shop.md lets shoppers point any agent at more than a billion products and check out with Shop Pay. A new knowledge base page under Sales channels > Agentic lets you review and publish the facts agents get about your store, like return windows and shipping destinations, and a new admin view shows whether you're eligible for Shopify Catalog. Check your Catalog eligibility and publish your knowledge base facts now, because agents will only get what you've approved.",
+          "tags": [
+            "shopify",
+            "shop-pay",
+            "ai-agents",
+            "product-data"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "id": "shopify-webmcp-storefronts-oct29",
+          "category": "agentic-commerce",
+          "title": "Every Shopify storefront and checkout now exposes WebMCP tools for browser agents",
+          "source": "Shopify",
+          "url": "https://www.shopify.com/news/fall-26-edition-developer",
+          "summary": "Shopify added tools to every Liquid and Hydrogen storefront and checkout that let browser agents search products, update the cart and complete checkout once the buyer approves, using the same validation as the checkout page. Agents get structured data instead of reading screenshots and simulating clicks. Your store is agent-ready by default whether you planned for it or not, so the accuracy of variants, prices and stock now decides whether an agent can finish the order.",
+          "tags": [
+            "shopify",
+            "webmcp",
+            "ai-agents",
+            "checkout"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "id": "shopify-campaign-autopilot-all-merchants-oct29",
+          "category": "marketing-automation",
+          "title": "Shopify's Campaign Autopilot opens to all merchants and adds Microsoft Advertising and Snapchat",
+          "source": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/more-channels-and-features-now-available-in-campaign-autopilot",
+          "summary": "You set a budget and guardrails, and Autopilot builds campaigns across Meta Ads, Microsoft Advertising, Snapchat, Shop and Shopify Messaging, with X Ads coming, then moves spend toward what's working. It also suggests SEO changes you review and approve. If you test it before peak, give it a capped budget and compare its results against your own campaigns rather than trusting its reporting alone.",
+          "tags": [
+            "shopify",
+            "campaign-autopilot",
+            "paid-media",
+            "seo"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "id": "meta-genrecs-ad-ranking-oct29",
+          "category": "marketing-automation",
+          "title": "Meta adds an LLM-based ad ranking model and says ranking upgrades lifted Facebook conversions 15.7% in Q2",
+          "source": "AdExchanger",
+          "url": "https://www.adexchanger.com/ai/meta-has-a-new-ad-ranking-system-built-on-llms-plus-upgrades-to-andromeda-and-gem/",
+          "summary": "GenRecs uses LLMs to describe each ad by attributes like brand, color, fit and style, so a new product can be matched to people who buy similar things before it has engagement history. Meta also upgraded its Andromeda retrieval system and its GEM model, and credits the ranking changes with 8.3% more clicks and 15.7% more conversions on Facebook in Q2. No settings change is needed, but clear product imagery and descriptive ad copy now feed the model directly, and narrow audience targeting matters less.",
+          "tags": [
+            "meta",
+            "ad-ranking",
+            "creative",
+            "targeting"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "id": "google-ai-mode-ads-ten-countries-oct29",
+          "category": "marketing-automation",
+          "title": "Google expands ads in AI Mode to 10 more countries and launches multiturn ads in the US",
+          "source": "Google",
+          "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+          "summary": "Ads in AI Mode are scaling in Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines and Singapore, with Brazil, Mexico and the UK planned for Q4. In the US, multiturn ads can now show on follow-up questions, not just the first query. Google says AI Mode queries average three times the length of regular searches, so long, specific product titles and descriptions in your Merchant Center feed matter more.",
+          "tags": [
+            "google",
+            "ai-mode",
+            "shopping-ads",
+            "international"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "id": "google-ucp-checkout-earnings-oct29",
+          "category": "agentic-commerce",
+          "title": "Google says its Universal Commerce Protocol enables direct checkout for hundreds of thousands of brands",
+          "source": "PYMNTS",
+          "url": "https://www.pymnts.com/earnings/2026/google-pushes-ai-agents-into-commerce-as-spending-pressures-cash-flow/",
+          "summary": "On Alphabet's Q3 earnings call, Chief Business Officer Philipp Schindler said UCP enables direct checkout across Google for hundreds of thousands of brands, including Chewy, Nike and Tapestry, and that Google is pairing it with the Agent Payments Protocol. CEO Sundar Pichai said agent features will reach consumers later this year, starting with the Gemini app. Checkout inside Google surfaces is no longer a pilot for a few retailers, so check whether your platform supports UCP and what Merchant Center setup it needs.",
+          "tags": [
+            "google",
+            "ucp",
+            "gemini",
+            "checkout"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "id": "amazon-shop-direct-250m-listings-oct29",
+          "category": "agentic-commerce",
+          "title": "Amazon's Shop Direct now lists about 250 million products from other retailers' sites",
+          "source": "EMARKETER",
+          "url": "https://www.emarketer.com/content/amazon-expands-shop-direct-google-ai-reshape-product-discovery",
+          "summary": "That's roughly 2.5 times the count in March, and Amazon is testing curated collections and brand pages for these outside products. Merchants told The Information they have little insight into how listings are chosen, some details don't match brands' own sites, and some links went to unauthorized resellers. Search Amazon for your brand, check what Shop Direct shows, and track its referral tags in your analytics; Amazon says you can sync data through feed providers like Feedonomics or Salsify, or opt out by contacting it.",
+          "tags": [
+            "amazon",
+            "shop-direct",
+            "product-data",
+            "marketplaces"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "id": "shopify-sidekick-simulated-shoppers-oct29",
+          "category": "ai-merchandising",
+          "title": "Shopify Sidekick now drafts storefront changes and tests them on AI-simulated shoppers",
+          "source": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/get-ai-tested-storefront-recommendations-from-sidekick",
+          "summary": "Sidekick picks theme changes expected to affect add-to-cart, builds a draft and compares it with your current storefront using simulated shoppers. Shopify says plainly these are not tested on real shoppers and are not live A/B tests. Treat the results as a way to shortlist ideas, then confirm winners with a real split test before rolling them out.",
+          "tags": [
+            "shopify",
+            "sidekick",
+            "cro",
+            "testing"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-10-28"
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "headline": "Wednesday Signal Brief",
