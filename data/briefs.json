@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-10-29T08:00:00-05:00",
+  "updatedAt": "2026-10-30T08:00:00-05:00",
   "briefs": [
+    {
+      "date": "2026-10-30",
+      "headline": "Friday Signal Brief",
+      "lead": "Amazon used its earnings day to argue that its own shopping agent beats outside ones, saying Alexa for Shopping users spend 50% more per order while outside agents are still \"not great.\" Everyone else kept building open rails: Shopify is taking Shop Pay into agents at any merchant through the card networks, Home Depot says it will let in agents that identify themselves, and Google gave UCP merchants their first reporting on AI Mode and Gemini checkouts. The split between closed and open agent shopping is now the main decision for brands heading into the holidays.",
+      "items": [
+        {
+          "id": "amazon-jassy-outside-agents-not-great-oct30",
+          "category": "agentic-commerce",
+          "title": "Amazon's Jassy says outside shopping agents are \"not great\" and Alexa for Shopping users spend 50% more per order",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/",
+          "summary": "On Amazon's earnings call, Andy Jassy said few customers buy through outside shopping agents because the experience is still not better than going to a retailer directly, a month after Amazon blocked Meta's Muse. He said more than 400 million customers used Alexa for Shopping in the past year, interactions grew 570%, and US customers who use it spend 50% more per order. If Amazon is a big channel for you, expect discovery there to run more and more through Amazon's own agent, so your listing content has to answer the questions a shopper would ask it.",
+          "tags": [
+            "amazon",
+            "alexa-for-shopping",
+            "ai-agents",
+            "earnings"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "id": "shop-pay-card-networks-any-merchant-oct30",
+          "category": "agentic-commerce",
+          "title": "Shopify works with Visa, Mastercard, Amex and Discover so Shop Pay works in agents at any merchant",
+          "source": "PYMNTS",
+          "url": "https://www.pymnts.com/news/payment-methods/2026/shopify-embraces-visa-and-mastercard-agentic-payment-tech/",
+          "summary": "Shopify VP of product Rohit Mishra said Shopify is working with Visa, Mastercard, American Express and Discover so buyers can use Shop Pay through an agent at any merchant, whether or not it runs on Shopify. The agent never sees the buyer's card, and buyers keep their card rewards and protections. Shop Pay is becoming the default wallet inside agents, so make sure it's turned on and that your checkout doesn't fight it with extra steps or required fields.",
+          "tags": [
+            "shopify",
+            "shop-pay",
+            "payments",
+            "ai-agents"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "id": "google-merchant-api-ucp-agentic-reporting-oct30",
+          "category": "agentic-commerce",
+          "title": "Google's Merchant API adds reporting on UCP checkouts and buy button clicks in AI Mode and Gemini",
+          "source": "Google for Developers",
+          "url": "https://developers.google.com/merchant/api/latest-updates",
+          "summary": "Two new alpha reporting views in the Merchant API show checkout funnel, order, cancellation and cart transfer numbers for Universal Commerce Protocol checkouts across Google surfaces, including AI Mode and Gemini, plus buy button clicks for each product. It's the first documented way to see how much business Google's agent checkout actually sends you. If you're enrolled in UCP, ask your feed or reporting partner to pull these views so you can judge the channel on real orders.",
+          "tags": [
+            "google",
+            "ucp",
+            "merchant-center",
+            "measurement"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "id": "alexa-for-shopping-100-actions-oct30",
+          "category": "agentic-commerce",
+          "title": "Alexa for Shopping adds more than 100 account and shopping actions for US customers",
+          "source": "About Amazon",
+          "url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities",
+          "summary": "Amazon's shopping assistant can now build and edit lists and registries, skip or change Subscribe & Save deliveries, update delivery instructions and answer refund and billing questions, alongside existing price tracking and auto-buy at a target price. Amazon says use of its agentic features has grown more than eightfold since January. Subscription and registry sellers on Amazon should expect more customers to change orders through the assistant rather than on product pages.",
+          "tags": [
+            "amazon",
+            "alexa-for-shopping",
+            "subscriptions",
+            "ai-agents"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "id": "home-depot-agents-must-identify-oct30",
+          "category": "agentic-commerce",
+          "title": "Home Depot will let in shopping agents that identify themselves and the customer they act for",
+          "source": "PYMNTS",
+          "url": "https://www.pymnts.com/commerce/ecommerce/2026/walmart-and-home-depot-set-the-rules-for-ai-shoppers/",
+          "summary": "Home Depot CIO Angie Brown said the retailer will support agents that search, compare and buy if they say they're agents and confirm which customer they represent, and that it's in talks with Meta about how Muse should do that. PYMNTS research cited in the piece found 80% of mid-size merchants expect to pay a fee on agent sales and only 15% have product data ready for agents. Decide now whether you'll admit, block or charge agents, because large retailers are setting the rules the rest of the market will be asked to follow.",
+          "tags": [
+            "home-depot",
+            "ai-agents",
+            "bot-policy",
+            "meta-muse"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "id": "niq-google-agentic-commerce-oct30",
+          "category": "ai-merchandising",
+          "title": "NIQ and Google partner to feed retail product and store data into Google's AI shopping",
+          "source": "NIQ",
+          "url": "https://investors.nielseniq.com/news/news-details/2026/NIQ-and-Google-Partner-to-Advance-Agentic-Commerce/default.aspx",
+          "summary": "NIQ will add product intelligence on more than 250 million products and store-level data across 90 countries to Google's Shopping Graph to improve product discovery and local availability in AI shopping. NIQ is also building Google's open-source Meridian marketing mix model into its measurement platform. For brands sold in stores, third-party retail data will shape what Google's agents say about you, so check that your product attributes match across retailers.",
+          "tags": [
+            "google",
+            "niq",
+            "product-data",
+            "measurement"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "id": "amazon-ads-agent-still-closed-beta-oct30",
+          "category": "marketing-automation",
+          "title": "Amazon named its ad platform Ads Agent, but the conversational agent is still a closed beta",
+          "source": "PPC Land",
+          "url": "https://ppc.land/amazon-calls-its-ad-platform-an-agent-but-the-agent-is-still-closed-beta/",
+          "summary": "Since September, sponsored ads and the old Amazon DSP live in one platform called Amazon Ads Agent, but the AI assistant it's named after is a closed beta you request through an account team. The manual DSP controls, now under DVA+ advanced settings, reach only some US advertisers, and agencies say they still can't map the changes. Before Q4 budgets lock, ask your Amazon rep about beta access and check which manual controls your account still has.",
+          "tags": [
+            "amazon-ads",
+            "ads-agent",
+            "paid-media",
+            "dsp"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-10-29"
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "headline": "Thursday Signal Brief",
