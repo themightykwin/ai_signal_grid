@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-10-30T08:00:00-05:00",
+  "updatedAt": "2026-11-02T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-02",
+      "headline": "Monday Signal Brief",
+      "lead": "The weekend's numbers say AI shoppers are already worth more than regular visitors: Adobe found AI-referred traffic brought 83% more revenue per visit in September, and Microsoft Clarity saw checkout in 25% of agent-involved sessions against 15% for humans. The problem is that most big retailers still turn those agents away, many by accident through old bot rules. Going into the holidays, the job is to make sure agents can read your store and get through it, while deciding on purpose what AI companies may train on.",
+      "items": [
+        {
+          "id": "adobe-ai-traffic-83-percent-revenue-per-visit-nov02",
+          "category": "agentic-commerce",
+          "title": "Adobe: AI-referred shoppers brought 83% more revenue per visit than other traffic in September",
+          "source": "Adobe",
+          "url": "https://business.adobe.com/blog/ai-traffic-higher-revenue-per-visit-retail-holiday",
+          "summary": "Adobe's data on more than 1 trillion US retail visits shows AI traffic grew 71% year over year in September, converted 90% better than non-AI traffic, and earned 83% more revenue per visit, a year after it converted 9% worse. Adobe forecasts AI traffic up 159% on Thanksgiving and 95% on Black Friday, and says the average retail homepage scored only 63% on its measure of how much content AI can read. Pages that explain things, like product details, buying guides, FAQs and return policies, are the ones AI reads best, so those are worth tightening before Black Friday.",
+          "tags": [
+            "adobe",
+            "ai-traffic",
+            "holiday-2026",
+            "conversion"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "id": "clarity-agents-reach-checkout-25-percent-nov02",
+          "category": "agentic-commerce",
+          "title": "Microsoft Clarity finds checkout in 25% of AI agent sessions versus 15% of human sessions",
+          "source": "Microsoft Clarity",
+          "url": "https://clarity.microsoft.com/blog/agentic-analytics-what-agents-do-on-websites/",
+          "summary": "Clarity studied sessions across 230,511 sites from August 13 to September 9 and recorded checkout in 25.21% of sessions involving an AI agent, compared with 14.65% of human sessions. Clarity notes this does not prove agents bought on their own, since sessions can include a hand-off to a person and it cannot fully separate the two. Agents that show up tend to be on a buying task, so test whether your cart and checkout work for one before the holiday rush.",
+          "tags": [
+            "microsoft-clarity",
+            "ai-agents",
+            "checkout",
+            "analytics"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "id": "retailers-block-shopping-agents-by-accident-nov02",
+          "category": "agentic-commerce",
+          "title": "Audit: 37 of 51 big US retailers block shopping agents by accident with old bot rules",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+          "summary": "CNBC reports that JPMorgan, Schwab, Amazon, Kohl's and Neiman Marcus have moved to block personal agents like Meta's Muse. An audit of 51 large US retailers' published access rules by Billions Network and AmanTrue found only 11 had taken a deliberate position on AI agents, while 37 block shopping agents largely by accident through bot rules written for scrapers, and none had a way for a verified agent to complete a purchase. Check your robots.txt, bot protection and firewall settings so you are not turning away agent shoppers you actually want.",
+          "tags": [
+            "ai-agents",
+            "meta-muse",
+            "bot-management",
+            "retail"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-01"
+        },
+        {
+          "id": "shared-robots-txt-ai-training-opt-out-nov02",
+          "category": "ai-foundations",
+          "title": "Google, Microsoft and OpenAI plan to honor one shared robots.txt line for AI training opt-outs",
+          "source": "Search Engine Journal",
+          "url": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
+          "summary": "On Friday, Google, Microsoft and OpenAI said they will honor a shared robots.txt group that states one AI training preference to every participating provider, based on an Internet Draft from Anthropic's Kevin Kelley. None supports it yet: Google plans early 2027 and will treat it like a Google-Extended block, while Microsoft starts honoring it February 1, 2027 and splits training from a separate grounding preference that controls whether content can appear in AI answers. Opting out of grounding can cut your visibility in AI answers, so decide training and grounding separately rather than blocking everything.",
+          "tags": [
+            "robots-txt",
+            "ai-training",
+            "google",
+            "bing",
+            "openai"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-01"
+        },
+        {
+          "id": "tiktok-shop-us-ai-livestream-pilot-nov02",
+          "category": "marketing-automation",
+          "title": "TikTok Shop tests four AI livestream modes with some US sellers, including unmanned and digital-human streams",
+          "source": "TT123",
+          "url": "https://www.tt123.com/kx/esO6e8LR",
+          "summary": "TikTok Shop US has started a limited test of AI Reply, AI unmanned livestreams, picture-in-picture product clips, and AI digital-human hosts, aimed at cutting sellers' reliance on live presenters. Access is gated by seller tier and category: AI Reply needs a T4 Fashion or Beauty seller, unmanned streams need T3 and more than $500 in livestream GMV over 90 days, picture-in-picture is expected from November, and digital-human hosts are not open to applications yet. If TikTok Shop matters to you, check your seller tier now and build up the long-form product video these modes draw from.",
+          "tags": [
+            "tiktok-shop",
+            "livestream",
+            "ai-video",
+            "pilot"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-10-30"
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "headline": "Friday Signal Brief",
