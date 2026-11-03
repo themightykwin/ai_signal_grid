@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-11-02T08:00:00-06:00",
+  "updatedAt": "2026-11-03T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-03",
+      "headline": "Tuesday Signal Brief",
+      "lead": "Retailers spent the last day racing to own the agent that sits between the shopper and the cart: Walmart shipped six new Sparky capabilities for the holidays, and Zalando said its Extended platform will let an AI agent buy from other retailers inside the Zalando app starting in 2027. On the open side, live tests show standard Shopify stores now serve /agents.md and /llms.txt that point agents at Shop Pay and UCP, while a new study puts ChatGPT ad visits at $0.89 in revenue against $2.45 for paid Google Search. The split is clear heading into Black Friday: first-party agents are getting sharper, and paid placements inside chat still need hard proof before you move budget.",
+      "items": [
+        {
+          "id": "walmart-sparky-six-holiday-features-nov03",
+          "category": "agentic-commerce",
+          "title": "Walmart adds six Sparky capabilities for the holidays, including photo-to-product and list-to-cart",
+          "source": "Walmart Corporate",
+          "url": "https://corporate.walmart.com/news/2026/10/sparky-shopping-assistant-expansion",
+          "summary": "Walmart expanded Sparky with photo and screenshot uploads that recommend products and can deliver in as little as 30 minutes, handwritten or Notes-app lists that become carts, Shop to Light aisle maps with flashing shelf tags, recipe-to-cart with dietary and budget constraints, healthier swaps, and Spanish and French support as it scales into Canada, Mexico and Sam's Club. Voice is expected chainwide by year-end. If Walmart or marketplace traffic matters to you, treat Sparky as a discovery surface and make sure titles, attributes and imagery answer the questions a shopper would ask an agent.",
+          "tags": [
+            "walmart",
+            "sparky",
+            "ai-agents",
+            "holiday-2026"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-10-30"
+        },
+        {
+          "id": "zalando-extended-ai-agent-checkout-2027-nov03",
+          "category": "agentic-commerce",
+          "title": "Zalando launches Zalando Extended, with AI-assisted checkout from other retailers planned for 2027",
+          "source": "RTÉ",
+          "url": "https://www.rte.ie/news/business/2026/1103/1597792-zalando-launches-ai-shopping-agent-as-margins-squeezed/",
+          "summary": "On its Q3 results day, Zalando said Zalando Extended will bring other retailers' products into the Zalando app, with an AI agent completing purchases without sending shoppers away starting in 2027; a Westwing home-goods pilot is already underway. Revenue beat forecasts at €3.17–3.18bn, but gross margin fell 0.9 points to 38.7% and JPMorgan flagged structural risk from agentic commerce. Fashion and home brands selling in Europe should decide whether to partner into Extended or compete against an agent that keeps shoppers inside Zalando.",
+          "tags": [
+            "zalando",
+            "ai-agents",
+            "europe",
+            "fashion"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-03"
+        },
+        {
+          "id": "shopify-agents-md-llms-txt-standard-storefronts-nov03",
+          "category": "agentic-commerce",
+          "title": "Live tests: standard Shopify storefronts now auto-serve /agents.md and /llms.txt for shopping agents",
+          "source": "DEV Community",
+          "url": "https://dev.to/abhaygawade/shopify-agentsmd-and-llmstxt-what-we-found-testing-real-stores-okb",
+          "summary": "On November 2, PingAura tested live stores and found standard Shopify storefronts return Agent Instructions at /agents.md and /llms.txt that point agents to the Shop skill, /.well-known/ucp, /api/ucp/mcp and WebMCP checkout tools, while headless stores returned 404. App-proxy paths under /apps/ returned 403 to GPTBot, ClaudeBot and PerplexityBot, so FAQ or guide content served only through an app never reaches those crawlers. Fetch your own /agents.md today; if you are headless, publish those files yourself, and keep agent-facing content on theme, blog or product pages.",
+          "tags": [
+            "shopify",
+            "agents-md",
+            "llms-txt",
+            "ucp"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "id": "chatgpt-ads-089-vs-search-245-revenue-nov03",
+          "category": "marketing-automation",
+          "title": "Study: ChatGPT ad visits earned $0.89 vs $2.45 for paid Google Search in U.S. traffic",
+          "source": "Search Engine Journal",
+          "url": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
+          "summary": "A working paper tracking 102 advertiser sites found U.S. ChatGPT ad visits converted at 0.37% and earned $0.89 in revenue, against 1.17% and $2.45 for paid Google Search on the same sites; 73 of 87 dual-channel advertisers got zero ChatGPT ad sales across 18,726 visits. At search's rate of return the authors put a parity CPC near $0.26, well below OpenAI's $3–$5 starting bid guidance and a reported $1.72 CPC from one account. Cap ChatGPT Ads spend until your own revenue-per-visit beats search, and strip ad-review crawler hits from the numbers before you decide.",
+          "tags": [
+            "chatgpt-ads",
+            "openai",
+            "paid-search",
+            "measurement"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "id": "meta-ads-26-pct-vs-google-search-12-pct-nov03",
+          "category": "marketing-automation",
+          "title": "CNBC: Meta ad revenue grew 26% last quarter vs 12% for Google Search as AI shifts discovery",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+          "summary": "Meta's Q3 ad revenue rose 26% to $63.1bn while Google's Search and other unit grew 12% to $63.4bn, the widest Meta-favoring gap since 2021, as chatbots and agents pull clicks away from blue links. Meta CFO Susan Li said advertisers who followed its AI business-assistant recommendations drove almost 5% more conversions and spent 9% more, with nearly 10 million advertisers using at least one Meta AI ad tool. Rebalance holiday mix toward channels that still show conversion lift in your account, and do not treat Search volume alone as proof the channel is holding.",
+          "tags": [
+            "meta",
+            "google",
+            "advertising",
+            "ai"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-01"
+        },
+        {
+          "id": "shopify-agents-md-liquid-theme-template-nov03",
+          "category": "ai-foundations",
+          "title": "Shopify documents agents.md.liquid so merchants can customize agent instructions without an app",
+          "source": "Shopify.dev",
+          "url": "https://shopify.dev/docs/storefronts/themes/architecture/templates/agents-md-liquid",
+          "summary": "Shopify's theme docs describe templates/agents.md.liquid as the control for /agents.md, with optional llms.txt.liquid and llms-full.txt.liquid overrides, and agents.* variables for store name, UCP discovery URL and MCP endpoint. The May changelog already noted the defaults; the practical change is that llms.txt generator apps are largely redundant on standard themes once you verify the live file. Only add a custom template when the managed Agent Instructions miss something your agents need, such as policy URLs or brand rules.",
+          "tags": [
+            "shopify",
+            "agents-md",
+            "themes",
+            "documentation"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-02"
+        }
+      ]
+    },
     {
       "date": "2026-11-02",
       "headline": "Monday Signal Brief",
