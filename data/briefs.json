@@ -1,6 +1,132 @@
 {
-  "updatedAt": "2026-11-03T08:00:00-06:00",
+  "updatedAt": "2026-11-04T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-04",
+      "headline": "Wednesday Signal Brief",
+      "lead": "Hard numbers finally landed on agentic commerce, and geography expanded overnight. Shopify said AI traffic is up 2.6x year over year with orders growing 3.3x and shoppers converting 64% more often than organic search, while Google turned on UCP-powered checkout in Canada for Gemini and AI Mode with lululemon, Shoppers Drug Mart, Simons and select Shopify merchants. At the same time Reuters framed the next fight as retail media: agents that skip sponsored search threaten Amazon and Walmart's ad machines, even as Amazon insists outside agents are not denting ads yet. The operator job this week is clear: get product data agent-ready, turn on the channels that already check out, and do not reallocate media budget on vibes.",
+      "items": [
+        {
+          "id": "shopify-q3-ai-traffic-26x-orders-33x-nov04",
+          "category": "agentic-commerce",
+          "title": "Shopify Q3: AI traffic up 2.6x, orders 3.3x, and AI shoppers convert 64% more often",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/11/03/shopify-shop-q3-2026-earnings-call-transcript/",
+          "summary": "On its Nov. 3 earnings call Shopify said AI-driven traffic rose 2.6x year over year and orders from those channels grew 3.3x, with AI channels sending shoppers to product pages at 3x the rate of organic search and converting 64% more often. Catalog-powered searches converted at 2x general AI search, and about three-quarters of AI-referred sales came from categories outside Shopify's top 100. Volume is still small, but Q3 was the first quarter Shopify saw delegated purchasing through personal agents using Shop Pay. Treat Catalog attributes, inventory accuracy and Agentic Storefronts as holiday priorities, not experiments.",
+          "tags": [
+            "shopify",
+            "earnings",
+            "ai-traffic",
+            "catalog",
+            "agentic-commerce"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-03"
+        },
+        {
+          "id": "google-ucp-checkout-canada-gemini-nov04",
+          "category": "agentic-commerce",
+          "title": "Google launches UCP-powered checkout in Canada on Gemini and AI Mode",
+          "source": "Google Blog (Canada)",
+          "url": "https://blog.google/intl/en-ca/products/explore-get-answers/a-new-way-to-shop-introducing-a-more-intuitive-agentic-shopping-experience-for-consumers-and-retailers-in-canada/",
+          "summary": "Starting Nov. 4, Canadian shoppers can buy from eligible retailers inside AI Mode in Google Search and the Gemini app via Universal Commerce Protocol checkout, paid with Google Pay and Wallet details. Launch partners include lululemon, Shoppers Drug Mart, Simons and select Shopify merchants; Google says 59% of Canadian holiday shoppers plan to use an AI tool this season. Retailers remain the seller of record, and Google plans simplified UCP setup in Merchant Center next year. If you sell into Canada, confirm Merchant Center readiness and whether your Shopify Agentic or UCP path is on before peak.",
+          "tags": [
+            "google",
+            "ucp",
+            "canada",
+            "gemini",
+            "ai-mode"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "id": "reuters-ai-agents-threaten-amazon-walmart-ads-nov04",
+          "category": "marketing-automation",
+          "title": "Reuters: AI shopping agents put Amazon and Walmart retail media at risk",
+          "source": "Reuters (via U.S. News)",
+          "url": "https://money.usnews.com/investing/news/articles/2026-11-04/analysis-ai-shopping-agents-could-threaten-amazon-and-walmarts-ad-business",
+          "summary": "A Nov. 4 Reuters analysis argues that agents which research and buy on a shopper's behalf could bypass the search results pages where Amazon and Walmart sell sponsored ads. The two retailers dominate an estimated $74.4 billion U.S. retail media market with about 88% share per eMarketer projections, so the tension is real: open the door to agents without gutting the ad business that funds margins. Watch how each retailer gates third-party agents versus pushing first-party ones. Brands should track whether AI referrals replace or sit beside retail media clicks before cutting sponsored search.",
+          "tags": [
+            "amazon",
+            "walmart",
+            "retail-media",
+            "ai-agents",
+            "advertising"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "id": "amazon-jassy-external-agents-not-denting-ads-nov04",
+          "category": "marketing-automation",
+          "title": "Amazon: external AI shopping agents are not denting ad revenue yet",
+          "source": "AdNews",
+          "url": "https://www.adnews.com.au/news/amazon-says-ai-shopping-agents-aren-t-denting-its-ad-business",
+          "summary": "On its Q3 call Amazon CEO Andy Jassy said outside shopping agents are having no meaningful impact on ads, with few customers buying through them, as advertising rose 12% to $19.6 billion. He is betting on Alexa for Shopping as the primary Amazon agent: more than 400 million customers used it in the past year, interactions are up 570%, and U.S. users spend 50% more per order. Amazon also rolled Ads Agent for advertisers to plan full-funnel campaigns from budget and duration alone. Keep Amazon retail media plans intact for Q4, and treat third-party agent traffic as a watch metric, not a replacement channel.",
+          "tags": [
+            "amazon",
+            "jassy",
+            "alexa",
+            "retail-media",
+            "ads-agent"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "id": "tiktok-shop-seller-ai-bfcm-guide-nov04",
+          "category": "ai-merchandising",
+          "title": "TikTok Shop publishes BFCM Seller AI guide with order-estimate listing fixes",
+          "source": "PPC Land",
+          "url": "https://ppc.land/tiktok-shop-ai-estimates-extra-orders-per-listing-fix-ahead-of-black-friday/",
+          "summary": "On Nov. 4 TikTok Shop published a U.S. Academy guide that brands its Seller Center tools as Seller AI for Black Friday prep across products, content and campaigns. Product Growth Opportunities ranks listing fixes with an expected payoff in extra orders, alongside One-Click SEO, AI video/photo generation, LIVE Recommendations and a Campaigns agent that lists eligible promos. The guide gives no uplift data, fees or deadlines, and says sellers must review every suggestion. Use it as a checklist for TikTok Shop BFCM readiness, and verify campaign fees and account health rules before auto-accepting recommendations.",
+          "tags": [
+            "tiktok-shop",
+            "seller-ai",
+            "bfcm",
+            "listings",
+            "livestream"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "id": "shopify-sidekick-flows-canvas-q3-nov04",
+          "category": "ai-merchandising",
+          "title": "Shopify Sidekick created ~2/3 of all Flows in Q3; Canvas speeds launches 20%",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/11/03/shopify-shop-q3-2026-earnings-call-transcript/",
+          "summary": "Alongside agentic traffic stats, Shopify said Sidekick created around two-thirds of all Shopify Flows in Q3, with daily active merchants up 3.7x and daily sessions up 4.2x year over year. Cost per Sidekick conversation fell 28% quarter over quarter while conversations rose 14%, cutting total Sidekick cost 18%. Canvas, the AI store builder launched in October, is helping merchants launch more personalized stores about 20% faster. If ops time is the bottleneck into BFCM, prioritize Sidekick Flows for inventory, abandoned cart and pricing jobs before buying another point tool.",
+          "tags": [
+            "shopify",
+            "sidekick",
+            "canvas",
+            "flows",
+            "operations"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-03"
+        },
+        {
+          "id": "shopify-muse-shop-pay-enterprise-ready-nov04",
+          "category": "agentic-commerce",
+          "title": "Shopify: Shop Pay is live in Meta Muse; brands can show up via Catalog with no custom build",
+          "source": "Shopify Enterprise Blog",
+          "url": "https://www.shopify.com/enterprise/blog/muse-shop-pay",
+          "summary": "In a Nov. 3 enterprise post Shopify said Shop Pay is live inside Meta's Muse, with discovery through Shopify Catalog and checkout that keeps the merchant as seller of record. Early Muse data cited in the post says 84% of Muse's website requests were shopping-related. Shopify's pitch is build-vs-buy: UCP is the passport, but each agent still needs catalog, checkout and eligibility work that Catalog and Agentic settings already cover for eligible merchants. Check Sales channels > Agentic for Meta access, clean product attributes once, and let Muse volume prove itself before staffing a custom integration.",
+          "tags": [
+            "shopify",
+            "muse",
+            "meta",
+            "shop-pay",
+            "catalog"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-03"
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "headline": "Tuesday Signal Brief",
