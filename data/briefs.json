@@ -1,6 +1,132 @@
 {
-  "updatedAt": "2026-11-04T08:00:00-06:00",
+  "updatedAt": "2026-11-05T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-05",
+      "headline": "Thursday Signal Brief",
+      "lead": "The open door to agentic discovery got a sign-up form, while bot walls still slam shut on unfamiliar agents. Amazon launched a free Shop Direct Merchant Workspace so eligible U.S. stores can push Google-format catalogs into Amazon search and Alexa for Shopping without becoming marketplace sellers, and Blend Commerce said bot protection blocked its shopping agent at 29 of 200 UK and U.S. retailers even though every readable robots.txt among those refusals still welcomes ChatGPT, Perplexity and Claude crawlers. On the demand side, OpenAI put ChatGPT's search-like query volume at about a fifth of Google's, Google AI Mode was spotted stacking four ads under a single answer, and the UK ICO's 30-question agent evidence call closes November 20. The operator checklist into BFCM is blunt: get your feed into the channels that already check out, and test whether an agent can actually load your product page.",
+      "items": [
+        {
+          "id": "amazon-shop-direct-merchant-workspace-nov05",
+          "category": "agentic-commerce",
+          "title": "Amazon launches free Shop Direct Merchant Workspace for Alexa and Amazon discovery",
+          "source": "Amazon (About Amazon)",
+          "url": "https://www.aboutamazon.com/news/retail/amazon-shop-direct-merchant-workspace",
+          "summary": "On Nov. 4 Amazon opened a free self-service Shop Direct Merchant Workspace so eligible U.S. merchants can register, verify their site and submit product feeds for discovery in Amazon search and Alexa for Shopping without selling in Amazon's store. Merchants can reuse Google-format catalogs via Feedonomics, Salsify, CEDCommerce, VersaFeed or the Selling Partner API, keep inventory, pricing and fulfillment on their own stack, and opt out anytime with no participation fees. Eligible Shop Direct items can also be bought through Buy for Me. If Amazon search or Alexa traffic matters to you, check eligibility and whether your existing Merchant Center feed can be reused before staffing a custom integration.",
+          "tags": [
+            "amazon",
+            "shop-direct",
+            "alexa",
+            "product-feeds",
+            "agentic-commerce"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "id": "blend-bot-protection-blocks-shopping-agent-nov05",
+          "category": "agentic-commerce",
+          "title": "Blend audit: bot protection blocked its shopping agent at 29 of 200 UK and US retailers",
+          "source": "PPC Land",
+          "url": "https://ppc.land/bot-protection-blocks-blends-ai-shopping-agent-at-29-of-200-retailers/",
+          "summary": "Blend Commerce's AI Shopping Audit of 200 UK and U.S. retailers found bot protection refused its unrecognised shopping agent at 29 stores (14.5%), including Home Depot, Best Buy, Macy's, Tesco, Argos and Next, with large retailers refusing at 20% versus 2.5% for emerging ones. Every one of the 24 refusals with a readable robots.txt still allowed ChatGPT, Perplexity and Claude crawlers, so marketing's welcome and security's wall are out of sync. Only 38 of 200 had a live agent checkout endpoint, 37 of them on Shopify. Before BFCM, have marketing and security jointly test whether named and unnamed agents can load product pages and reach checkout.",
+          "tags": [
+            "bot-protection",
+            "agentic-commerce",
+            "blend",
+            "bfcm",
+            "robots-txt"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "id": "openai-chatgpt-fifth-google-search-volume-nov05",
+          "category": "marketing-automation",
+          "title": "OpenAI: ChatGPT search-like queries are about one-fifth of Google's volume",
+          "source": "Search Engine Journal",
+          "url": "https://www.searchenginejournal.com/googles-search-volume-is-about-5x-chatgpts-openai-says/595817/",
+          "summary": "ChatGPT consumer product lead Adam Fry said ChatGPT's volume of search-like queries is roughly one-fifth of Google's, counting every question that triggers a web search. He also said weekly active users rose from about 1 billion to 1.2 billion over two months. Outside referral trackers still show Google sending far more site visits than ChatGPT, so treat query volume and referral traffic as separate metrics when you plan channel budgets. If ChatGPT discovery is in your plan, track utm/referrer AI traffic separately and keep product feeds and crawler access current.",
+          "tags": [
+            "openai",
+            "chatgpt",
+            "search",
+            "discovery",
+            "measurement"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-03"
+        },
+        {
+          "id": "google-ai-mode-four-ads-nov05",
+          "category": "marketing-automation",
+          "title": "Google AI Mode spotted with four ads under a single answer",
+          "source": "PPC Land",
+          "url": "https://ppc.land/google-ai-mode-gains-a-fourth-ad-slot-below-some-answers/",
+          "summary": "Observers reported Google AI Mode showing four text ads stacked under one answer, up from the one-to-three count that had been typical, with Search Engine Roundtable covering the sighting on Nov. 4. Google has not said how widely the layout runs, in which countries, or whether it is a lasting change. Existing Search, Shopping and Performance Max campaigns remain eligible with no separate AI Mode opt-out. Watch impression share and CPC in AI Mode surfaces into Q4 rather than assuming more slots mean cheaper reach.",
+          "tags": [
+            "google",
+            "ai-mode",
+            "ads",
+            "search",
+            "bfcm"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "id": "uk-ico-agentic-ai-30-evidence-requests-nov05",
+          "category": "ai-foundations",
+          "title": "UK ICO seeks answers on 30 AI-agent evidence points before November 20",
+          "source": "PPC Land",
+          "url": "https://ppc.land/uk-ico-puts-30-questions-to-ai-agent-builders-before-november-20/",
+          "summary": "The UK Information Commissioner's Office call for evidence on agentic AI, opened Oct. 8, closes at the end of Nov. 20 with 30 requests across security, transparency, accountability, automated decisions, fairness and lawful processing. Asks include session isolation, tamper-evident logs that record agent identity, post-task summaries, and clear controller/processor roles when agents call tools or other agents. If you build, deploy or expose ads/commerce tools to agents that handle personal data in the UK, map those controls now; the answers will feed ICO guidance and a statutory AI/ADM code.",
+          "tags": [
+            "ico",
+            "uk",
+            "privacy",
+            "ai-agents",
+            "regulation"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-05"
+        },
+        {
+          "id": "microsoft-clarity-agent-activity-dashboard-nov05",
+          "category": "ai-merchandising",
+          "title": "Microsoft Clarity adds Agent Activity dashboard and Ask Clarity for agent visits",
+          "source": "Microsoft Clarity Blog",
+          "url": "https://clarity.microsoft.com/blog/clarity-connects-agents-llms-people/",
+          "summary": "Microsoft Clarity shipped agentic analytics including an Agent Activity dashboard that shows which AI agents visit a site and what they do, from search through checkout, plus simulation assessments that start with commerce and travel tasks. Ask Clarity answers plain-language questions about site behaviour. Clarity also said AI agents nearly doubled in three weeks to almost 2 million. Use it to see whether agents reach product and checkout pages after you open crawler and bot rules, not only whether humans convert.",
+          "tags": [
+            "microsoft",
+            "clarity",
+            "analytics",
+            "ai-agents",
+            "checkout"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "id": "semrush-chatgpt-shopping-optimization-guide-nov05",
+          "category": "ai-merchandising",
+          "title": "Semrush publishes operator guide for ChatGPT shopping after Instant Checkout exit",
+          "source": "Semrush",
+          "url": "https://www.semrush.com/blog/optimize-for-chatgpt-shopping/",
+          "summary": "A Nov. 4 Semrush guide walks merchants through ChatGPT shopping as a U.S. discovery channel after OpenAI stepped back from Instant Checkout in March 2026, with purchases finishing on the merchant site or app. Practical steps include allowing OAI-SearchBot, server-rendered price and stock, product schema, optional ACP product feeds (Shopify and Etsy already integrated), and richer optional feed fields. Treat it as a checklist against your crawlability and catalog hygiene ahead of holiday discovery traffic, not as a paid-placement playbook.",
+          "tags": [
+            "chatgpt",
+            "openai",
+            "product-feeds",
+            "seo",
+            "discovery"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-04"
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "headline": "Wednesday Signal Brief",
