@@ -1,6 +1,115 @@
 {
-  "updatedAt": "2026-11-05T08:00:00-06:00",
+  "updatedAt": "2026-11-06T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-06",
+      "headline": "Friday Signal Brief",
+      "lead": "Discovery doors keep opening on AI surfaces, while the trust layer that lets agents actually buy still looks unfinished. Microsoft turned Clarity Brand Agents into a free path for eligible Shopify and WooCommerce catalogs into Copilot, Bing and MSN, Google started booking U.S. home-service jobs inside AI Mode through Angi, Thumbtack, Jobber and Housecall Pro, and Okta's consumer survey put unconditional trust in autonomous AI at single digits for every money action it tested. Meta's AI-generated Facebook Answers pages, meanwhile, now sit on more than 6 million Google-indexed URLs. The operator pattern into BFCM is the same as all week: get product data into the channels that already recommend and check out, and design agent checkout as approve-first, not fully autonomous.",
+      "items": [
+        {
+          "id": "microsoft-clarity-brand-agents-copilot-bing-nov06",
+          "category": "agentic-commerce",
+          "title": "Microsoft Clarity Brand Agents put Shopify and WooCommerce products into Copilot, Bing and MSN",
+          "source": "Microsoft Clarity Blog",
+          "url": "https://clarity.microsoft.com/blog/clarity-connects-agents-llms-people/",
+          "summary": "On Nov. 4 Microsoft said eligible Shopify and WooCommerce merchants using Clarity Brand Agents can have products appear across Microsoft Copilot, Bing, MSN and related AI surfaces when shoppers ask for recommendations, with purchase completing on the merchant site. Existing Brand Agents installs need no extra catalog upload; accepting the terms publishes the catalog to Microsoft Merchant Center. Local WordPress businesses can also use Brand Agents with Square, Jobber, HubSpot, Calendly, Housecall Pro or Salesforce for booking. If you already run Clarity, check Brand Agents eligibility and whether your catalog should be opted into Microsoft discovery before peak.",
+          "tags": [
+            "microsoft",
+            "clarity",
+            "brand-agents",
+            "copilot",
+            "shopify"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "id": "google-ai-mode-home-services-booking-nov06",
+          "category": "agentic-commerce",
+          "title": "Google AI Mode adds U.S. home-services booking and quote links via Angi, Thumbtack, Jobber and Housecall Pro",
+          "source": "Search Engine Journal",
+          "url": "https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/",
+          "summary": "Google Search Product VP Robby Stein said AI Mode in the U.S. now includes direct booking and quote links for home services through Angi, Thumbtack, Housecall Pro and Jobber, with ServiceTitan coming. Jobber says eligible paid U.S. customers can take those requests with no lead fees when address, Google Business Profile and a Google-connected booking form match; Housecall Pro says pros will be auto-enrolled with no lead fees once live. The same pattern as UCP checkout for goods now applies to local jobs: the AI answer is becoming the transaction surface. Even pure ecommerce brands should watch how AI Mode funnels demand away from classic lead ads.",
+          "tags": [
+            "google",
+            "ai-mode",
+            "local",
+            "booking",
+            "home-services"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "id": "okta-agentic-commerce-trust-approval-nov06",
+          "category": "ai-foundations",
+          "title": "Okta: only 6% of consumers want fully autonomous AI; approval or undo unlocks most money tasks",
+          "source": "Okta",
+          "url": "https://www.okta.com/en-gb/newsroom/articles/customer-identity-trends-report-2026-agentic-ai-consumer-experience/",
+          "summary": "Okta's Nov. 4 analysis of its 2026 Customer Identity Trends Report finds only about one in five developers and leaders say AI work is shipping at target pace, and only 6% of consumers surveyed want AI to decide and act completely on its own. Across 11 money and account actions, unconditional trust never rose above single digits; approve-first or reversible controls pushed willingness above a majority for most tasks, while purchases over $100 and money transfers stayed mostly off-limits. Only a minority of organizations building agents give them unique, tightly scoped, time-limited credentials. Design agent checkout as human-approved by default, and treat agent identity the same way you treat staff SSO.",
+          "tags": [
+            "okta",
+            "auth0",
+            "trust",
+            "agentic-commerce",
+            "identity"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "id": "shopify-tobi-agents-life-needs-commission-nov06",
+          "category": "agentic-commerce",
+          "title": "Shopify's Lütke: agents move shopping from product needs to life needs; questions who pays a 2% agent cut",
+          "source": "AI123",
+          "url": "https://ai123.com/newshub/17408",
+          "summary": "In a Sources podcast interview covered Nov. 5–6, Shopify CEO Tobi Lütke said agents are shifting the start of shopping from a product need to a life need, with some buyers asking agents to assemble higher-ticket bundles such as a home gym, even while overall agent volume stays small. He said Shopify is building more APIs and transaction systems so agents can call product and checkout capabilities, and he questioned who would fund a 2% agent commission on top of Shopify's roughly 3% take that already largely covers card networks. An agent paid by merchants while representing buyers creates a trust conflict. Treat agent readiness as catalog and checkout APIs, not as a new affiliate fee line you invent before demand is clear.",
+          "tags": [
+            "shopify",
+            "tobi-lutke",
+            "agents",
+            "apis",
+            "payments"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-05"
+        },
+        {
+          "id": "facebook-answers-6m-ai-pages-google-nov06",
+          "category": "marketing-automation",
+          "title": "Meta's AI Facebook Answers pages pass 6 million Google-indexed URLs",
+          "source": "Search Engine Roundtable",
+          "url": "https://www.seroundtable.com/facebook-answers-google-42467.html",
+          "summary": "On Nov. 5 Search Engine Roundtable reported that Meta's facebook.com/fb-answers/ directory of AI-generated topic summaries built from public Facebook posts now has more than 6 million URLs indexed in Google, with rankings across classic results, AI Overviews and AI Mode. SEO analysts including Glenn Gabe called the pattern scaled content abuse under Google's spam policies; Google has not publicly said it will deindex the set. For ecommerce brands competing for informational and product queries, another large platform is using AI summaries of user posts as ranking inventory. Watch whether your category queries cite fb-answers pages, and keep first-party product and help content fresher than the summaries that rewrite public chatter.",
+          "tags": [
+            "meta",
+            "facebook",
+            "seo",
+            "ai-overviews",
+            "scaled-content"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-05"
+        },
+        {
+          "id": "observer-shopify-merchant-chatgpt-conversion-nov06",
+          "category": "ai-merchandising",
+          "title": "Observer: Shopify merchant cites 14.3% ChatGPT conversion vs 3.22% organic search",
+          "source": "Observer",
+          "url": "https://observer.com/2026/11/shopify-ceo-tobi-lutkes-3-7-billion-quarter-tests-his-a-i-shopping-strategy/",
+          "summary": "A Nov. 5 Observer feature on Shopify's agent strategy quoted Kyoto Botanicals founder Mark Gillilan saying ChatGPT visitors converted at 14.3% from Oct. 1–24 versus 3.22% from organic search, which he tied to AI-friendly product data organization. He also said only about 20% of his CBD assortment is approved for Shopify Agentic Storefronts / Catalog sync to agents such as ChatGPT, though shoppers can still reach product pages through chatbots. Single-merchant anecdotes are not platform benchmarks, but they reinforce catalog attribute quality and Catalog eligibility as the practical levers operators control. Audit which SKUs sync to Agentic Storefronts before peak, and tag ChatGPT referrers separately from organic.",
+          "tags": [
+            "shopify",
+            "chatgpt",
+            "conversion",
+            "catalog",
+            "agentic-storefronts"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-05"
+        }
+      ]
+    },
     {
       "date": "2026-11-05",
       "headline": "Thursday Signal Brief",
