@@ -1,6 +1,132 @@
 {
-  "updatedAt": "2026-11-06T08:00:00-06:00",
+  "updatedAt": "2026-11-09T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-09",
+      "headline": "Monday Signal Brief",
+      "lead": "The agent layer kept filling in over the weekend, and the hard part is still trust, not reach. Amazon put Alexa for Shopping into text messages, Meta let Muse users build self-updating shopping hubs, and Firmly raised $15 million to plug merchants into agents without engineering work. Visa's first shopping benchmark found AI models failed 42.8% of test runs, and more than half of those failures still ended in a purchase, while Cloudflare argued that sites carry the cost when an agent gets it wrong. The operator pattern going into BFCM: make your catalog easy for agents to read, and plan for agent orders you will have to verify, support and sometimes refund.",
+      "items": [
+        {
+          "id": "visa-agentic-commerce-benchmark-nov09",
+          "category": "agentic-commerce",
+          "title": "Visa's AI shopping benchmark: models failed 42.8% of runs, and 54% of failures still bought something",
+          "source": "Visa",
+          "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22936.html",
+          "summary": "Visa tested 22 AI models from 12 labs on 15 realistic shopping tasks, like buying a TV or laptop, and the overall pass rate was 57.2%, ranging from 82.2% for the best models to 28.9% for the worst. Only 34.2% of scenarios passed on all three attempts, and about half of failed runs still ended in a purchase that missed the shopper's requirements. Models that asked better questions about hidden buying factors passed far more often, so clear specs, compatibility details and fit information on product pages give agents what they need to choose correctly.",
+          "tags": [
+            "visa",
+            "benchmark",
+            "ai-agents",
+            "trust",
+            "product-data"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-05"
+        },
+        {
+          "id": "amazon-alexa-for-shopping-text-nov09",
+          "category": "agentic-commerce",
+          "title": "Amazon lets invited U.S. customers text Alexa for Shopping to find, buy and track orders",
+          "source": "About Amazon",
+          "url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop",
+          "summary": "A small group of invited U.S. customers can now text Alexa for Shopping to search products, build carts, buy, set target-price alerts and get delivery updates, with Amazon saying millions more will get access in the coming weeks. The agent draws on Amazon's store, products elsewhere on the web, a year of price history and the customer's shopping history. For brands selling on Amazon, it adds another conversational surface where listing content, reviews and price competitiveness decide whether the agent picks you.",
+          "tags": [
+            "amazon",
+            "alexa",
+            "sms",
+            "shopping-agent",
+            "bfcm"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-06"
+        },
+        {
+          "id": "cloudflare-trusted-agent-delegation-nov09",
+          "category": "ai-foundations",
+          "title": "Cloudflare: sites bear the cost of AI agents, and it launches tools to see agents and the users behind them",
+          "source": "Cloudflare Blog",
+          "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
+          "summary": "Cloudflare listed 14 problems AI agents create for websites, from friendly-fraud disputes with no device evidence to agents polling stock and price endpoints, and said the site bears the primary cost in nearly all of them. It announced a Trusted Agent Delegation coalition to push identity standards like Web Bot Auth and OAuth, and customers can now see Personal Assistants as a separate traffic category, with per-agent request and error breakdowns. Merchants on Cloudflare should check which agents are hitting checkout and account pages before peak traffic arrives.",
+          "tags": [
+            "cloudflare",
+            "bot-management",
+            "agent-identity",
+            "fraud",
+            "web-bot-auth"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-05"
+        },
+        {
+          "id": "meta-muse-spaces-shopping-hub-nov09",
+          "category": "agentic-commerce",
+          "title": "Meta's Muse adds spaces, including self-updating shopping hubs built from Instagram saves and Marketplace",
+          "source": "Meta Newsroom",
+          "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+          "summary": "Muse users can now describe a custom experience and have Muse build it, and Meta's own examples include a shopping hub that pulls gift ideas, wishlists from Instagram saves and Marketplace listings into one view. Spaces connected to other apps update in the background with things like price changes, and they are available everywhere Muse is. Products that shoppers save on Instagram may now feed persistent wishlists that watch price, so accurate catalog pricing and promotions on Meta matter more going into the holidays.",
+          "tags": [
+            "meta",
+            "muse",
+            "instagram",
+            "wishlists",
+            "price-tracking"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-06"
+        },
+        {
+          "id": "firmly-series-a-ask-agent-nov09",
+          "category": "agentic-commerce",
+          "title": "Firmly raises $15M from Squarepoint, J.P. Morgan Payments and Mastercard and launches on-site Ask Agent",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/11/05/3396499/0/en/firmly-raises-15-million-series-a-and-launches-ask-agent-to-help-merchants-more-easily-adopt-agentic-commerce.html",
+          "summary": "Firmly's no-code Connect platform links merchants to AI agents, marketplaces and shoppable ads while the merchant stays merchant of record, and it claims reach to more than 11 million merchants. Its new Ask Agent adds conversational discovery, in-chat checkout and support to a merchant's own site with one line of JavaScript, and the company says early deployments lifted conversion by up to 18% and AOV by up to 23%. Those are vendor figures, so test it against your own baseline before treating them as typical.",
+          "tags": [
+            "firmly",
+            "funding",
+            "on-site-agent",
+            "checkout",
+            "mastercard"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-05"
+        },
+        {
+          "id": "meta-api-v27-product-showcase-default-nov09",
+          "category": "marketing-automation",
+          "title": "Meta Marketing API v27 may add catalog products to new ads and widen device targeting by default",
+          "source": "PPC Land",
+          "url": "https://ppc.land/metas-api-v27-may-add-catalog-products-to-new-ads-by-default/",
+          "summary": "On Marketing API v27.0, Meta may switch on Product showcase for new ads with no showcase settings when it has high confidence a catalog product set matches, and new device-targeted Sales ad sets expand to other devices unless the integration sets the field to 0. The old catalog /batch endpoint stops working on v27.0, so catalog sync tools must move to /items_batch when they upgrade. If an agency tool or script builds your Meta ads, ask whether it opts out of these defaults, because silence now means automation.",
+          "tags": [
+            "meta",
+            "marketing-api",
+            "catalog",
+            "advantage-plus",
+            "defaults"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-04"
+        },
+        {
+          "id": "youtube-studio-personalized-product-shelf-nov09",
+          "category": "ai-merchandising",
+          "title": "YouTube Studio suggests products for affiliate creators to tag, with estimated commission rates",
+          "source": "PPC Land",
+          "url": "https://ppc.land/cloudflare-says-websites-pay-for-ai-agents-as-metas-muse-learns-to-talk/",
+          "summary": "YouTube is rolling out a personalized product shelf in YouTube Studio that suggests items for affiliate creators to tag based on their past videos, audience engagement and niche trends, showing an estimated commission rate for each. More than 1.3 million creators are in YouTube Shopping's affiliate program. Brands in the program should check that their commission rates and product data are competitive, since YouTube's recommendations now steer which products creators feature.",
+          "tags": [
+            "youtube",
+            "affiliate",
+            "creators",
+            "youtube-shopping",
+            "recommendations"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-11-06"
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "headline": "Friday Signal Brief",
