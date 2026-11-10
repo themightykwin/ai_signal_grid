@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-11-09T08:00:00-06:00",
+  "updatedAt": "2026-11-10T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-10",
+      "headline": "Tuesday Signal Brief",
+      "lead": "The money side of agentic commerce moved overnight. Shopify told AdExchanger that Campaign Autopilot now charges merchants only per sale and has started handling SEO, while Amazon is putting Sponsored Products into the text threads where Alexa for Shopping takes orders. Google quietly gave its official Google Ads MCP server write tools that are on by default, and Kantar found only 28% of U.S. shoppers are comfortable letting AI buy for them. The operator pattern: agents are getting budgets and ad slots faster than shoppers are handing over their wallets, so set caps and approval steps before you hand anything to an agent.",
+      "items": [
+        {
+          "id": "shopify-campaign-autopilot-pay-per-sale-seo-nov10",
+          "category": "marketing-automation",
+          "title": "Shopify's Campaign Autopilot charges only per sale and now adds SEO, with X in the pipeline",
+          "source": "AdExchanger",
+          "url": "https://www.adexchanger.com/commerce/shopifyautopilot/",
+          "summary": "Shopify VP Samir Pradhan told AdExchanger that merchants set the price they will pay per sale, and Shopify takes the media risk, so merchants pay only when a sale happens. Autopilot runs across Meta, Microsoft Advertising, Snapchat, Shop ads and email, has added SEO optimization in the past few weeks, and has X in the pipeline. Merchants can cap a campaign or avoid a channel entirely, so set a per-sale price you can live with and a cap before turning it on for BFCM.",
+          "tags": ["shopify", "campaign-autopilot", "paid-media", "seo", "bfcm"],
+          "significance": "high",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "id": "amazon-alexa-text-sponsored-products-nov10",
+          "category": "marketing-automation",
+          "title": "Amazon will show Sponsored Products inside Alexa for Shopping text threads, free to advertisers for now",
+          "source": "Digiday",
+          "url": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/",
+          "summary": "Digiday reports that when Alexa for Shopping texts back product options, a Sponsored Product can be one of them, while purchases the agent completes on its own stay ad-free. Amazon is not charging for these placements yet. For Amazon sellers this is a new ad slot with room for only a handful of products, so it rewards listings the agent already ranks well and is worth watching in Sponsored Products reporting.",
+          "tags": ["amazon", "alexa-for-shopping", "retail-media", "sponsored-products"],
+          "significance": "medium",
+          "publishedAt": "2026-11-06"
+        },
+        {
+          "id": "google-ads-mcp-write-tools-default-nov10",
+          "category": "ai-foundations",
+          "title": "Google's official Google Ads MCP server gains write tools that are on by default while docs still say read-only",
+          "source": "PPC Land",
+          "url": "https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/",
+          "summary": "Version 0.0.6 of Google's open-source Google Ads MCP server, released November 2 without an announcement, adds tools that create assets, upload videos and manage labels, and they are enabled by default. It still cannot change campaigns, budgets, bids or keywords, and the approval step relies on the AI model following instructions rather than a server-enforced control. Teams that connect AI assistants to Google Ads should pin a release and set labels and assets to false in tools_config.yaml if they want read-only access.",
+          "tags": ["google-ads", "mcp", "ai-agents", "governance"],
+          "significance": "medium",
+          "publishedAt": "2026-11-09"
+        },
+        {
+          "id": "kantar-holiday-ai-trust-28-percent-nov10",
+          "category": "agentic-commerce",
+          "title": "Kantar: shoppers trust AI to apply deals, but only 28% are comfortable with it buying for them",
+          "source": "Kantar",
+          "url": "https://www.kantar.com/north-america/inspiration/retail/holiday-2026-shoppers-trust-ai",
+          "summary": "Kantar says a majority of U.S. shoppers now use AI for shopping at least sometimes, and nearly half are very comfortable with AI automatically applying deals. Only 28% are comfortable with AI making a purchase on their behalf. Kantar's advice is to be easy to shortlist, let deals do the work, design for approval and undo, and measure AI influence beyond orders that arrive through an AI link.",
+          "tags": ["kantar", "holiday-2026", "consumer-trust", "ai-shopping"],
+          "significance": "medium",
+          "publishedAt": "2026-11-09"
+        },
+        {
+          "id": "clover-ai-ecommerce-aeo-nov10",
+          "category": "ai-merchandising",
+          "title": "Fiserv's Clover launches AI store builder with built-in AEO and SEO for U.S. small businesses",
+          "source": "Fiserv (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/10/3399522/0/en/clover-helps-small-businesses-get-discovered-and-sell-anywhere-in-the-age-of-ai-shopping.html",
+          "summary": "Clover merchants in the U.S. can now generate an online store with AI and sync products, inventory, orders and payments with their Clover system. The launch includes answer engine optimization and SEO tools aimed at getting products found in search and AI shopping recommendations, plus built-in shipping and tax calculation. It is another sign that POS and payment platforms are pitching AI discoverability as a default feature for small sellers.",
+          "tags": ["clover", "fiserv", "aeo", "smb", "ai-site-builder"],
+          "significance": "low",
+          "publishedAt": "2026-11-10"
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "headline": "Monday Signal Brief",
