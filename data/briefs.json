@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-11-10T08:00:00-06:00",
+  "updatedAt": "2026-11-11T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-11",
+      "headline": "Wednesday Signal Brief",
+      "lead": "Agentic commerce got a new front door and a reality check on the same day. OpenAI opened Businesses in ChatGPT, letting brands claim a profile, push a product feed and launch a Business Agent that can double as the destination for ChatGPT Ads. Meanwhile eBay appears to have shut out third-party agents like Meta's Muse, and Airbnb, DoorDash and Booking said agent-placed orders are still tiny. The operator pattern: claim your presence inside the big AI platforms now, but don't rebuild your funnel around third-party agents until the orders show up.",
+      "items": [
+        {
+          "id": "openai-businesses-chatgpt-business-agents-nov11",
+          "category": "agentic-commerce",
+          "title": "OpenAI opens Businesses in ChatGPT with claimable profiles, product feeds and Business Agents",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+          "summary": "OpenAI launched Businesses in ChatGPT in beta: through Business Hub, a verified business can update its details, add a self-service product feed with pricing and availability, and see aggregated mentions, website clicks and discovery topics. Eligible U.S. ecommerce and online-service businesses can also build a Business Agent that shoppers chat with from the brand's ChatGPT profile, and brands can sponsor it as the destination for ChatGPT Ads. Shopify merchants can connect from Business Hub or the Shopify admin, so claim the profile, check what ChatGPT says about your products and policies, and test the agent on your top pre-purchase questions before BFCM.",
+          "tags": ["openai", "chatgpt", "business-agents", "product-feeds", "chatgpt-ads"],
+          "significance": "high",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "id": "ebay-blocks-third-party-ai-agents-nov11",
+          "category": "agentic-commerce",
+          "title": "eBay appears to block third-party AI agents, including Meta's Muse",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+          "summary": "The Verge reported that Meta's Muse could no longer pull eBay listings this weekend and in some cases sent users to sites mirroring eBay listings; eBay said it restricts agent access in certain cases, including unauthorized scraping and training on its data, and is evaluating partner agents. Amazon blocks external agents entirely, Target blocks some, and Shopify has opened its catalog to shopper agents. If you sell on marketplaces, assume the marketplace controls agent access there, and treat your own store catalog and feeds as the place agents can reliably reach you.",
+          "tags": ["ebay", "meta-muse", "agent-access", "marketplaces", "amazon"],
+          "significance": "high",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "id": "semafor-agentic-commerce-slow-adoption-nov11",
+          "category": "agentic-commerce",
+          "title": "Airbnb, DoorDash and Booking say personal AI agents are barely moving orders yet",
+          "source": "Semafor",
+          "url": "https://www.semafor.com/article/11/10/2026/agentic-commerce-is-slow-to-catch-on",
+          "summary": "Semafor rounded up recent executive comments: Airbnb CEO Brian Chesky said bookings from Meta's Muse and Instinct agents are at \"very, very low numbers,\" DoorDash CEO Tony Xu said it has received \"maybe several hundred orders in total\" from personal AI assistants, and Booking Holdings CEO Glenn Fogel said adoption \"may be much slower than is anticipated.\" Semafor notes that could validate retailers like Amazon that block agents. Keep agent-readiness work cheap and reusable, like clean feeds and clear policies, and keep your BFCM budget on channels with proven orders.",
+          "tags": ["agentic-commerce", "adoption", "meta-muse", "doordash", "airbnb"],
+          "significance": "medium",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "id": "invoca-ai-agents-not-measured-on-sales-nov11",
+          "category": "marketing-automation",
+          "title": "Invoca: 74% of B2C marketers can't track whether an AI agent's lead becomes a sale",
+          "source": "Invoca (PR Newswire)",
+          "url": "https://www.prnewswire.com/news-releases/new-research-73-of-b2c-marketers-using-ai-agents-dont-measure-them-on-sales-302934537.html",
+          "summary": "Invoca's Broken Funnel Report, a survey of 451 U.S. B2C marketing leaders in automotive, healthcare, home services, financial services and telecom, found only 27% of marketers running AI agents measure them on revenue, bookings or conversions, and 74% can't track an agent-handled lead from first click to sale. Only 26% can tie agent conversations to the ad that drove them, and 19% reliably send outcomes back to ad platforms. Before scaling a chat or sales agent, connect its conversations to orders and push conversions back to your ad platforms, or you won't know whether it pays for itself.",
+          "tags": ["ai-agents", "attribution", "measurement", "invoca", "conversion"],
+          "significance": "medium",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "id": "supermetrics-campaign-management-chatgpt-ads-nov11",
+          "category": "marketing-automation",
+          "title": "Supermetrics lets marketers edit campaigns on seven ad platforms, including ChatGPT Ads, from Claude or ChatGPT",
+          "source": "Supermetrics",
+          "url": "https://supermetrics.com/blog/supermetrics-campaign-management-launch",
+          "summary": "Supermetrics launched Campaign Management, which lets teams change budgets, bids, targeting, ads and creatives on Google Ads, Meta, Microsoft Advertising, TikTok Ads, LinkedIn Ads, Snapchat and ChatGPT Ads from Claude, ChatGPT or Supermetrics Studio. Write access is opt-in per ad account, approval settings range from none to every live change, and every edit is logged in Campaign History. If you test it during BFCM, start with the All live changes approval setting on one account so no budget moves without a person signing off.",
+          "tags": ["supermetrics", "chatgpt-ads", "campaign-management", "claude", "paid-media"],
+          "significance": "medium",
+          "publishedAt": "2026-11-09"
+        },
+        {
+          "id": "mate-text-shopping-agent-cashback-nov11",
+          "category": "agentic-commerce",
+          "title": "mate launches a text-based shopping agent that checks out and claims cashback at 200,000+ U.S. stores",
+          "source": "EIN Presswire via New Products Watch",
+          "url": "https://www.newproductswatch.com/article/955148658-mate-launches-text-based-ai-shopping-agent-ahead-of-black-friday",
+          "summary": "The team behind the Checkmate cashback app launched mate, a free AI shopping agent shoppers text on iMessage or WhatsApp that negotiates cashback and discounts at more than 200,000 U.S. stores, checks out for them and tracks packages. It runs on Checkmate's existing direct store integrations rather than scraping sites. Expect more deal-hunting agents between shoppers and your checkout this holiday, so know which cashback and affiliate programs you are in and what margin they cost you.",
+          "tags": ["shopping-agents", "cashback", "affiliate", "messaging", "bfcm"],
+          "significance": "low",
+          "publishedAt": "2026-11-10"
+        }
+      ]
+    },
     {
       "date": "2026-11-10",
       "headline": "Tuesday Signal Brief",
