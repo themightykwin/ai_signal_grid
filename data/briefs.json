@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-11-11T08:00:00-06:00",
+  "updatedAt": "2026-11-12T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-12",
+      "headline": "Thursday Signal Brief",
+      "lead": "The AI shopping surface kept spreading, and the measurement got thinner. Google is now selling ads inside AI Mode follow-up questions in the U.S. and across 10+ more English markets, with no separate reporting, while Amazon took Alexa for Shopping to the UK and startups pushed agentic checkout into Instagram DMs and WhatsApp. Shopify, meanwhile, published hard numbers on its own generative discovery model. The operator pattern: the places shoppers decide are multiplying faster than the reports that show what they're worth, so clean product data and your own incrementality tests matter more than ever.",
+      "items": [
+        {
+          "id": "google-ai-mode-ads-multiturn-expansion-nov12",
+          "category": "marketing-automation",
+          "title": "Google expands ads in AI Mode to 10+ more countries and adds U.S. ads on follow-up questions, with no separate reporting",
+          "source": "Search Engine Journal",
+          "url": "https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/",
+          "summary": "Ads in Google's AI Mode are now live in English in more than 10 additional countries, including Canada, Australia, India and Singapore, with Brazil, Mexico and the UK slated for Q4. In the U.S., new multiturn ads can show on follow-up questions inside an AI Mode conversation, matched on both the question and the AI's answer. AI Mode results are folded into standard campaign reporting with no separate breakdown, so you can't calculate an AI Mode CPA or ROAS; annotate your BFCM reporting and judge changes with holdouts, not timing.",
+          "tags": ["google-ads", "ai-mode", "multiturn-ads", "reporting", "bfcm"],
+          "significance": "high",
+          "publishedAt": "2026-11-10"
+        },
+        {
+          "id": "shopify-generative-discovery-model-nov12",
+          "category": "ai-merchandising",
+          "title": "Shopify's generative discovery model lifts Shop home-feed orders 7.95% and conversion 9.85%",
+          "source": "Shopify Engineering",
+          "url": "https://shopify.engineering/generative-discovery",
+          "summary": "Shopify trained one generative model on its search and recommendation data, starting from an open-weight language model, and it now runs in production for both. On the Shop app home feed it reported +7.95% orders, +8.60% converters and +9.85% conversion rate, and a 2.7-point search relevance gain for signed-in buyers. The model reads product descriptions and attributes, so complete, accurate titles and attributes are what get your products surfaced in Shop.",
+          "tags": ["shopify", "shop-app", "recommendations", "search", "product-data"],
+          "significance": "high",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "id": "amazon-alexa-for-shopping-uk-nov12",
+          "category": "agentic-commerce",
+          "title": "Amazon launches Alexa for Shopping in the UK with AI comparisons, a year of price history and conversational baskets",
+          "source": "About Amazon UK",
+          "url": "https://www.aboutamazon.co.uk/news/retail/meet-alexa-for-shopping-your-personalised-ai-assistant-on-amazon",
+          "summary": "Alexa for Shopping, which combines Rufus with Alexa+, is now available to any signed-in UK Amazon customer, no Prime required. It adds AI overviews in search and on product pages, side-by-side comparisons, up to 365 days of price history, and baskets built from requests like \"add my usual coffee.\" UK sellers should expect more shoppers to see price history and AI-written summaries before they reach the listing, so check how your pricing pattern and review themes read.",
+          "tags": ["amazon", "alexa-for-shopping", "uk", "price-history", "marketplaces"],
+          "significance": "medium",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "id": "jcrew-style-advisor-anthropic-nov12",
+          "category": "ai-merchandising",
+          "title": "J. Crew launches Style Advisor, an Anthropic-powered stylist trained on its own outfit pairings",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/11/11/jcrew-anthropic-ai-style-advisor/",
+          "summary": "J. Crew's Style Advisor runs on Anthropic models and is trained on thousands of outfit pairings from the brand's photo shoots and its styling rules. It asks clarifying questions about the occasion and context before recommending, and launches on desktop first, with purchase-history personalization planned. It's a useful model for apparel brands: the edge comes from proprietary styling data, not the chatbot itself.",
+          "tags": ["j-crew", "anthropic", "styling", "apparel", "onsite-ai"],
+          "significance": "medium",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "id": "vibedm-instagram-dm-agentic-checkout-nov12",
+          "category": "agentic-commerce",
+          "title": "VibeDM launches agentic shopping, virtual try-on and in-chat checkout inside Instagram DMs",
+          "source": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20261111568600/en/VibeDM-Brings-Agentic-Shopping-and-Viral-Virtual-Try-On-Features-to-Instagram-DMs-for-the-First-Time",
+          "summary": "VibeDM launched in the U.S. and Europe with eight brands, letting shoppers who DM a brand browse a product carousel, get an AI try-on image from a selfie or room photo in about 15 seconds, and check out without leaving Instagram. Brands can plug in their own Shopify checkout, use ChannelEngine, or integrate a custom CRM, with Adyen handling payments. For brands already driving DMs from creators or ads, it's a way to test whether the DM itself can close the sale.",
+          "tags": ["instagram", "dm-commerce", "virtual-try-on", "shopify", "conversational-commerce"],
+          "significance": "medium",
+          "publishedAt": "2026-11-11"
+        },
+        {
+          "id": "zepic-neura-conversational-storefront-nov12",
+          "category": "agentic-commerce",
+          "title": "ZEPIC launches Neura, one AI agent for discovery, sales and returns across web chat, SMS and WhatsApp",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/11/12/3401300/0/en/zepic-launches-neura-an-agentic-conversational-storefront-for-consumer-brands.html",
+          "summary": "ZEPIC, which says it serves more than 200 consumer brands, launched Neura as a single agent covering recommendations, sales, offers and returns instead of separate bots for each. It keeps customer context across conversations, collects sizes and preferences in chat, and takes actions in Shopify, Magento, CRM and POS systems, including pointing shoppers to nearby stores when an item is sold out online. It's available now on web chat, SMS and WhatsApp, with Instagram and voice coming.",
+          "tags": ["zepic", "conversational-commerce", "whatsapp", "shopify", "magento"],
+          "significance": "low",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "id": "spangle-product-intelligence-360-nov12",
+          "category": "ai-merchandising",
+          "title": "Spangle AI unbundles Product Intelligence 360, a live product record built for AI agents and search",
+          "source": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20261112013364/en/Spangle-AI-Unveils-Product-Intelligence-360-to-Help-Brands-Win-in-the-Age-of-AI-Shopping-Agents",
+          "summary": "Spangle AI is selling the product-data layer behind its AI discovery tools on its own, through APIs and product feeds. Each product gets a living record of what it is, how it performs by channel and size, and what shoppers ask about it, already powering AI Discovery at Express. It's enterprise-focused, but it shows where the market is heading: richer, continuously updated product data as the input agents and onsite search rely on.",
+          "tags": ["spangle", "product-data", "ai-search", "merchandising", "enterprise"],
+          "significance": "low",
+          "publishedAt": "2026-11-12"
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "headline": "Wednesday Signal Brief",
