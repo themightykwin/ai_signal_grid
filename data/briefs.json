@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-11-12T08:00:00-06:00",
+  "updatedAt": "2026-11-13T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-13",
+      "headline": "Friday Signal Brief",
+      "lead": "The agents got wallets this week, but shoppers are still holding the card. Salesforce's new holiday survey says AI referrals convert at more than twice the usual rate while 73% of shoppers won't give an agent their payment details, and the same day Gopuff, Replit, Rain and Wirex all shipped ways for agents to pay inside hard limits. Amazon also took Alexa for Shopping to Canada. The operator pattern: win the research step now with accurate data and a helpful on-site agent, and treat agent checkout as a fenced, opt-in path rather than the main event this season.",
+      "items": [
+        {
+          "id": "salesforce-ai-first-holiday-survey-nov13",
+          "category": "agentic-commerce",
+          "title": "Salesforce: AI referrals convert 2x, but 73% of shoppers won't give an agent their card",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/news/stories/ai-first-holiday/",
+          "summary": "Salesforce projects AI will drive $75.8 billion in Cyber Week spending, says traffic from AI tools is up 104% year over year, and finds shoppers arriving through AI referrals are more than twice as likely to convert. In its survey of 2,500+ shoppers, 31% have tried a personal agent but only 19% of those users have let it check out, and 73% aren't comfortable handing over payment details. Shoppers who used a brand's own on-site agent spent 8% more per order, yet most abandon an assistant after two or three mistakes, so accurate prices, inventory and product answers matter more than a flashy agent.",
+          "tags": ["salesforce", "holiday", "ai-referrals", "shopper-agents", "survey"],
+          "significance": "high",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "id": "gopuff-grok-bot-connector-checkout-nov13",
+          "category": "agentic-commerce",
+          "title": "Gopuff launches a Grok Bot connector with in-chat checkout and delivery in as little as 15 minutes",
+          "source": "The Philadelphia Inquirer",
+          "url": "https://www.inquirer.com/business/gopuff-spacex-grok-bot-ai-grocery-orders-20261112.html",
+          "summary": "Gopuff now lets Grok Bot users browse what's in stock at their local Gopuff site, build an order, pick a payment method and check out without leaving the chat. Because Gopuff owns the inventory and delivery network, the connector pulls straight from live local stock rather than routing through matching software. It's a clear example of why real-time inventory data is the price of entry for in-chat ordering: an agent can only sell what it can see is actually available.",
+          "tags": ["gopuff", "grok-bot", "connector", "in-chat-checkout", "inventory"],
+          "significance": "medium",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "id": "replit-agent-commerce-link-visa-nov13",
+          "category": "agentic-commerce",
+          "title": "Replit Agent can now buy supplies for a business with Stripe's Link and Visa, pausing for approval at checkout",
+          "source": "Replit",
+          "url": "https://replit.com/blog/replit-agent-ads-commerce",
+          "summary": "Replit Agent now shops on merchants' own websites through an isolated browser, fills the cart, and stops for the user to approve the final total before anything is charged, with payment via Link and Visa. It needs no per-store integration, so any merchant site can receive these orders, starting in the US for one-time purchases. Replit also added Google Ads help for reaching customers. For merchants, it's another reason to make sure checkout works cleanly for automated browsers and doesn't block legitimate agent sessions.",
+          "tags": ["replit", "stripe-link", "visa", "b2b-purchasing", "browser-agents"],
+          "significance": "medium",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "id": "rain-agent-vaults-scoped-cards-nov13",
+          "category": "agentic-commerce",
+          "title": "Rain launches Agent Vaults, issuing a single-use scoped card for each purchase an AI agent makes",
+          "source": "Merchant's Eye",
+          "url": "https://www.merchantseye.com/news/rain-agent-vaults-bring-embedded-payments-to-ai-agents-2011334a",
+          "summary": "Rain's Agent Vaults let a business or consumer fund a balance that an AI agent can spend only within owner-set rules. Rain issues a scoped card per purchase, accepted at 175 million merchant locations and retired right after use, and it's enabling Visa Intelligent Commerce and Mastercard Agent Pay credentials so merchants can see the payment came from an authorized agent. For merchants, agent orders will increasingly arrive on network-tokenized, one-time cards, so fraud rules that flag new cards need a second look.",
+          "tags": ["rain", "agent-payments", "visa-intelligent-commerce", "mastercard-agent-pay", "fraud"],
+          "significance": "medium",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "id": "wirex-navoka-agent-own-account-nov13",
+          "category": "agentic-commerce",
+          "title": "Wirex launches Navoka, an AI agent that pays from its own bank account and card with user-set limits",
+          "source": "Finextra",
+          "url": "https://www.finextra.com/pressarticle/111665/wirex-launches-navoka-an-ai-agent-that-pays-from-its-own-bank-account-and-card",
+          "summary": "Each Navoka agent gets its own IBAN, debit card and stablecoin wallet, kept separate from the user's personal accounts, and every charge is checked against allowed merchants, spending caps and country lists. Anything outside the rules waits for the user's approval, and it connects to ChatGPT, Claude or Grok. It's invite-only for now, but together with Rain it shows the agent payment pattern settling on separate funds plus hard limits, which is the trust gap shoppers keep pointing to.",
+          "tags": ["wirex", "navoka", "agent-payments", "spending-controls"],
+          "significance": "low",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "id": "amazon-alexa-for-shopping-canada-nov13",
+          "category": "ai-merchandising",
+          "title": "Amazon brings Alexa for Shopping to Canada with AI overviews, shopping guides and a year of price history",
+          "source": "About Amazon Canada",
+          "url": "https://www.aboutamazon.ca/news/retail/meet-alexa-for-shopping-your-personalized-agentic-ai-assistant-on-amazon",
+          "summary": "A day after the UK launch, Amazon rolled Alexa for Shopping out to all Canadian customers on its app, website and Echo Show, with no Prime or device required. It adds AI overviews at the top of search results and on product pages, custom guides that compare products across Amazon and the web, conversational cart building, and price history over 30, 60 or 365 days. Brands selling on Amazon.ca should expect shoppers to see their pricing patterns and review themes summarized before they ever click a listing.",
+          "tags": ["amazon", "alexa-for-shopping", "canada", "price-history", "marketplaces"],
+          "significance": "medium",
+          "publishedAt": "2026-11-12"
+        }
+      ]
+    },
     {
       "date": "2026-11-12",
       "headline": "Thursday Signal Brief",
