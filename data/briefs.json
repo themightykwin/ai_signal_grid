@@ -1,6 +1,101 @@
 {
-  "updatedAt": "2026-11-13T08:00:00-06:00",
+  "updatedAt": "2026-11-16T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-16",
+      "headline": "Monday Signal Brief",
+      "lead": "Over the weekend, the plumbing for agent shopping got real. OpenAI launched ChatGPT Wallet with Amex, Mastercard and Visa, and Sierra shipped Poppy 1.0, which every Shopify store now publishes automatically and Meta's Muse checks first on every site. Amazon, meanwhile, is reportedly planning a World Product Graph so agents and shoppers rely on its index of everyone's products. The operator pattern: make sure agents can find, read and pay on your site without getting blocked, and keep your own product data the most accurate copy on the web.",
+      "items": [
+        {
+          "id": "openai-chatgpt-wallet-nov16",
+          "category": "agentic-commerce",
+          "title": "OpenAI launches ChatGPT Wallet so agents can pay with tokenized cards, plus a playbook for merchants",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet/",
+          "summary": "ChatGPT Wallet, built with American Express, Mastercard and Visa, lets a ChatGPT agent check out on a shopper's behalf using a network payment token instead of real card details, with Face ID or a fingerprint check on every purchase. It starts with U.S. ChatGPT Pro users in dots, and the merchant keeps the customer relationship, pricing, fulfillment and returns. OpenAI's Commerce Partner Playbook warns that some sites will block agent purchases by accident, so check your bot protection and fraud rules and claim your business with a current product feed.",
+          "tags": ["openai", "chatgpt", "agent-payments", "checkout", "tokenization"],
+          "significance": "high",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "id": "sierra-poppy-1-0-shopify-nov16",
+          "category": "agentic-commerce",
+          "title": "Sierra ships Personal Agent Protocol 1.0, and every Shopify store now publishes a Poppy file automatically",
+          "source": "Sierra",
+          "url": "https://sierra.ai/blog/releasing-poppy",
+          "summary": "Poppy is the handshake for when a shopper's personal agent arrives at a store: it says who it is and learns what it's allowed to do, with OAuth controls for the customer. Shopify turned it on for every merchant and co-authored a commerce extension that links it to UCP for carts and checkout, and Meta's Muse now looks for Poppy first on every site it visits. Shopify merchants get it with no work, while brands on other platforms can use Sierra's implementation kit and validator, and 100+ companies including Wayfair, Wix and Salesforce Commerce Cloud have signed on as design partners.",
+          "tags": ["sierra", "poppy", "shopify", "meta-muse", "protocols"],
+          "significance": "high",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "id": "amazon-world-product-graph-nov16",
+          "category": "ai-foundations",
+          "title": "Amazon reportedly plans a World Product Graph indexing products it doesn't even sell",
+          "source": "The Verge (via Reuters)",
+          "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+          "summary": "An internal Amazon document seen by Reuters describes cataloguing virtually every product for sale online, including items Amazon doesn't stock, so shoppers and AI agents don't leave Amazon to research elsewhere. The document admits many Rufus answers are factually wrong or incomplete and says more data should make Alexa for Shopping more accurate and cheaper to run. It may depend on crawling brand sites and has an aspirational October 2027 date, and Amazon calls it a brainstorming draft, but brands should assume their site data could end up summarized on Amazon and keep it accurate.",
+          "tags": ["amazon", "product-data", "alexa-for-shopping", "ai-agents", "search"],
+          "significance": "high",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "id": "amazon-alexa-shopping-15-countries-nov16",
+          "category": "ai-merchandising",
+          "title": "Amazon makes Alexa for Shopping available in 13 countries, beta in two more, and opens text shopping to everyone",
+          "source": "PYMNTS",
+          "url": "https://www.pymnts.com/news/mobile-commerce/2026/amazon-expands-alexa-for-shopping-to-15-countries-and-lets-anyone-shop-by-text/",
+          "summary": "Amazon's AI shopping assistant is now fully live in markets including the U.S., UK, Germany, France, Japan, India, Brazil, Mexico and Australia, with beta in the UAE and Turkey. Texting Alexa for Shopping to find products, build a cart, buy and get delivery updates is now open to all users rather than a select group. For sellers in those markets, the assistant's answers now shape more of discovery, so complete listings, Q&A and reviews matter in every locale you sell in.",
+          "tags": ["amazon", "alexa-for-shopping", "international", "conversational-commerce"],
+          "significance": "medium",
+          "publishedAt": "2026-11-13"
+        },
+        {
+          "id": "commerce-bigcommerce-shopping-agent-nov16",
+          "category": "ai-merchandising",
+          "title": "Commerce rolls out Shopping Agent, a customizable AI storefront assistant for BigCommerce merchants",
+          "source": "Commerce.com (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/16/3403466/0/en/commerce-introduces-shopping-agent-to-enable-conversational-shopping-for-bigcommerce-merchants.html",
+          "summary": "Commerce.com is rolling out Shopping Agent to eligible BigCommerce merchants ahead of the holidays, letting them build an on-site assistant in their own brand voice that personalizes discovery and answers product and comparison questions. The company pitches the conversations as first-party data on what shoppers want. BigCommerce brands can test it on high-consideration categories now, but should check its answers against live prices and inventory before peak traffic.",
+          "tags": ["bigcommerce", "commerce-com", "on-site-agent", "conversational-shopping"],
+          "significance": "medium",
+          "publishedAt": "2026-11-16"
+        },
+        {
+          "id": "podqi-chatbots-risky-retail-sites-nov16",
+          "category": "ai-foundations",
+          "title": "Study: ChatGPT, Gemini and Perplexity send shoppers to fake or risky retail sites in up to 15% of answers",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+          "summary": "IP protection firm Podqi asked the three chatbots where to buy from 151 brands and found risky sites, including impersonators, knockoff sellers and lapsed brand domains, in 15% of Perplexity answers, 8% of ChatGPT answers and 4% of Gemini answers across 6,795 responses. The prompts were Podqi's own, not real user chats. Brands should ask AI tools where to buy their products, renew old regional domains, and report impersonators so agents don't send buyers to fakes.",
+          "tags": ["ai-search", "brand-protection", "chatgpt", "gemini", "perplexity"],
+          "significance": "medium",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "id": "meta-ai-ads-detected-offers-nov16",
+          "category": "marketing-automation",
+          "title": "Meta's AI ad tools can pull discounts from your website into ads even when promotions are off",
+          "source": "Marketing Dive",
+          "url": "https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/",
+          "summary": "Reports flagged by digital marketing advisor Bram Van der Hallen show Meta automatically detecting offers on a store's website and showing them in Facebook and Instagram ads, even when promotions were turned off on the original ad. The behavior is tied to a Commerce Manager setting for displaying offers detected from your website and ads. Before Black Friday, check that setting so expired or audience-specific codes don't show up in campaigns you didn't approve.",
+          "tags": ["meta", "advantage-plus", "promotions", "commerce-manager", "bfcm"],
+          "significance": "medium",
+          "publishedAt": "2026-11-12"
+        },
+        {
+          "id": "tiktok-shop-product-diagnosis-nov16",
+          "category": "ai-merchandising",
+          "title": "TikTok Shop's Product Diagnosis lists up to 10 reasons a U.S. product's sales fell",
+          "source": "PPC Land",
+          "url": "https://ppc.land/tiktok-shop-gives-us-sellers-up-to-10-reasons-a-products-sales-fell/",
+          "summary": "A new layer in TikTok Shop's U.S. Seller Center product analytics flags products whose sales are falling and ranks up to 10 likely causes, splitting sales across five channels and comparing each against top products in the same category. TikTok doesn't say how it picks that benchmark group and calls the AI assistant's output reference only. Sellers can use it to triage listings before BFCM, but should confirm a cause in their own data before changing prices or creative.",
+          "tags": ["tiktok-shop", "seller-analytics", "diagnostics", "bfcm"],
+          "significance": "low",
+          "publishedAt": "2026-11-12"
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "headline": "Friday Signal Brief",
