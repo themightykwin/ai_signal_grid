@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-11-16T08:00:00-06:00",
+  "updatedAt": "2026-11-17T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-17",
+      "headline": "Tuesday Signal Brief",
+      "lead": "Today's pattern is that the gatekeeping layer for shopping agents is getting built, and merchants are being handed the keys. Salesforce joined Poppy and spelled out the stack: Poppy verifies the agent at the door, UCP handles cart and checkout, and the brand decides which agents get in. Daydream and Meta's Business Agent show agents moving all the way to checkout in new places, while Shopify quietly tightened how it filters bot traffic out of cart and checkout reports. Decide your agent policy now, and know which of your sessions are human.",
+      "items": [
+        {
+          "id": "salesforce-joins-poppy-nov17",
+          "category": "agentic-commerce",
+          "title": "Salesforce joins the Personal Agent Protocol and pairs it with UCP in Commerce Cloud",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/blog/salesforce-joins-personal-agent-protocol/",
+          "summary": "Salesforce is a launch partner for Poppy 1.0, the open standard Sierra and Meta announced for how personal shopping agents find a store, prove their identity and sign in with shopper consent. Poppy hands cart, checkout, payment and orders off to the Universal Commerce Protocol, which Commerce Cloud already supports, so orders keep flowing into the systems brands run today. Salesforce says the protocol does not decide which agents a brand lets in, so write down which agents you will welcome, limit or block before the holiday peak.",
+          "tags": ["salesforce", "poppy", "ucp", "agent-identity", "commerce-cloud"],
+          "significance": "high",
+          "publishedAt": "2026-11-16"
+        },
+        {
+          "id": "daydream-agent-checkout-nov17",
+          "category": "agentic-commerce",
+          "title": "Daydream launches an autonomous fashion agent that styles, tries on and checks out across 10,000+ brands",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/daydream-launches-first-ever-autonomous-agent-for-fashion-shopping-styling-and-checkout-302941544.html",
+          "summary": "The Daydream Agent, in the iOS app or by text, takes an occasion or an inspiration image, searches more than 10,000 brands and builds a full shoppable outfit. Shoppers can virtually try pieces on and authorize the agent to complete the purchase with participating retailers, and it can watch for sales in the background. Fashion brands should make sure fit, size and real-time price and stock data are complete, because that is what the agent uses to pick your item over someone else's.",
+          "tags": ["daydream", "fashion", "agentic-checkout", "virtual-try-on"],
+          "significance": "medium",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "id": "shopify-bot-detection-checkout-nov17",
+          "category": "ai-foundations",
+          "title": "Shopify improves bot detection for cart and checkout activity in Analytics",
+          "source": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/improved-bot-detection-for-cart-and-checkout-activity",
+          "summary": "Shopify Analytics now does a better job spotting bot traffic in cart and checkout activity, so reports that filter to human sessions may show a small dip. Orders, sales and customer data are not affected. If your add-to-cart or checkout conversion rates shift this week, check whether it is this change before you blame a promo or a theme update.",
+          "tags": ["shopify", "analytics", "bot-traffic", "conversion-rate"],
+          "significance": "medium",
+          "publishedAt": "2026-11-16"
+        },
+        {
+          "id": "printful-shopify-sidekick-nov17",
+          "category": "ai-merchandising",
+          "title": "Printful brings print-on-demand product creation into Shopify Sidekick",
+          "source": "EIN Presswire",
+          "url": "https://www.einpresswire.com/article/957014894/printful-brings-print-on-demand-to-shopify-sidekick",
+          "summary": "A new Printful app extension for Sidekick lets sellers design a product in the chat, then turn it into a t-shirt, hat or mug and add it to their Shopify store in a few clicks. Printful handles mockups, listing details, pricing review and on-demand fulfillment. It is in early access, but it is a clear sign that Sidekick app extensions will become a way merchants discover and install apps.",
+          "tags": ["shopify", "sidekick", "printful", "print-on-demand", "app-extensions"],
+          "significance": "medium",
+          "publishedAt": "2026-11-16"
+        },
+        {
+          "id": "razorpay-meta-business-agent-nov17",
+          "category": "agentic-commerce",
+          "title": "Razorpay goes live on Meta Business Agent so WhatsApp chats can end in a payment",
+          "source": "Razorpay",
+          "url": "https://razorpay.com/newsroom/razorpay-goes-live-on-meta-business-agent-enabling-payments-inside-whatsapp-business-app/",
+          "summary": "In India, Meta's Business Agent can now answer questions and recommend products on WhatsApp, then generate a Razorpay payment link so the customer pays by UPI, card or net banking without leaving the chat. Business owners control when the agent is active and can step into any conversation. It is an India launch, but it shows where Meta is taking conversational selling: the agent answers, recommends and collects payment in one thread.",
+          "tags": ["meta", "whatsapp", "razorpay", "conversational-commerce", "payments"],
+          "significance": "medium",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "id": "salescloser-ai-video-agent-shopify-nov17",
+          "category": "marketing-automation",
+          "title": "SalesCloser launches a live AI video sales agent app for Shopify stores",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3404471/0/en/salescloser-launches-live-ai-video-sales-agent-for-shopify-stores.html",
+          "summary": "SalesCloser's new Shopify app puts a lifelike AI avatar on the storefront that shoppers can talk to by voice, video or chat to find products, add them to the cart and check out. It is self-serve and no-code, and joins a growing set of AI video sales apps in the Shopify App Store. If you test one, measure conversion and AOV against a control and watch for wrong answers about your products and policies.",
+          "tags": ["shopify", "ai-sales-agent", "video", "onsite-conversion"],
+          "significance": "low",
+          "publishedAt": "2026-11-17"
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "headline": "Monday Signal Brief",
