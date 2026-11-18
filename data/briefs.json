@@ -1,6 +1,101 @@
 {
-  "updatedAt": "2026-11-17T08:00:00-06:00",
+  "updatedAt": "2026-11-18T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-18",
+      "headline": "Wednesday Signal Brief",
+      "lead": "The plumbing for agent shopping kept filling in: Visa opened its Agentic Ready program to the processors merchants already use, Salesforce shipped a storefront shopper agent, and Andy Jassy said Amazon is talking to every AI agent company. At the same time, Meta's ad tools are taking more pricing decisions into their own hands right before Black Friday. The pattern for operators: agents are getting easier to say yes to, and platform defaults are getting more expensive to ignore.",
+      "items": [
+        {
+          "id": "visa-agentic-ready-acceptance-nov18",
+          "category": "agentic-commerce",
+          "title": "Visa opens Agentic Ready to merchants and processors, with PayPal, Stripe, Adyen and Fiserv among 140+ first participants",
+          "source": "Visa",
+          "url": "https://investor.visa.com/news/news-details/2026/Visa-Expands-Agentic-Ready-to-Help-Scale-Trusted-AI-Commerce-Globally/default.aspx",
+          "summary": "Visa expanded its Agentic Ready program from card issuers to the acceptance side, so merchants, payment providers, acquirers and commerce platforms can test agent-initiated transactions on the infrastructure they already run. PayPal, Stripe, Adyen, Checkout.com, Fiserv and Global Payments are among more than 140 launch participants, joining 175+ issuers in 45 markets. Ask your payment provider whether it is in the program and how it will flag agent-initiated orders before they show up in your fraud rules.",
+          "tags": ["visa", "agentic-payments", "paypal", "stripe", "network-tokens"],
+          "significance": "high",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "id": "meta-highlight-promotions-default-nov18",
+          "category": "marketing-automation",
+          "title": "Meta's new \"Highlight your promotions\" can add promo codes to Sales ads by default, with no per-ad off switch",
+          "source": "AdShift",
+          "url": "https://adshift.co/changes/meta-highlight-your-promotions-optimized-promo-codes-default/",
+          "summary": "A new section in Meta ad creation for website Sales campaigns defaults to showing \"optimized promotions,\" and the only per-ad alternative is choosing one of your own promotions. Codes can come from your ad copy, your crawled website or Shopify, and the only full off switch is account-level: untick Detected offers in Commerce Manager under Settings, Offer Merchandising. Check this before BFCM ads launch so Meta isn't handing out discounts you didn't plan for.",
+          "tags": ["meta", "advantage-plus", "promo-codes", "bfcm"],
+          "significance": "high",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "id": "salesforce-carter-shopper-agent-nov18",
+          "category": "agentic-commerce",
+          "title": "Salesforce launches Carter, a shopper agent for B2C Commerce storefronts that handles discovery through checkout",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/blog/carter-shopper-agent/",
+          "summary": "Carter is a conversational shopper agent for Salesforce B2C Commerce, built from an Agentforce template with four subagents covering product questions, store FAQs, cart and coupons, and order confirmation. Answers are grounded in the merchant's catalog, it can see the page the shopper is on, and brands choose which discovery questions it asks and which selling points it stresses. Conair already runs it as Compass on cuisinart.com, so clean catalog attributes and policy pages now feed the on-site assistant directly.",
+          "tags": ["salesforce", "shopper-agent", "agentforce", "b2c-commerce"],
+          "significance": "high",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "id": "amazon-jassy-third-party-agents-nov18",
+          "category": "agentic-commerce",
+          "title": "Andy Jassy says Amazon is \"talking to every one\" of the AI agent companies",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/1035664/amazon-is-talking-to-every-one-of-the-ai-agent-companies",
+          "summary": "At a Semafor event, Amazon CEO Andy Jassy said he expects Amazon to have a relationship with third-party shopping agents in the future, provided it is a good customer experience and a fair exchange of value. Amazon has been one of the most guarded retailers about outside agents browsing and buying on its site. Brands that sell on Amazon should assume outside agents may eventually reach their listings there too, so keep listing content as complete as your own site's.",
+          "tags": ["amazon", "third-party-agents", "marketplaces"],
+          "significance": "medium",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "id": "klaviyo-bfcm-composer-customer-agent-nov18",
+          "category": "marketing-automation",
+          "title": "Klaviyo ships BFCM updates: Composer builds campaigns from your brief and Customer Agent remembers shoppers across channels",
+          "source": "Klaviyo",
+          "url": "https://www.klaviyo.com/blog/BFCM-2026-product-updates",
+          "summary": "Klaviyo's Composer agent now connects to more than 10 apps, reads an existing campaign brief and builds the campaigns, flows and tests, with approval required before anything sends. Customer Agent now keeps a shopper's context across chat, text and email, and Klaviyo added shareable previews, version history and sending infrastructure rated at 100 million messages in 20 minutes. Teams with BFCM briefs already written can test Composer on one campaign now and keep the human approval step in place.",
+          "tags": ["klaviyo", "email-marketing", "customer-service", "bfcm"],
+          "significance": "medium",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "id": "shopify-sidekick-metafield-analytics-nov18",
+          "category": "ai-merchandising",
+          "title": "Shopify Sidekick can now answer analytics questions using your metafields and metaobjects",
+          "source": "Shopify",
+          "url": "https://changelog.shopify.com/posts/analyze-your-metafields-and-metaobjects-with-sidekick",
+          "summary": "Sidekick can now break down sales by custom data such as fabric, supplier or designer, as long as the metafield has Filter or group data in Analytics turned on. Some metafield types and reports aren't supported yet. Turn on that setting for the attributes you merchandise by, then ask Sidekick questions like total sales by fabric last quarter.",
+          "tags": ["shopify", "sidekick", "metafields", "analytics"],
+          "significance": "medium",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "id": "loblaw-meta-muse-nov18",
+          "category": "agentic-commerce",
+          "title": "Loblaw becomes the first Canadian retailer to sell through Meta's Muse agent",
+          "source": "Loblaw Companies Limited",
+          "url": "https://www.globenewswire.com/news-release/2026/11/18/3405602/0/en/loblaw-becomes-first-canadian-retailer-to-bring-ai-powered-shopping-to-meta-s-muse.html",
+          "summary": "Loblaw made its product catalog available through Muse, Meta's AI personal agent, as a partner connector. Canadians can go from store selection to checkout at participating Loblaw banners inside Muse. It is another large grocer putting its catalog where agents shop rather than waiting for shoppers to come to its own app.",
+          "tags": ["meta", "muse", "loblaw", "grocery", "canada"],
+          "significance": "medium",
+          "publishedAt": "2026-11-18"
+        },
+        {
+          "id": "lightspark-agent-accounts-nov18",
+          "category": "agentic-commerce",
+          "title": "Lightspark launches Agent Accounts so AI agents can hold money and pay any Visa merchant within user-set limits",
+          "source": "Lightspark (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3405071/0/en/lightspark-launches-agent-accounts-for-ai-agents-to-make-and-receive-payments.html",
+          "summary": "Lightspark's Agent Accounts let AI agents hold, spend, send and receive money for a person or business, with the account holder setting spending limits and approval rules. Agents can pay any merchant that accepts Visa, or settle directly with another Agent Account holder, and platforms can offer the accounts under their own brand. Expect more agent orders to arrive on cards issued to agents rather than the shopper's own card.",
+          "tags": ["lightspark", "agent-payments", "visa"],
+          "significance": "low",
+          "publishedAt": "2026-11-17"
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "headline": "Tuesday Signal Brief",
