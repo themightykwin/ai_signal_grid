@@ -1,6 +1,101 @@
 {
-  "updatedAt": "2026-11-18T08:00:00-06:00",
+  "updatedAt": "2026-11-19T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-19",
+      "headline": "Thursday Signal Brief",
+      "lead": "Agents moved from talking about checkout to doing it at scale: Gemini's Task mode can now buy for hundreds of millions of people with Google Pay and AP2, Walmart reported Sparky usage up 129% year over year, and Crossmint shipped a plugin that lets almost any assistant complete a purchase. The weak link is now the merchant side, where old bot rules block paying agents and AI-referred traffic is still hard to tie to sales. The pattern for operators: make sure your store can be found, read and bought from by an agent, and that you can measure it when it happens.",
+      "items": [
+        {
+          "id": "gemini-tasks-agentic-checkout-nov19",
+          "category": "agentic-commerce",
+          "title": "Gemini's Task mode can now shop and check out with Google Pay, using AP2 and network tokens, with UCP coming next",
+          "source": "Google",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+          "summary": "Google is rolling out an upgraded Task mode in the Gemini app, free across the U.S., Japan, Korea, Canada, Australia and India on its new Gemini 4 Hydrogen model, with advanced features starting in the U.S. Gemini compares products using Google's Shopping Graph and checks out through Google Pay over the Agent Payments Protocol, with tokenized Mastercard and Visa cards (American Express coming soon), a user-set spending cap, and receipts in Google Wallet. Google says Universal Commerce Protocol support is next, so keep your Merchant Center feed, prices and promo codes accurate, because Gemini will read and act on them.",
+          "tags": ["google", "gemini", "ap2", "google-pay", "ucp"],
+          "significance": "high",
+          "publishedAt": "2026-11-17"
+        },
+        {
+          "id": "walmart-q3-sparky-usage-nov19",
+          "category": "agentic-commerce",
+          "title": "Walmart Q3: Sparky usage up 129% year over year in the U.S. as global ecommerce grows 17%",
+          "source": "Walmart",
+          "url": "https://corporate.walmart.com/news/2026/11/walmart-releases-q3-fy27-earnings",
+          "summary": "Walmart's Q3 FY27 results reported a 129% year-over-year increase in U.S. usage of Sparky, its AI shopping assistant, alongside 17% global ecommerce growth and 25% global advertising growth including VIZIO and Vibe. The company said it keeps investing in agentic commerce to help customers find more of what they need. If you sell on Walmart Marketplace, assume a growing share of discovery runs through Sparky and keep titles, attributes and images complete.",
+          "tags": ["walmart", "sparky", "earnings", "retail-media"],
+          "significance": "high",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "id": "stripe-bot-blocking-agents-nov19",
+          "category": "agentic-commerce",
+          "title": "Stripe's agentic commerce lead: retailers' old bot blocking is turning away shopping agents that come with money",
+          "source": "Watson Weekly",
+          "url": "https://www.watsonweekly.com/p/three-retailers-blocked-a-paying-ai-agent-yours-may-be-next",
+          "summary": "In a conversation recapped by Rick Watson, Stripe's Danny Smith described sending his agent to buy a jacket with a budget through Stripe Link, only to have three major retailers block it. Most retailers set up bot blocking years ago to stop scrapers and resellers, and those settings can't tell a paying shopping agent from a scraper. Review your WAF and bot-management rules for agent traffic before the holiday peak.",
+          "tags": ["stripe", "bot-management", "agent-checkout"],
+          "significance": "medium",
+          "publishedAt": "2026-11-18"
+        },
+        {
+          "id": "crossmint-menta-plugin-nov19",
+          "category": "agentic-commerce",
+          "title": "Crossmint launches Menta, an open-source plugin that lets ChatGPT, Claude and other assistants buy from stores worldwide",
+          "source": "Crossmint (PR Newswire)",
+          "url": "https://www.prnewswire.com/news-releases/crossmint-launches-menta-the-first-plugin-that-lets-any-ai-assistant-shop-anywhere-worldwide-302942957.html",
+          "summary": "Menta handles the full purchase flow for AI assistants, from adding the user's own card to placing the order, and installs in ChatGPT, Devin and other assistants or connects to Claude and Muse. Crossmint says it hit a 91% success rate across 3,000 merchants in testing and completed purchases 5-10x faster than general-purpose agents using browser checkouts. Agents may reach your checkout even if you never signed up for an agent program, so a clean guest checkout matters.",
+          "tags": ["crossmint", "agent-payments", "mcp", "checkout"],
+          "significance": "medium",
+          "publishedAt": "2026-11-18"
+        },
+        {
+          "id": "constructor-commerce-aeo-nov19",
+          "category": "ai-merchandising",
+          "title": "Constructor launches Commerce AEO to tie AI answer-engine visibility to add-to-carts and purchases",
+          "source": "Constructor (PR Newswire)",
+          "url": "https://www.prnewswire.com/news-releases/constructor-launches-commerce-aeo-to-help-retailers-turn-ai-visibility-into-sales-302945434.html",
+          "summary": "Constructor's new Commerce AEO aims to help retailers show up in shopping recommendations from ChatGPT, Claude and personal agents, then track whether those AI-referred visits turn into sales. The release cites Adobe data showing AI-platform traffic to U.S. retail sites grew 71% year over year in September 2026. Whatever tool you use, separate AI referrals in analytics now so you can judge that traffic on revenue, not clicks.",
+          "tags": ["constructor", "aeo", "ai-traffic", "attribution"],
+          "significance": "medium",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "id": "nhn-godomall-webmcp-geo-nov19",
+          "category": "ai-merchandising",
+          "title": "NHN Commerce adds GEO and WebMCP to Godomall so AI agents can search products and add to cart",
+          "source": "Financial News (fnnews)",
+          "url": "https://en.fnnews.com/news/202611190903217854",
+          "summary": "Korean store builder Godomall now applies generative engine optimization and Web Model Context Protocol so AI agents can search a store's products and add them to a cart on a shopper's behalf, at no extra cost to operators. GEO is meant to help services like ChatGPT and Claude understand a store's products and policies alongside regular SEO. It's another sign that platforms are making stores agent-readable by default.",
+          "tags": ["nhn-commerce", "webmcp", "geo", "platforms"],
+          "significance": "low",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "id": "price-com-text-assistant-nov19",
+          "category": "agentic-commerce",
+          "title": "Price.com launches a text-based AI shopping assistant that combines price comparison, coupons and cash back",
+          "source": "Price.com (Business Wire)",
+          "url": "https://www.businesswire.com/news/home/20261119387702/en/Price.com-Launches-AI-Shopping-and-Travel-Assistant-to-Help-Shoppers-Find-What-They-Want-and-Pay-LessThrough-Text",
+          "summary": "Shoppers text, send a voice memo or a photo to price.com/text, and the assistant compares prices across the web and surfaces the best price with available coupons and cash back. It's one more AI layer that puts your price next to every competitor's, plus any public coupon code it can find. Audit which codes are floating around coupon sites before Black Friday.",
+          "tags": ["price-comparison", "coupons", "ai-assistants"],
+          "significance": "low",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "id": "meta-ranking-agents-propagation-nov19",
+          "category": "ai-foundations",
+          "title": "Meta says AI agents now handle over 60% of rolling ranking improvements across its ads models",
+          "source": "Engineering at Meta",
+          "url": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+          "summary": "Meta's engineering team says that since March 2026 AI agents have driven most of the work of spreading model improvements across its fleet of ads ranking models, handling over 60% of it, with early results showing about 3x greater engineering productivity. For advertisers, it means Meta's delivery models will change faster and more often. Watch performance shifts closely and avoid reading too much into a single week's swing.",
+          "tags": ["meta", "ads-ranking", "ai-agents"],
+          "significance": "low",
+          "publishedAt": "2026-11-18"
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "headline": "Wednesday Signal Brief",
