@@ -1,6 +1,101 @@
 {
-  "updatedAt": "2026-11-19T08:00:00-06:00",
+  "updatedAt": "2026-11-20T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-20",
+      "headline": "Friday Signal Brief",
+      "lead": "With Cyber Week four days out, Salesforce now expects AI and agents to influence $75.8 billion of global Cyber Week sales, and Target joined Walmart in putting its own shopping assistant in front of customers. Underneath, the plumbing kept filling in: AWS, Stripe, Mastercard and Natural all shipped ways for agents to pay, get paid or move money within set limits. The pattern for operators: agent traffic is arriving this holiday whether you planned for it or not, so the work this week is clean product data, a clear answer for agents on your own site, and a way to measure what they bring in.",
+      "items": [
+        {
+          "id": "salesforce-cyber-week-ai-forecast-nov20",
+          "category": "agentic-commerce",
+          "title": "Salesforce predicts AI and agents will influence $75.8B, or 21%, of global Cyber Week sales",
+          "source": "Salesforce",
+          "url": "https://www.salesforce.com/news/stories/cyber-week-ai-sales-2026/",
+          "summary": "Salesforce forecasts a record $357 billion in global online Cyber Week sales (Nov. 24–30), with $75.8 billion influenced by AI and agents, AI-driven traffic to retailer sites up 104% year over year, and about 20% of holiday traffic expected to be nonhuman. It says shoppers who use a brand's own shopper agent spend 8% more per order and buy 23% more items, and that AI referrals convert at twice the typical rate, while 73% of shoppers still won't give an agent their card. Before Tuesday, check that your feed, prices and promos are accurate and that analytics separate agent and AI-referral traffic from human visits.",
+          "tags": ["salesforce", "cyber-week", "bfcm", "ai-traffic", "shopper-agents"],
+          "significance": "high",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "id": "target-ask-target-beta-nov20",
+          "category": "agentic-commerce",
+          "title": "Target puts its Ask Target shopping assistant into beta as Walmart reports Sparky usage up 129%",
+          "source": "CIO Dive",
+          "url": "https://www.ciodive.com/news/target-walmart-AI-shopping-agents/875264/",
+          "summary": "Target said on its Q3 earnings call that its AI shopping assistant, Ask Target, is now in beta, and Walmart reported Sparky usage up 129% year over year a day later. A Gartner analyst quoted in the piece says the hard part isn't the model but fragmented data, inconsistent product attributes and inventory and pricing accuracy behind the agent. Smaller brands should treat that as the checklist: an on-site assistant is only as good as the catalog data it reads.",
+          "tags": ["target", "walmart", "shopping-assistant", "product-data"],
+          "significance": "medium",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "id": "chatgpt-shopping-partnership-line-removed-nov20",
+          "category": "ai-merchandising",
+          "title": "OpenAI quietly drops the line saying ChatGPT shopping results aren't influenced by its partnerships",
+          "source": "AI Visibility Journal",
+          "url": "https://aivisibilityjournal.com/news/2026/11/openai-chatgpt-shopping-help-page-partnerships-line-removed/",
+          "summary": "OpenAI's ChatGPT shopping help page no longer says product results are selected independently or not influenced by OpenAI partnerships; an archived Nov. 4 copy had that wording and rechecks on Nov. 15 and Nov. 19 found it gone. The page still says product results are not ads and lists the same ranking inputs. Brands relying on ChatGPT for discovery should watch whether partner merchants start getting preferential placement and keep their product feed submissions current.",
+          "tags": ["openai", "chatgpt", "shopping", "ranking"],
+          "significance": "medium",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "id": "aws-marketplace-x402-agent-payments-nov20",
+          "category": "agentic-commerce",
+          "title": "AWS Marketplace lets AI agents buy and pay per request over x402, billed to the customer's AWS account",
+          "source": "AWS",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
+          "summary": "AWS Marketplace now supports agentic payments over the x402 protocol through Amazon Bedrock AgentCore, so agents can find and pay for select APIs, data or content per request in U.S. dollars with charges on the existing AWS bill and no crypto wallet. Customers set spending limits, approved sellers and guardrails, and sellers can charge agents without building sign-up or billing flows. It's a sign that pay-per-call agent purchasing is becoming normal infrastructure, not an experiment.",
+          "tags": ["aws", "amazon", "x402", "agentcore", "agent-payments"],
+          "significance": "medium",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "id": "stripe-treasury-agents-move-money-nov20",
+          "category": "ai-foundations",
+          "title": "Stripe Treasury lets agents transfer funds, convert currencies and pay vendors within set limits",
+          "source": "Stripe",
+          "url": "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds",
+          "summary": "Stripe is adding write access to Stripe Treasury for agents, so tools like Claude or Codex connected through Stripe's MCP server can move money, convert currencies and pay vendors under permissions the business sets, including when human approval is required. Stripe says more than 24,000 businesses already give agents read access to their Treasury data. For brands on Stripe, finance tasks like topping up bill-pay accounts or vendor payments are now automatable, so set approval rules before anyone connects an agent.",
+          "tags": ["stripe", "treasury", "mcp", "finance-ops"],
+          "significance": "medium",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "id": "mastercard-antom-verifiable-intent-nov20",
+          "category": "agentic-commerce",
+          "title": "Mastercard and Ant International run a live agent purchase with Verifiable Intent and complete an Agent Pay for Machines pilot",
+          "source": "Ant International",
+          "url": "https://www.ant-intl.com/en/news/detail/mastercard-and-ant-international-advance-trusted-agentic-commerce-in-asia-pacific/",
+          "summary": "Mastercard completed a live consumer transaction through Antom in which an AI agent bought a coffee on Mastercard Agent Pay with Verifiable Intent, leaving a record of what the shopper had authorized. It also finished an Agent Pay for Machines pilot in Singapore that lets businesses credential their agents and enforce spending limits at the point of payment. Merchants should expect card networks to hand them proof of who an agent represents, which makes it easier to accept agent orders instead of blocking them.",
+          "tags": ["mastercard", "antom", "agent-pay", "verifiable-intent"],
+          "significance": "medium",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "id": "natural-accept-agent-card-payments-nov20",
+          "category": "agentic-commerce",
+          "title": "Natural launches Accept so businesses' AI agents can take card payments by link, in-app or on a live call",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/natural-launches-accept-to-allow-ai-agents-to-take-card-payments-302945809.html",
+          "summary": "Natural, which builds banking for AI agents, launched Natural Accept, letting businesses and their agents take card payments through a checkout link, inside their own site or app, or during a phone call. Natural handles the card data so the agent and the business's systems never see a real card number, and funds land in the same wallet agents use to pay out. It's aimed at agent-run order taking, which matters for brands experimenting with AI phone or chat sales.",
+          "tags": ["natural", "agent-payments", "card-acceptance"],
+          "significance": "low",
+          "publishedAt": "2026-11-19"
+        },
+        {
+          "id": "fast-simon-mcp-server-nov20",
+          "category": "ai-merchandising",
+          "title": "Fast Simon releases an MCP server so developers can set up its search and merchandising from coding agents",
+          "source": "Fast Simon",
+          "url": "https://www.fastsimon.com/press/fast-simon-unveils-new-mcp-server-slashing-time-to-market-for-e-commerce-agencies-and-developers/",
+          "summary": "Fast Simon, an AI product discovery platform for search, merchandising and personalization, launched a Model Context Protocol server that works with Claude Code, Cursor, Windsurf and Cline. The company says headless brands can now deploy it in hours instead of weeks. For agencies and in-house dev teams, MCP support is becoming a practical factor when picking commerce apps.",
+          "tags": ["fast-simon", "mcp", "site-search", "headless"],
+          "significance": "low",
+          "publishedAt": "2026-11-19"
+        }
+      ]
+    },
     {
       "date": "2026-11-19",
       "headline": "Thursday Signal Brief",
