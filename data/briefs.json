@@ -1,6 +1,101 @@
 {
-  "updatedAt": "2026-11-20T08:00:00-06:00",
+  "updatedAt": "2026-11-23T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-23",
+      "headline": "Monday Signal Brief",
+      "lead": "The day before Walmart lets Meta's Muse shop and check out on its site, the agent channel looks less like a single front door and more like a set of permissions merchants grant one at a time. Google added grocery checkout from Target and Albertsons in Search and Gemini, Klarna became the first non-card option in Adyen's agent checkout, and DXL put its catalog in front of Muse. The consumer data is the counterweight: shoppers still want to approve the purchase, so the brands that win this week make it easy for an agent to find the right product and easy for a person to say yes.",
+      "items": [
+        {
+          "id": "walmart-agent-gateway-muse-live-nov23",
+          "category": "agentic-commerce",
+          "title": "Walmart's Agent Gateway goes live with Meta's Muse, letting the agent buy Black Friday deals within a shopper's spending limit",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+          "summary": "Walmart is rolling out a live version of the Agent Gateway it announced last month, starting with Muse, after a 24-hour delay pushed the launch to November 24. Shoppers sign in to Walmart, set up an Agent Profile with a spending limit, then check out inside the Muse conversation with a card saved in their Walmart account, at Walmart.com prices and under its normal return policy. Walmart says more agents are coming while Amazon and eBay keep blocking outside agents, so the useful move for smaller brands is to decide which agents you will let in and on what terms, instead of defaulting to a block.",
+          "tags": ["walmart", "meta-muse", "agent-gateway", "black-friday", "agent-checkout"],
+          "significance": "high",
+          "publishedAt": "2026-11-23"
+        },
+        {
+          "id": "google-connected-apps-grocery-ucp-nov23",
+          "category": "agentic-commerce",
+          "title": "Google adds Target, Albertsons, Safeway and Shaw's Connected Apps to Search and Gemini, with checkout over UCP",
+          "source": "Google",
+          "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+          "summary": "Google is rolling out Connected Apps in U.S. Search and the Gemini app that let shoppers build grocery orders and check out with Albertsons, Safeway, Shaw's and Target, powered by the Universal Commerce Protocol. It is pitched for holiday hosting and Thanksgiving runs, alongside Experian, H&R Block, Angi and Thumbtack integrations. For merchants, it is another sign that UCP support and clean product data are becoming the price of entry to Google's agent surfaces.",
+          "tags": ["google", "gemini", "ai-mode", "ucp", "grocery"],
+          "significance": "high",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "id": "klarna-adyen-agentic-checkout-nov23",
+          "category": "agentic-commerce",
+          "title": "Klarna becomes the first non-card payment option in Adyen's AI agent checkout",
+          "source": "Klarna",
+          "url": "https://investors.klarna.com/News--Events/news/news-details/2026/Adyen-Merchants-Can-Now-Offer-Klarna-in-AI-Agent-Checkout/default.aspx",
+          "summary": "Shoppers can now pay with Klarna when an AI agent checks out for them through Adyen Agentic, and merchants that already offer Klarna through Adyen can switch it on with no new integration. The agent shows the same pay-in-full, installment and financing options the merchant already offers, and shoppers confirm every purchase. Adyen built it on Klarna's published open payment handler, so if BNPL drives a meaningful share of your orders, ask your PSP when it will carry into agent checkout.",
+          "tags": ["klarna", "adyen", "bnpl", "agent-payments"],
+          "significance": "high",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "id": "recon-analytics-ai-buying-guarantees-nov23",
+          "category": "agentic-commerce",
+          "title": "Recon Analytics: AI completed only 4% of AI-researched purchases, and 65% of AI users won't let it spend $1 unasked",
+          "source": "Recon Analytics",
+          "url": "https://www.reconanalytics.com/guarantees-not-guardrails-ai-shopping-agents/",
+          "summary": "In Recon Analytics' weekly survey of U.S. AI users, 38% had bought something in the past 30 days that AI helped them research, but the AI completed the purchase in only 4% of those cases. Nearly two in three would not let an AI spend a single dollar without asking first, and only 2.5% would trust the AI company to hold their payment details, versus 27% for banks and card issuers. Plan for agents to drive research and shortlists this season while people still click buy, so your product pages and policies need to close the sale.",
+          "tags": ["consumer-survey", "trust", "agent-payments", "recon-analytics"],
+          "significance": "medium",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "id": "dxl-muse-commercetools-nov23",
+          "category": "ai-merchandising",
+          "title": "DXL puts its big-and-tall catalog in front of Meta's Muse through commercetools",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/dxl-expands-customer-reach-through-metas-ai-agent-muse-with-commercetools-302948173.html",
+          "summary": "Destination XL Group, the largest U.S. specialty retailer of big and tall men's apparel, is making its product catalog discoverable through Meta's Muse using commercetools. The release frames it as a new discovery channel as more shopping journeys start in AI. Specialty and fit-driven brands are a natural fit for agents that match on needs, which puts the premium on size, fit and attribute data that an agent can actually read.",
+          "tags": ["dxl", "meta-muse", "commercetools", "product-data"],
+          "significance": "medium",
+          "publishedAt": "2026-11-23"
+        },
+        {
+          "id": "stripe-link-agent-wallet-80x-nov23",
+          "category": "agentic-commerce",
+          "title": "Stripe says daily spend through Link's agent wallet is nearly 80x its September 1 level, led by travel",
+          "source": "Times of AI",
+          "url": "https://timesof.ai/2026/11/stripe-link-agent-wallet-spend-80x-since-september",
+          "summary": "Stripe chief economist Ernie Tedeschi said daily spending through Link's agent wallet, on a seven-day average, was nearly 80 times its September 1 level by mid-November and had doubled over the past month. Secondary summaries say more than 40% of recent spend went to travel and about a third to retail, and more than half of first-time agent buyers bought again. Stripe gave no dollar base, so read it as direction and speed, not scale, and watch Stripe's promised Black Friday and Cyber Monday updates.",
+          "tags": ["stripe", "link", "agent-wallet", "agent-payments"],
+          "significance": "medium",
+          "publishedAt": "2026-11-22"
+        },
+        {
+          "id": "kaufland-ailora-seller-agents-nov23",
+          "category": "marketing-automation",
+          "title": "Kaufland launches Ailora, a set of AI agents that optimize listings, delivery times and retail media for sellers",
+          "source": "Kaufland Global Marketplace",
+          "url": "https://www.kauflandglobalmarketplace.com/en/2026/11/20/ailora-your-ai-assistant-for-performance-optimisation/",
+          "summary": "Kaufland's Ailora is a system of specialized agents in the seller portal that monitor key figures, flag delivery-time improvements, suggest offers for expansion into other Kaufland countries and can create retail media campaigns on request. In chat, it explains why an offer can't be sold, such as faulty product data or a GPSR breach, and links to the setting to fix it. It follows the same pattern as Amazon and TikTok Shop seller agents: marketplaces now hand sellers a prioritized fix list, which is worth checking before peak.",
+          "tags": ["kaufland", "marketplaces", "seller-agents", "retail-media"],
+          "significance": "medium",
+          "publishedAt": "2026-11-20"
+        },
+        {
+          "id": "shopify-flow-updated-triggers-nov23",
+          "category": "marketing-automation",
+          "title": "Shopify Flow adds eight \"updated\" triggers for orders, customers, refunds, returns, inventory and more",
+          "source": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/flow-new-updated-triggers-for-orders-customers-and-more",
+          "summary": "Shopify Flow now has Customer, Order, Refund, Fulfillment order, Return, Collection, Location and Inventory item updated triggers, each watching up to five fields you choose. That lets a workflow react the moment something changes, such as alerting fulfillment when a shipping address changes or updating a metafield when an item's cost changes, without scheduled workarounds. Before the BFCM rush, a quick win is an order-address-change alert so late edits don't ship to the wrong place.",
+          "tags": ["shopify", "shopify-flow", "automation", "bfcm"],
+          "significance": "medium",
+          "publishedAt": "2026-11-20"
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "headline": "Friday Signal Brief",
