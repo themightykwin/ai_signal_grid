@@ -1,6 +1,115 @@
 {
-  "updatedAt": "2026-11-23T08:00:00-06:00",
+  "updatedAt": "2026-11-24T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-24",
+      "headline": "Tuesday Signal Brief",
+      "lead": "Two days before Thanksgiving, the agent channel stopped being opt-in. Shopify turned agentic checkout on by default for eligible stores selling in ChatGPT, and Meta took Muse to the UK with M&S, ASOS, JD, Currys and Sainsbury's wired in on day one. Behind the storefronts, the plumbing is getting written down: PayPal's agentic virtual card terms took effect, and Google added a product attribute so warnings show up in agent checkout. The job this week is less about whether to sell through agents and more about checking what you've already agreed to.",
+      "items": [
+        {
+          "id": "shopify-chatgpt-agentic-checkout-default-nov24",
+          "category": "agentic-commerce",
+          "title": "Shopify renames direct checkout to agentic checkout and turns it on for ChatGPT by default for eligible stores",
+          "source": "Shopify Changelog",
+          "url": "https://changelog.shopify.com/posts/manage-whether-ai-agents-can-buy-your-products-for-shoppers-through-chatgpt",
+          "summary": "Agentic checkout, formerly direct checkout, now covers ChatGPT, so the agent can buy your products for shoppers through your own Shopify checkout and the orders land in your admin as usual. For eligible stores it is enabled by default when Manage for me or Automatically enable new channels is on, while existing opt-outs still apply. Check your ChatGPT settings in Agentic Storefronts before Black Friday, and make sure prices, shipping rules and stock are clean enough for an order you never saw coming.",
+          "tags": [
+            "shopify",
+            "chatgpt",
+            "agentic-checkout",
+            "agentic-storefronts",
+            "black-friday"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-23"
+        },
+        {
+          "id": "meta-muse-uk-launch-retailers-nov24",
+          "category": "agentic-commerce",
+          "title": "Meta launches Muse in the UK with Marks & Spencer, ASOS, JD, Currys, Debenhams and Sainsbury's as launch partners",
+          "source": "Meta Newsroom",
+          "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/",
+          "summary": "Muse is now available to adults in the UK on iOS, Android, muse.ai and WhatsApp, and it asks before it makes a purchase. Retailers including Marks & Spencer, Debenhams Group, ASOS, Currys and JD signed on as launch connector partners, and Sainsbury's says shoppers can have Muse build a weekly basket around a budget or meal plan using its offers. For brands selling into the UK, the first wave of agent shelf space is going to retailers that integrated early, so it is worth asking your marketplaces and platforms when you can get in.",
+          "tags": [
+            "meta",
+            "muse",
+            "uk",
+            "retail-partners",
+            "agent-shopping"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "id": "gopuff-meta-muse-groceries-nov24",
+          "category": "agentic-commerce",
+          "title": "Gopuff plugs its live inventory into Meta's Muse so shoppers can order groceries from a chat in as little as 15 minutes",
+          "source": "Fox Business",
+          "url": "https://www.foxbusiness.com/fox-news-food-drink/metas-muse-can-now-shop-groceries-through-gopuff-deliver-minutes",
+          "summary": "Gopuff and Meta launched a direct integration that lets Muse users browse, build and approve orders from more than 5,000 groceries and household items. The connection reads Gopuff's live inventory, pricing, promotions and delivery times instead of sending shoppers to a separate app. It shows what agents need from a merchant to be useful: real-time stock and promo data, not just a product feed.",
+          "tags": [
+            "gopuff",
+            "meta-muse",
+            "grocery",
+            "quick-commerce",
+            "live-inventory"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "id": "paypal-agentic-virtual-card-terms-nov24",
+          "category": "agentic-commerce",
+          "title": "PayPal's terms for agentic virtual card payments take effect, putting acceptance costs and chargebacks on merchants' normal card setup",
+          "source": "PYMNTS",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/paypal-sets-virtual-card-rules-for-agentic-commerce/",
+          "summary": "PayPal Checkout Agentic Virtual Card terms took effect November 23 for eligible U.S. business accounts. When a buyer pays with PayPal through an agent service, PayPal may hand the agent a virtual card, and the merchant's checkout setup and card processor agreement decide how that card and any chargeback settle. The merchant also pays the card fees and interchange, so finance teams should expect some PayPal-funded agent orders to show up as card transactions.",
+          "tags": [
+            "paypal",
+            "virtual-card",
+            "agent-payments",
+            "chargebacks",
+            "payments"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-23"
+        },
+        {
+          "id": "google-merchant-center-consumer-notice-nov24",
+          "category": "ai-merchandising",
+          "title": "Google Merchant Center adds a consumer_notice attribute so safety warnings and Prop 65 notices show in agent checkout",
+          "source": "Useryze News",
+          "url": "https://www.useryze.com/news/google-merchant-center-consumer-notice-attribute-prop-65-safety-warnings-ai-checkout",
+          "summary": "A new consumer_notice product attribute lets sellers attach a legal disclaimer, safety warning or California Prop 65 notice that Google displays in the checkout flow on its UCP agent surfaces. Google has not announced it on its blog, and Useryze notes Google's own pages disagree on whether it is required. If you sell products that carry warnings, add them to your feed now rather than finding out after an agent checkout goes through without them.",
+          "tags": [
+            "google",
+            "merchant-center",
+            "ucp",
+            "product-feed",
+            "compliance"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-23"
+        },
+        {
+          "id": "attentive-mcp-snowflake-nov24",
+          "category": "marketing-automation",
+          "title": "Attentive launches its MCP server on Snowflake Marketplace so AI tools can build campaigns and segments alongside company data",
+          "source": "Attentive",
+          "url": "https://www.attentive.com/press-releases/attentive-mcp-launches-on-snowflake-marketplace",
+          "summary": "Attentive MCP lets marketers use Snowflake's AI tools and plain-language prompts to pull campaign and journey performance, manage segments, build and edit campaigns, draft copy and retrieve brand assets. Access runs through Snowflake's role-based controls, so admins decide who can use which tools. For brands already on Snowflake, it means SMS and email targeting can draw on sales and customer data without an export step.",
+          "tags": [
+            "attentive",
+            "snowflake",
+            "mcp",
+            "sms-marketing",
+            "segmentation"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-23"
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "headline": "Monday Signal Brief",
