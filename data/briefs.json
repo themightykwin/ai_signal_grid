@@ -1,6 +1,135 @@
 {
-  "updatedAt": "2026-11-24T08:00:00-06:00",
+  "updatedAt": "2026-11-25T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-25",
+      "headline": "Wednesday Signal Brief",
+      "lead": "The day's pattern is that AI shopping is moving into the places where shoppers already find products, and the platforms are starting to say how it gets ranked and counted. Meta put its Muse agent inside Instagram and began testing it on ads. Google published how its AI answers choose and credit websites, and announced a December core update in advance. Adobe and First Insight both show more people using AI to find products, which helps smaller brands with clean, complete listings.",
+      "items": [
+        {
+          "id": "google-ranking-principles-ai-overviews-december-core-update-nov25",
+          "category": "ai-foundations",
+          "title": "Google publishes how it ranks results and how AI Overviews pick sources, and gives advance notice of a December core update",
+          "source": "PPC Land",
+          "url": "https://ppc.land/google-publishes-its-search-ranking-principles-23-days-before-a-uk-deadline/",
+          "summary": "On November 24 Google published a ranking principles page saying web listings and AI Overviews are judged by the same usefulness test, with no result getting preferential treatment. A second new page explains how AI Overviews and AI Mode choose and cite the pages they link to. The same morning Google gave advance notice of a broad ranking update for December 2026, ahead of UK fair-ranking rules that take effect December 17. Benchmark organic traffic to your product and collection pages now, and read the new AI attribution page to see what earns a citation.",
+          "tags": [
+            "google",
+            "seo",
+            "ai-overviews",
+            "ai-mode",
+            "core-update",
+            "cma"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-25"
+        },
+        {
+          "id": "meta-muse-instagram-ads-post-ad-actions-test-nov24",
+          "category": "agentic-commerce",
+          "title": "Meta starts testing its Muse agent on ads so people can save, set a reminder, buy or fill in a form after seeing an ad",
+          "source": "MediaPost",
+          "url": "https://www.mediapost.com/publications/article/419654/meta-tests-how-muse-drives-post-ad-actions.html",
+          "summary": "Meta launched a limited beta that adds Muse to the ads experience, so a viewer who isn't ready to buy can have the agent save the item, set a reminder, make a purchase or complete a form. It is a small test in the US and Canada with people who already downloaded Muse, and it arrived alongside Muse in Instagram DMs and new Save and Share entry points. Expect some orders and leads to arrive later than your usual attribution window, and make sure product pages, prices and stock are accurate for an agent to act on.",
+          "tags": [
+            "meta",
+            "muse",
+            "instagram",
+            "ads",
+            "attribution",
+            "agentic-commerce"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "id": "adobe-ai-referred-retail-traffic-127-percent-nov25",
+          "category": "agentic-commerce",
+          "title": "Adobe says AI-referred visits to US retail sites are up 127% this holiday season, with a 159% jump expected on Thanksgiving",
+          "source": "Digital Commerce 360",
+          "url": "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/",
+          "summary": "Adobe Analytics counted more than $82.5 billion in US online spending from Nov. 1 through Nov. 22, up 9.1% year over year. AI-referred visits to US retail sites are up 127% so far this season, and Adobe expects 110% growth over the Cyber 5, peaking at 159% on Thanksgiving. Set up a separate AI-referral segment in your analytics before Thursday so you can see how much of your Cyber 5 traffic and revenue comes from AI assistants.",
+          "tags": [
+            "adobe",
+            "holiday",
+            "ai-traffic",
+            "cyber-5",
+            "analytics"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-25"
+        },
+        {
+          "id": "first-insight-64-percent-buy-unknown-brand-ai-nov24",
+          "category": "ai-merchandising",
+          "title": "First Insight survey: 64% of holiday shoppers would buy from a brand they've never heard of if AI recommended it",
+          "source": "Chain Store Age",
+          "url": "https://chainstoreage.com/survey-consumers-open-buying-ai-recommended-products-unknown-brands",
+          "summary": "In First Insight's survey of 1,164 US consumers, 64% said they would buy a gift from an unfamiliar brand if AI recommended it, rising to 74% among Gen Z. Overall, 41% plan to use AI to research holiday purchases, compared with 53% who will use social media. For smaller brands, AI recommendations can win sales without brand awareness, so make sure product titles, specs and use cases clearly match the way shoppers describe what they want.",
+          "tags": [
+            "survey",
+            "holiday",
+            "gen-z",
+            "ai-discovery",
+            "small-brands"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "id": "profound-amazon-pdp-integration-ai-listings-nov24",
+          "category": "ai-merchandising",
+          "title": "Profound connects to Amazon Seller Central so its AI agents can rewrite listings for AI search",
+          "source": "Profound",
+          "url": "https://www.tryprofound.com/blog/introducing-the-amazon-pdp-integration-in-profound",
+          "summary": "Profound's new Amazon integration lets its Aim assistant and its Agents write listing updates straight to Seller Central, with an Amazon PDP Optimizer template that drafts copy within Amazon's character limits. Profound cites its own research that Amazon appeared in 48.4% of AI answers to Black Friday shopping prompts, and that 88% of ChatGPT Shopping offers it studied came from product pages. Whatever tool you use, check that your Amazon bullets answer the questions shoppers ask AI, and keep a human approval step before anything is published.",
+          "tags": [
+            "amazon",
+            "listings",
+            "ai-search",
+            "pdp",
+            "profound"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "id": "sellforte-mcp-incrementality-ad-agents-nov24",
+          "category": "marketing-automation",
+          "title": "Sellforte makes its MCP server generally available so AI assistants can see incremental ROAS by campaign and ad set",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/sellforte-mcp-now-generally-available-bringing-incrementality-to-ad-optimization-agents-302948340.html",
+          "summary": "Sellforte MCP brings incremental and marginal ROAS for every campaign and ad set into Claude, ChatGPT and other assistants, so agents can recommend budget moves based on incrementality rather than platform-reported ROAS. Finnish Design Shop and its agency Intentio used it to answer 1 000+ incrementality questions in Claude in 11 weeks, and it is included for Sellforte customers at no extra cost. If you let AI suggest budget changes, give it an independent measurement source instead of each ad platform's own numbers.",
+          "tags": [
+            "mcp",
+            "incrementality",
+            "measurement",
+            "ad-optimization",
+            "claude"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "id": "pine-labs-marketer-agent-guide-smb-nov25",
+          "category": "marketing-automation",
+          "title": "Pine Labs launches Guide and Marketer Agent, which build and publish Google ad campaigns for India's small merchants",
+          "source": "Pine Labs",
+          "url": "https://www.pinelabs.com/media-analyst/pine-labs-extends-agentic-org-platform-with-guide-and-marketer-agent-for-indias-smbs",
+          "summary": "Pine Labs added two agents to its merchant app: Guide answers questions about sales, settlements and refunds in plain language, and Marketer Agent turns a business goal into a full Google campaign, from keywords to creative to targeting. Merchants approve campaigns before any spend is committed, and Pine Labs plans an agent app store in India by December 15. It shows payment processors starting to sell ad-running agents tied to real transaction data; if your processor offers one, compare its attribution with what your ad platforms report.",
+          "tags": [
+            "pine-labs",
+            "india",
+            "google-ads",
+            "smb",
+            "payments",
+            "agents"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-11-25"
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "headline": "Tuesday Signal Brief",
