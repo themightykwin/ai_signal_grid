@@ -1,6 +1,101 @@
 {
-  "updatedAt": "2026-11-25T08:00:00-06:00",
+  "updatedAt": "2026-11-26T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-26",
+      "headline": "Thursday Signal Brief",
+      "lead": "On Thanksgiving morning, the agent channel is busier than the agent checkout. Human Security expects agent traffic to retail sites to jump 150-fold this Cyber Week, with Meta's Muse behind most of it, and Amazon is now reportedly negotiating with Meta over how Muse could get in. Yet surveys still show only a small share of shoppers will let an agent pay. On the ads side, Google gave Performance Max advertisers new controls for exactly this kind of peak week.",
+      "items": [
+        {
+          "id": "amazon-meta-muse-talks-nov26",
+          "category": "agentic-commerce",
+          "title": "Amazon and Meta are reportedly negotiating to end Amazon's block on the Muse shopping agent, with search results and ads as the sticking points",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/",
+          "summary": "Fortune reports that Amazon and Meta have held multiple talks about connecting Muse to Amazon's store, two months after Amazon blocked the agent in September. The open issues are how Amazon's search results would be handled and whether Muse would bypass Amazon's ads, which are a $68.6 billion business. If a deal lands, brands that sell on Amazon should expect agent shoppers to see Amazon-chosen results with less room for sponsored placements, so organic listing quality matters more.",
+          "tags": [
+            "amazon",
+            "meta",
+            "muse",
+            "ai-agents",
+            "marketplaces",
+            "retail-media"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-25"
+        },
+        {
+          "id": "human-security-cyber-week-agent-traffic-nov26",
+          "category": "agentic-commerce",
+          "title": "Human Security expects AI agent traffic to retail sites to jump 150-fold during Cyber Week, with Muse driving 70% of it",
+          "source": "eMarketer",
+          "url": "https://www.emarketer.com/content/cyber-week-tests-retailers-appetite-ai-agents",
+          "summary": "Data from Human Security, shared with Adweek and summarized by eMarketer, projects agent traffic during Cyber Week (Nov. 26–30) at 150 times last year's level. Meta's Muse accounts for about 70% of agent traffic and more than half of agent requests to checkout and payment pages. At the same time, eMarketer's survey found only 5.7% of US mobile shopping app buyers prefer to shop with a personal AI agent, so decide now how your bot rules treat agents rather than blocking them by default.",
+          "tags": [
+            "ai-agents",
+            "muse",
+            "bot-traffic",
+            "cyber-week",
+            "checkout"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-25"
+        },
+        {
+          "id": "pmax-channel-prioritisation-promotion-mode-nov26",
+          "category": "marketing-automation",
+          "title": "Performance Max adds Channel Prioritisation and a Promotion Mode that can temporarily relax ROAS targets",
+          "source": "PPC News Feed",
+          "url": "https://ppcnewsfeed.com/ppc-news/2026-11/channel-prioritisation-and-promotion-mode-added-to-pmax/",
+          "summary": "New Performance Max campaigns now show two settings in the Budget section. Channel Prioritisation lets advertisers rank Google-owned channels higher and push Display and Search Partners down, and Promotion Mode lets them temporarily adjust ROAS targets and add daily budget during a promotion. For peak weeks, test Promotion Mode on one campaign instead of manually loosening tROAS across the account, and use Channel Prioritisation to keep spend off low-quality inventory.",
+          "tags": [
+            "google-ads",
+            "performance-max",
+            "roas",
+            "budgeting",
+            "promotions"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "id": "ai-mode-ai-overviews-ad-clicks-value-nov26",
+          "category": "marketing-automation",
+          "title": "Search Engine Land analysis: LLM referral traffic converts 61% better than paid search, and conversions are shifting to longer queries",
+          "source": "Search Engine Land",
+          "url": "https://searchengineland.com/google-ai-mode-ai-overviews-ad-clicks-value-502778",
+          "summary": "Google doesn't report ad performance in AI Overviews or AI Mode separately, so the author used proxies from client data. LLM referral traffic converted at 20%, 61% higher than paid search, and one- to two-word queries fell from 42% to 24% of impressions while three- to four-word queries grew to 46% of conversions. Review your search terms for longer, conversational queries and make sure product pages answer the detailed questions those shoppers are asking.",
+          "tags": [
+            "google",
+            "ai-mode",
+            "ai-overviews",
+            "paid-search",
+            "attribution",
+            "ga4"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "id": "ibm-black-friday-agents-checkout-trust-nov26",
+          "category": "agentic-commerce",
+          "title": "IBM: AI agents can now check out for shoppers this Black Friday, but only 16% of US shoppers say they'd let AI complete a purchase",
+          "source": "IBM",
+          "url": "https://www.ibm.com/think/news/black-friday-ai-agents-online-shopping",
+          "summary": "IBM's look at Black Friday notes that ChatGPT Wallet and Meta's Muse can now buy on a shopper's behalf, but only 16% of US shoppers surveyed said they'd let AI finish a purchase. It also points to open questions on liability and returns when an agent orders the wrong quantity, and to merchants setting different rules, from Walmart's agent spending limits to United letting agents look up fares but not buy. Write down your returns and dispute policy for agent-placed orders before volume shows up.",
+          "tags": [
+            "ai-agents",
+            "chatgpt-wallet",
+            "muse",
+            "trust",
+            "returns",
+            "black-friday"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-25"
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "headline": "Wednesday Signal Brief",
