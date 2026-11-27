@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-11-26T08:00:00-06:00",
+  "updatedAt": "2026-11-27T08:00:00-06:00",
   "briefs": [
+    {
+      "date": "2026-11-27",
+      "headline": "Friday Signal Brief",
+      "lead": "The plumbing under shopping agents got busier this week. Meta says Muse is already lifting ad conversions through Instagram saves, Cloudflare gave any site a one-toggle search endpoint for agents, and Anthropic and Google both pushed MCP further into everyday tools, with Google attaching quotas and future fees. Meanwhile Etsy's seller backlash is a reminder that how a platform uses your content for AI is now part of the deal.",
+      "items": [
+        {
+          "id": "meta-muse-instagram-saves-conversions-nov27",
+          "category": "agentic-commerce",
+          "title": "Meta says Muse is already raising ad conversions by turning Instagram saves into shopping lists",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+          "summary": "CNBC reports that Instagram is prompting users to organize their saved posts in Muse, and a source said about 20% of daily Instagram users save at least one post a day, many of them shoppable items or ads. A senior Meta executive said the ad-free agent \"raises conversions for advertisers\" by letting people return to saved items and buy with less friction. For brands on Meta, a save is becoming a bigger signal than a like, so creative that earns saves and product pages an agent can complete deserve more attention.",
+          "tags": [
+            "meta",
+            "muse",
+            "instagram",
+            "ai-agents",
+            "paid-social",
+            "conversion"
+          ],
+          "significance": "high",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "id": "cloudflare-search-for-agents-nov27",
+          "category": "agentic-commerce",
+          "title": "Cloudflare launches Search for Agents, a one-toggle search endpoint AI agents can query on your own domain",
+          "source": "Cloudflare",
+          "url": "https://blog.cloudflare.com/search-for-agents/",
+          "summary": "Turning on Search for Agents for a Cloudflare zone creates an AI Search index of the site and exposes it at /.well-known/search, which returns matching Markdown passages rather than a generated answer. It is available to all customers, including Free with limits, and usage is billed at AI Search rates. Stores that run their own Cloudflare zone can test whether agents find the right products and policies this way, but should watch the query costs that land on the site owner.",
+          "tags": [
+            "cloudflare",
+            "ai-agents",
+            "site-search",
+            "agent-readiness"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-25"
+        },
+        {
+          "id": "anthropic-skills-over-mcp-nov27",
+          "category": "ai-foundations",
+          "title": "Anthropic lets MCP servers ship skills, run background tasks and ask for user sign-off in Claude, with Shopify among the first examples",
+          "source": "Anthropic (Claude)",
+          "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+          "summary": "Skills over MCP is in public beta, so a server can publish step-by-step playbooks alongside its tools; Anthropic says Shopify uses it to help Claude design and update a merchant's store end to end. Tasks (long jobs that run in the background) and Elicitation (a server pausing to ask the user for approval or input) are now generally available. For commerce teams, approval prompts before spending money or deleting data make it more practical to let an agent touch live store and ad accounts.",
+          "tags": [
+            "anthropic",
+            "claude",
+            "mcp",
+            "shopify",
+            "ai-agents"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "id": "google-workspace-mcp-tiers-nov27",
+          "category": "ai-foundations",
+          "title": "Google makes Workspace MCP servers generally available and will require agents to use them, with paid tiers from April 2027",
+          "source": "Google Workspace Updates",
+          "url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
+          "summary": "Google-hosted MCP servers and an official Workspace CLI now let agents work in Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat and Tasks without custom integration code. AI agents must use the MCP servers or CLI instead of calling Workspace REST APIs directly, with enforcement starting February 1, 2027, and projects that pick the higher-quota Scaled tier are charged for usage above free allowances from April 1, 2027. Teams running reporting or ops agents on Sheets and Gmail should check which tier their projects fall into before those dates.",
+          "tags": [
+            "google",
+            "workspace",
+            "mcp",
+            "ai-agents",
+            "operations"
+          ],
+          "significance": "low",
+          "publishedAt": "2026-11-24"
+        },
+        {
+          "id": "merchant-center-ads-opportunities-nov27",
+          "category": "marketing-automation",
+          "title": "Google Merchant Center adds an Ads opportunities tab that shows agencies which client products aren't advertised or get little traffic",
+          "source": "Search Engine Land",
+          "url": "https://searchengineland.com/google-merchant-center-adds-ads-opportunities-tab-for-agencies-503043",
+          "summary": "The new tab in Merchant Center for Agencies shows, across client accounts, products that are approved but not in an active campaign, products with outstanding issues, and products in campaigns that get very few impressions. It also tracks 28-day changes in ad coverage so declining accounts stand out. During Cyber Week it is a quick way to catch eligible products sitting outside Shopping and Performance Max campaigns.",
+          "tags": [
+            "google",
+            "merchant-center",
+            "shopping-ads",
+            "performance-max",
+            "agencies"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-25"
+        },
+        {
+          "id": "etsy-ai-terms-clarified-nov27",
+          "category": "ai-merchandising",
+          "title": "Etsy clarifies its AI terms after seller backlash, saying it won't train models to make copycats of sellers' work",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+          "summary": "After sellers objected to a terms update that appeared to let Etsy train AI on their listings, CEO Kruti Patel Goyal said the company uses seller content for tools like search, shop management, customer support and promotion, not to create copycat items. Some sellers told Ars and The Verge the revision doesn't go far enough and they still plan to leave. Brands selling on marketplaces should read how each platform's terms let it use their photos and descriptions for AI, since that is now a real factor in channel choice.",
+          "tags": [
+            "etsy",
+            "marketplaces",
+            "ai-policy",
+            "sellers"
+          ],
+          "significance": "medium",
+          "publishedAt": "2026-11-25"
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "headline": "Thursday Signal Brief",
